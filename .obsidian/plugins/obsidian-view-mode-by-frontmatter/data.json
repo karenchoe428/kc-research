@@ -1,0 +1,29 @@
+{
+  "debounceTimeout": 300,
+  "ignoreOpenFiles": false,
+  "ignoreForceViewAll": false,
+  "folders": [
+    {
+      "folder": "300_ATLAS/330_🚀projects",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "folder": "300_ATLAS/320_👥people",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "000-🏡Home",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "_⌖dashboard$",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "000-🏡Home_mb",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ]
+}

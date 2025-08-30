@@ -1,0 +1,2856 @@
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="project-taskarchive1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-command;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="project-taskarchive1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="project-taskarchive1"] {
+  --callout-color: 128, 204, 88
+  ; --callout-icon: lucide-command;
+  background-color: rgba(128, 204, 88, 0.05);
+  color: #FCF1F9;                                           /* inside text */
+  border-top: 1px solid #80cc58; border-radius: 0.5rem; padding: 0rem 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="project-taskarchive1"] .callout-title {
+  font-size: 1rem; font-weight: 100; color: #80cc58;
+  margin-bottom: 0rem; border-bottom: none;
+}
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="project-task1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-command;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="project-task1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="project-task1"] {
+  --callout-color: 128, 204, 88
+  ; --callout-icon: lucide-command;
+  background-color: rgba(128, 204, 88, 0.05);
+  color: #FCF1F9;                                           /* inside text */
+  border-top: 1px solid #80cc58; border-radius: 0.5rem; padding: 0rem 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="project-task1"] .callout-title {
+  font-size: 1rem; font-weight: 100; color: #80cc58;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="project-main1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-command;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="project-main1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="project-main1"] {
+  --callout-color: 173, 29, 89
+  ; --callout-icon: lucide-command;
+  background-color: rgba(173, 29, 89, 0.05);
+  color: #FCF1F9;                                           /* inside text */
+  border-top: 1px solid #F56984; border-radius: 0.5rem; padding: 0rem 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="project-main1"] .callout-title {
+  font-size: 1rem; font-weight: 100; color: #F56984;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="zot-title1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-command;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="zot-title1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="zot-title1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-command;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #FCF1F9;                                           /* inside text */
+  border-top: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="zot-title1"] .callout-title {
+  font-size: 1rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="zot-status1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-command;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="zot-status1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="zot-status1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-command;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #fcc7ed;                                           /* inside text */
+  border-left: 1px solid #632A52; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="zot-status1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* LIGHT */
+.theme-light .callout[data-callout="zot-image1"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent;
+  color: #ffffff;
+  border-left: 1px dotted #D4FF48;
+  border-top: .05px dotted #8AA62E;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  box-shadow: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.theme-light .callout[data-callout="zot-image1"] .callout-title,
+.theme-light .callout[data-callout="zot-image1"] .callout-title * {
+  all: unset;
+  font-family: "Fira Code","Consolas","Courier New",monospace !important;
+  font-size: 0.9rem !important;
+  font-weight: normal !important;
+  color: #48FFE6 !important;
+  line-height: 1;
+}
+
+/* Shared image rules */
+.callout[data-callout="zot-image1"] .callout-content img,
+.callout[data-callout="zot-image1"] .internal-embed.image-embed img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* Preview when collapsed */
+.callout.is-collapsible.is-collapsed[data-callout="zot-image1"] .callout-content {
+  display: grid !important;        /* override Obsidian's display:none */
+  place-items: center;
+  height: 220px;
+  max-height: 220px !important;
+  overflow: auto;
+  padding: 0.5rem 0;
+}
+
+/* Full when expanded */
+.callout.is-collapsible:not(.is-collapsed)[data-callout="zot-image1"] .callout-content {
+  display: block;
+  height: auto;
+  max-height: none;
+  overflow: visible;
+}
+
+/* Optional: base centering if not collapsible */
+.callout[data-callout="zot-image1"] .callout-content {
+  display: grid;
+  place-items: center;
+  height: 220px;
+  overflow: auto;
+}
+
+/* DARK */
+.theme-dark .callout[data-callout="zot-image1"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent;
+  color: #ffffff;
+  border-left: 0px solid #585D9C;
+  border-top: 0px solid #585D9C;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  box-shadow: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.theme-dark .callout[data-callout="zot-image1"] .callout-title,
+.theme-dark .callout[data-callout="zot-image1"] .callout-title * {
+  all: unset;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 1.5rem !important;
+  font-weight: normal !important;
+  color: #585D9C !important;
+}
+/* Shared image rules */
+.callout[data-callout="zot-image1"] .callout-content img,
+.callout[data-callout="zot-image1"] .internal-embed.image-embed img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* Preview when collapsed */
+.callout.is-collapsible.is-collapsed[data-callout="zot-image1"] .callout-content {
+  display: grid !important;        /* override Obsidian's display:none */
+  place-items: center;
+  height: 220px;
+  max-height: 220px !important;
+  overflow: auto;
+  padding: 0.5rem 0;
+}
+
+/* Full when expanded */
+.callout.is-collapsible:not(.is-collapsed)[data-callout="zot-image1"] .callout-content {
+  display: block;
+  height: auto;
+  max-height: none;
+  overflow: visible;
+}
+
+/* Optional: base centering if not collapsible */
+.callout[data-callout="zot-image1"] .callout-content {
+  display: grid;
+  place-items: center;
+  height: 220px;
+  overflow: auto;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+
+.theme-light .callout[data-callout="zot-purple"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px dotted #D4FF48;
+  border-top: .05px dotted #8AA62E;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-light .callout[data-callout="zot-purple"] .callout-title,
+.theme-light .callout[data-callout="zot-purple"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: "Fira Code", "Consolas", "Courier New", monospace !important;
+  font-size: 0.9rem !important;
+  font-weight: normal !important;
+  color: #48FFE6 !important;
+  line-height: 1;
+}
+
+
+
+/* 🌠🌠🌠 Dark mode */
+
+.theme-dark .callout[data-callout="zot-purple"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px solid #8D6DE5;
+  border-top: 2px solid #8D6DE5;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-dark .callout[data-callout="zot-purple"] .callout-title,
+.theme-dark .callout[data-callout="zot-purple"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: 'JetBrains Mono', monospace;  
+  font-size: 1.5rem !important;
+  font-weight: normal !important;
+  color: #8D6DE5 !important;
+  line-height: ;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+
+.theme-light .callout[data-callout="zot-magenta"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px dotted #D4FF48;
+  border-top: .05px dotted #8AA62E;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-light .callout[data-callout="zot-magenta"] .callout-title,
+.theme-light .callout[data-callout="zot-magenta"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: "Fira Code", "Consolas", "Courier New", monospace !important;
+  font-size: 0.9rem !important;
+  font-weight: normal !important;
+  color: #48FFE6 !important;
+  line-height: 1;
+}
+
+
+
+/* 🌠🌠🌠 Dark mode */
+
+.theme-dark .callout[data-callout="zot-magenta"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px solid #E540DB;
+  border-top: 2px solid #E540DB;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-dark .callout[data-callout="zot-magenta"] .callout-title,
+.theme-dark .callout[data-callout="zot-magenta"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: 'JetBrains Mono', monospace;  
+  font-size: 1.5rem !important;
+  font-weight: normal !important;
+  color: #E540DB !important;
+  line-height: ;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+
+.theme-light .callout[data-callout="zot-green"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px dotted #D4FF48;
+  border-top: .05px dotted #8AA62E;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-light .callout[data-callout="zot-green"] .callout-title,
+.theme-light .callout[data-callout="zot-green"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: "Fira Code", "Consolas", "Courier New", monospace !important;
+  font-size: 0.9rem !important;
+  font-weight: normal !important;
+  color: #48FFE6 !important;
+  line-height: 1;
+}
+
+
+
+/* 🌠🌠🌠 Dark mode */
+
+.theme-dark .callout[data-callout="zot-green"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px solid #4AC31C;
+  border-top: 2px solid #4AC31C;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-dark .callout[data-callout="zot-green"] .callout-title,
+.theme-dark .callout[data-callout="zot-green"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: 'JetBrains Mono', monospace;  
+  font-size: 1.5rem !important;
+  font-weight: normal !important;
+  color: #4AC31C !important;
+  line-height: ;
+}
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+
+.theme-light .callout[data-callout="zot-blue"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px dotted #D4FF48;
+  border-top: .05px dotted #8AA62E;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-light .callout[data-callout="zot-blue"] .callout-title,
+.theme-light .callout[data-callout="zot-blue"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: "Fira Code", "Consolas", "Courier New", monospace !important;
+  font-size: 0.9rem !important;
+  font-weight: normal !important;
+  color: #48FFE6 !important;
+  line-height: 1;
+}
+
+
+
+/* 🌠🌠🌠 Dark mode */
+
+.theme-dark .callout[data-callout="zot-blue"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px solid #409FE5;
+  border-top: 2px solid #409FE5;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-dark .callout[data-callout="zot-blue"] .callout-title,
+.theme-dark .callout[data-callout="zot-blue"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: 'JetBrains Mono', monospace;  
+  font-size: 1.5rem !important;
+  font-weight: normal !important;
+  color: #409FE5 !important;
+  line-height: ;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+
+/* ☀️☀️☀️ Light mode */
+
+.theme-light .callout[data-callout="zot-comment2"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px dotted #D4FF48;
+  border-top: .05px dotted #8AA62E;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-light .callout[data-callout="zot-comment2"] .callout-title,
+.theme-light .callout[data-callout="zot-comment2"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: "Fira Code", "Consolas", "Courier New", monospace !important;
+  font-size: 0.9rem !important;
+  font-weight: normal !important;
+  color: #48FFE6 !important;
+  line-height: 1;
+}
+
+
+
+/* 🌠🌠🌠 Dark mode */
+
+.theme-dark .callout[data-callout="zot-comment2"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px dotted #48FFE6;
+  border-top: .0px dotted #48FFE6;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-dark .callout[data-callout="zot-comment2"] .callout-title,
+.theme-dark .callout[data-callout="zot-comment2"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: "Fira Code", "Consolas", "Courier New", monospace !important;
+  font-size: 0.9rem !important;
+  font-weight: normal !important;
+  color: #48FFE6 !important;
+  line-height: 1;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+
+.theme-light .callout[data-callout="zot-comment1"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 1px dotted #D4FF48;
+  border-top: .05px dotted #8AA62E;
+  border-radius: 0.9rem;
+  padding: 0rem 1rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-light .callout[data-callout="zot-comment1"] .callout-title,
+.theme-light .callout[data-callout="zot-comment1"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: "Fira Code", "Consolas", "Courier New", monospace !important;
+  font-size: 0.9rem !important;
+  font-weight: normal !important;
+  color: #D4FF48 !important;
+  line-height: 1;
+}
+
+
+
+/* 🌠🌠🌠 Dark mode */
+
+.theme-dark .callout[data-callout="zot-comment1"] {
+  --callout-color: 172, 180, 242;
+  --callout-icon: lucide-message-circle-more;
+  background: transparent; /* no block color */
+  color: #ffffff;
+  border-left: 0px dotted #D4FF48;
+  border-top: 0px dotted #8AA62E;
+  border-radius: 0.9rem;
+  padding: .03rem 1rem 1rem  .03rem;
+  font-family: ;
+  font-size: 0.9rem;
+  box-shadow: none;
+}
+.theme-dark .callout[data-callout="zot-comment1"] .callout-title,
+.theme-dark .callout[data-callout="zot-comment1"] .callout-title * {
+  all: unset;                        /* strip inherited heading styles */
+  font-family: "Fira Code", "Consolas", "Courier New", monospace !important;
+  font-size: 0.9rem !important;
+  font-weight: normal !important;
+  color: #D4FF48 !important;
+  line-height: 1;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="topic-box1"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-sprout;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #9fd99e; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="topic-box1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #4d8c4c;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="topic-box1"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-sprout;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #4d8c4c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="topic-box1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #aabd57;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="topic-navi1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-sun;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="topic-navi1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="topic-navi1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-sun;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #fcc7ed;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="topic-navi1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="evergreen-box1"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-sprout;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #9fd99e; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="evergreen-box1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #4d8c4c;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="evergreen-box1"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-sprout;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #4d8c4c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="evergreen-box1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #aabd57;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="evergreen-navi1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-sun;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="evergreen-navi1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="evergreen-navi1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-sun;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #fcc7ed;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="evergreen-navi1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="atomic-box1"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-sprout;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #9fd99e; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="atomic-box1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #4d8c4c;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="atomic-box1"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-sprout;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #4d8c4c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="atomic-box1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #aabd57;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="atomic-navi1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-sun;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="atomic-navi1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="atomic-navi1"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-sun;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #fcc7ed;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="atomic-navi1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+
+
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="people2341"] {
+  --callout-color: 237, 204, 114
+  ; --callout-icon: lucide-file-user;
+  background: linear-gradient(135deg, rgba(237, 204, 114, 0.05), rgba(237, 204, 114, 0.05));
+  color: #000000;
+  border: 1px solid #f5b800; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="people2341"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f5b800;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="people2341"] {
+  --callout-color: 237, 204, 114
+  ; --callout-icon: lucide-file-user;
+  background: linear-gradient(135deg, rgba(237, 204, 114, 0.05), rgba(237, 204, 114, 0.05));
+  color: #f7d672;
+  border: 1px solid #f5b800; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="people2341"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f5b800;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="projectlk234"] {
+  --callout-color: 107, 125, 156
+  ; --callout-icon: lucide-folder-kanban;
+  background-color: rgba(107, 125, 156, 0.05);
+  color: #6b7d9c;                                           /* inside text */
+  border: 1px solid #6b7d9c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="projectlk234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #243d69;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="projectlk234"] {
+  --callout-color: 107, 125, 156
+  ; --callout-icon: lucide-folder-kanban;
+  background-color: rgba(107, 125, 156, 0.05);
+  color: #6b7d9c;                                           /* inside text */
+  border: 1px solid #6b7d9c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="projectlk234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #7490c2;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="tasko234"] {
+  --callout-color: 237, 204, 114
+  ; --callout-icon: lucide-circle-check;
+  background: linear-gradient(135deg, rgba(237, 204, 114, 0.05), rgba(237, 204, 114, 0.05));
+  color: #000000;
+  border: 1px solid #e07096; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="tasko234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #e07096;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="tasko234"] {
+  --callout-color: 237, 204, 114
+  ; --callout-icon: lucide-circle-check;
+  background: linear-gradient(135deg, rgba(237, 204, 114, 0.05), rgba(237, 204, 114, 0.05));
+  color: #f7d672;
+  border: 1px solid #e07096; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="tasko234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #e07096;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="meeting242234"] {
+  --callout-color: 107, 125, 156
+  ; --callout-icon: presentation;
+  background-color: rgba(107, 125, 156, 0.05);
+  color: #6b7d9c;                                           /* inside text */
+  border: 1px solid #6b7d9c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="meeting242234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #243d69;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="meeting242234"] {
+  --callout-color: 107, 125, 156
+  ; --callout-icon: presentation;
+  background-color: rgba(107, 125, 156, 0.05);
+  color: #6b7d9c;                                           /* inside text */
+  border: 1px solid #6b7d9c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="meeting242234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #7490c2;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="zotmeta9234"] {
+  --callout-color: 107, 125, 156
+  ; --callout-icon: lucide-album;
+  background-color: rgba(107, 125, 156, 0.05);
+  color: #6b7d9c;                                           /* inside text */
+  border: 1px solid #6b7d9c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="zotmeta9234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #243d69;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="zotmeta9234"] {
+  --callout-color: 107, 125, 156
+  ; --callout-icon: lucide-album;
+  background-color: rgba(107, 125, 156, 0.05);
+  color: #6b7d9c;                                           /* inside text */
+  border: 1px solid #6b7d9c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="zotmeta9234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #7490c2;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="zottables"] {
+  --callout-color: 107, 125, 156
+  ; --callout-icon: lucide-album;
+  background-color: rgba(107, 125, 156, 0.05);
+  color: #6b7d9c;                                           /* inside text */
+  border: 1px solid #6b7d9c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="zottables"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #243d69;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="zottables"] {
+  --callout-color: 107, 125, 156
+  ; --callout-icon: lucide-album;
+  background-color: rgba(107, 125, 156, 0.05);
+  color: #6b7d9c;                                           /* inside text */
+  border: 1px solid #6b7d9c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="zottables"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #7490c2;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="evergreenlk234"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-tree-pine;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #9fd99e; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="evergreenlk234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #4d8c4c;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="evergreenlk234"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-tree-pine;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #4d8c4c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="evergreenlk234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #aabd57;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="topic1"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-mountain-snow;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #9fd99e; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="topic1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #4d8c4c;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="topic1"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-mountain-snow;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #4d8c4c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="topic1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #aabd57;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="resource1"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-wrench;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #9fd99e; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="resource1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #4d8c4c;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="resource1"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-wrench;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #4d8c4c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="resource1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #aabd57;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="journalk23s"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-notebook-pen;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #9fd99e; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="journalk23s"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #4d8c4c;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="journalk23s"] {
+  --callout-color: 170, 189, 87
+  ; --callout-icon: lucide-notebook-pen;
+  background-color: rgba(159, 217, 158, 0.05);
+  color: #9fd99e;                                           /* inside text */
+  border: 1px solid #4d8c4c; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="journalk23s"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #aabd57;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="periodicall2k34"] {
+  --callout-color: 151, 103, 168
+  ; --callout-icon: lucide-calendar;
+  background-color: rgba(151, 103, 168, 0.05);
+  color: #9767a8;                                           /* inside text */
+  border: 1px solid #9767a8; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="periodicall2k34"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="periodicall2k34"] {
+  --callout-color: 151, 103, 168
+  ; --callout-icon: lucide-calendar;
+  background-color: rgba(151, 103, 168, 0.05);
+  color: #9767a8;                                           /* inside text */
+  border: 1px solid #9767a8; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="periodicall2k34"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="truehome1lk42"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-sun;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px dashed #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="truehome1lk42"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="truehome1lk42"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-sun;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #fcc7ed;                                           /* inside text */
+  border: 1px dashed #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="truehome1lk42"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="homelk42"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-sun;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="homelk42"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="homelk42"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-sun;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #fcc7ed;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="homelk42"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="pink2l34"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-command;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #6b4260;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="pink2l34"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="pink2l34"] {
+  --callout-color: 245, 105, 203
+  ; --callout-icon: lucide-command;
+  background-color: rgba(245, 105, 203, 0.05);
+  color: #fcc7ed;                                           /* inside text */
+  border: 1px solid #f569cb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="pink2l34"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f569cb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="greykajf234"] {
+  --callout-color: 107, 125, 156
+  ; --callout-icon: lucide-command;
+  background-color: rgba(107, 125, 156, 0.05);
+  color: #778287;                                           /* inside text */
+  border: 1px solid #778287; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="greykajf234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #778287;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="greykajf234"] {
+  --callout-color: 107, 125, 156
+  ; --callout-icon: lucide-command;
+  background-color: rgba(107, 125, 156, 0.05);
+  color: #778287;                                           /* inside text */
+  border: 1px solid #778287; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="greykajf234"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #778287;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="orangelk24"] {
+  --callout-color: 237, 204, 114
+  ; --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(237, 204, 114, 0.05), rgba(237, 204, 114, 0.05));
+  color: #000000;
+  border: 1px solid #f5b800; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="orangelk24"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f5b800;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="orangelk24"] {
+  --callout-color: 237, 204, 114
+  ; --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(237, 204, 114, 0.05), rgba(237, 204, 114, 0.05));
+  color: #f7d672;
+  border: 1px solid #f5b800; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-dark .callout[data-callout="orangelk24"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #f5b800;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="grey1lj42"] {
+  --callout-color: 172, 180, 242
+  ; --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(52, 131, 235, 0.05), rgba(52, 131, 235, 0.05));
+  color: #000000;
+  border: 1px solid #3483eb; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="grey1lj42"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #3483eb;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="grey1lj42"] {
+  --callout-color: 172, 180, 242
+  ; --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(52, 131, 235, 0.05), rgba(52, 131, 235, 0.05));
+  color: #ffffff;
+  border: 1px solid #87baff; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+.theme-dark .callout[data-callout="grey1lj42"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #87baff;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+
+
+
+
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="green11k42"] {
+  --callout-color:123, 201, 101
+  ; --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(123, 201, 101,0.35), rgba(247, 245, 111,0.35));
+  color: #000;
+  border-left: 4px solid #7bc965;               /* 🟡 left line */
+  border-radius: 0.5rem;
+  padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+.theme-light .callout[data-callout="green11k42"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #25421a;
+  margin-bottom: 0rem;
+  border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="green11k42"] {
+  --callout-color:123, 201, 101
+  ; --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(123, 201, 101,0.35), rgba(247, 245, 111,0.35));
+  color: #ffffff;
+  border-left: 4px solid #7bc965;               /* 🟡 left line */
+  border-radius: 0.5rem;
+  padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+.theme-dark .callout[data-callout="green11k42"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #7bc965;
+  margin-bottom: 0rem;
+  border-bottom: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ☀️☀️☀️ Light mode */
+.theme-light .callout[data-callout="greenk4l2"] {
+  --callout-color: 155, 209, 130
+  ; --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(128, 201, 99, 0.05), rgba(128, 201, 99, 0.05));
+  color: #000000;
+  border: 1px solid #80c963; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+.theme-light .callout[data-callout="greenk4l2"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #80c963;
+  margin-bottom: 0rem; border-bottom: none;
+}
+
+/* 🌠🌠🌠 Dark mode */
+.theme-dark .callout[data-callout="greenk4l2"] {
+  --callout-color: 155, 209, 130
+  ; --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(128, 201, 99, 0.05), rgba(128, 201, 99, 0.05));
+  color: #ffffff;
+  border: 1px solid #80c963; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+.theme-dark .callout[data-callout="greenk4l2"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #80c963;
+  margin-bottom: 0rem;
+  border-bottom: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 🟥 callout ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️ Light Mode */
+.theme-light .callout[data-callout="pplproject_knowledge"] {
+  --callout-color: #87fff3;   --callout-icon: lucide-shell;  
+  background: linear-gradient(90deg, #d3dfeb, #d3dfeb);
+  color: #000000; /* body text */
+  padding: 0rem 1rem; border-radius: 0.5rem; border-left: 4px solid #608f94; box-shadow: 0 2px 6px #00000026; /* ~15% opacity black */
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;}
+.theme-light .callout[data-callout="pplproject_knowledge"] 
+.callout-title {  font-size: 1.2rem; font-weight: 100; color: #000000;
+  border-bottom: none; margin-bottom: 0rem;}
+
+
+/* 🌙 Dark Mode */
+.theme-dark .callout[data-callout="pplproject_knowledge"] {
+  --callout-color: #87fff3;   --callout-icon: lucide-shell;  
+  background: linear-gradient(135deg, #5c5380, #6069db);
+  color: #608f94; /* body text */
+  border-left: 4px solid #608f94; border-radius: 0.5rem; padding: 0rem 1rem; box-shadow: 0 2px 8px #00000040; /* ~25% opacity black */
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;}
+.theme-dark .callout[data-callout="pplproject_knowledge"] 
+.callout-title {  font-size: 1.2rem; font-weight: 100; color: #000000;
+  border-bottom: none; margin-bottom: 0rem;}
+
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 🟥 callout ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ☀️ Light Mode */
+.theme-light .callout[data-callout="charcoal2"] {
+  --callout-color: #87fff3;   --callout-icon: lucide-shell;  
+  background: linear-gradient(90deg, #d3dfeb, #d3dfeb);
+  color: #000000; /* body text */
+  padding: 0rem 1rem; border-radius: 0.5rem; border-left: 4px solid #608f94; box-shadow: 0 2px 6px #00000026; /* ~15% opacity black */
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;}
+.theme-light .callout[data-callout="charcoal2"] 
+.callout-title {  font-size: 1.2rem; font-weight: 100; color: #000000;
+  border-bottom: none; margin-bottom: 0rem;}
+
+
+/* 🌙 Dark Mode */
+.theme-dark .callout[data-callout="charcoal2"] {
+  --callout-color: #87fff3;   --callout-icon: lucide-shell;  
+  background: linear-gradient(135deg, #5c5380, #6069db);
+  color: #608f94; /* body text */
+  border-left: 4px solid #608f94; border-radius: 0.5rem; padding: 0rem 1rem; box-shadow: 0 2px 8px #00000040; /* ~25% opacity black */
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;}
+.theme-dark .callout[data-callout="charcoal2"] 
+.callout-title {  font-size: 1.2rem; font-weight: 100; color: #000000;
+  border-bottom: none; margin-bottom: 0rem;}
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 🟥 callout ~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.theme-light .callout[data-callout="atomic1"] {
+  --callout-color: 148, 140, 186; --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(92, 83, 128, 0.25), rgba(96, 105, 219, 0.25));
+  color: #2d2c35;
+  border-left: 4px solid #4a416e; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);}
+.theme-light .callout[data-callout="atomic1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100; color: #7b6db5;
+  border-bottom: 0px solid #ffe96e; margin-bottom: 0rem;}
+
+.theme-dark .callout[data-callout="atomic1"] {
+  --callout-color: 148, 140, 186; --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(92, 83, 128, 0.35), rgba(96, 105, 219, 0.35));
+  color: #e0dff3;
+  border-left: 4px solid #4a416e; border-radius: 0.5rem; padding: 0rem 1rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);}
+.theme-dark .callout[data-callout="atomic1"] .callout-title {
+  font-size: 1.2rem; font-weight: 100;
+  color: #9c8fd1;
+  border-bottom: 0px solid #ffe96e; margin-bottom: 0rem;}
+
+
+
+
+
+
+
+
+
+.callout[data-callout="evergreen1"] {
+  --callout-color:123, 201, 101;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-book-open;
+  background: linear-gradient(135deg, rgba(41, 59, 33,0.35), rgba(86, 125, 69,0.35));
+  color: #fcfa77; /* font inside box */
+  border-left: 4px solid #425938;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+.callout[data-callout="evergreen1"] .callout-title {
+  font-size: 1.2rem;    /* header size */
+  font-weight: 100;
+  color: #689147;     /* header text color*/
+  border-bottom: 1px solid #;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+
+
+
+/* ===================================== project page ===================================== */
+
+
+
+
+
+
+
+
+
+
+.callout[data-callout="pplproject_allnotes"] {
+  --callout-color: #fcf7b1;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(52, 131, 235,0.35), rgba(52, 131, 235,0.35));
+  color: #fcf7b1;               /* 🟡 FONT in the body text */
+  border-left: 4px solid #b0e7f7;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="pplproject_allnotes"] .callout-title {
+  font-size: 1.2rem;    /* header size */
+  font-weight: 100;
+  color: #f7f56f;               /* 🟢 FONT header */
+  border-bottom: 0px solid #3483eb;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+.callout[data-callout="pplproject_peopleprojects"] {
+  --callout-color: 163, 168, 240;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(101, 107, 191,0.35), rgba(96, 105, 219,0.35));
+  color: #ffe96e;               /* 🟡 FONT in the body text */
+  border-left: 4px solid #c2a6ff;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="pplproject_peopleprojects"] .callout-title {
+  font-size: 1.2rem;    /* header size */
+  font-weight: 100;
+  color: #ffe96e;               /* 🟢 FONT header */
+  border-bottom: 0px solid #ffe96e;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+
+
+
+/* ===================================== break ===================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+.callout[data-callout="transclude-teal"] {
+  --callout-color: #50848a;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-book-open;
+  background: linear-gradient(135deg, rgba(80, 132, 138,0.15), rgba(68, 71, 120,0.05));
+  color: #; /* font inside box */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .85rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+.callout[data-callout="transclude-teal"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #ffd16e;     /* header text color*/
+  border-bottom: 1px solid #;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+.callout[data-callout="transclude-purple"] {
+  --callout-color: 68, 71, 120;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-book-open;
+  background: linear-gradient(135deg, rgba(68, 71, 120,0.15), rgba(68, 71, 120,0.05));
+  color: #; /* font inside box */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .85rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+.callout[data-callout="transclude-purple"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #ffd16e;     /* header text color*/
+  border-bottom: 1px solid #;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+.callout[data-callout="transclude-green"] {
+  --callout-color: 126, 171, 109;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-book-open;
+  background: linear-gradient(135deg, rgba(126, 171, 109,0.15), rgba(68, 71, 120,0.05));
+  color: #; /* font inside box */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .85rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+.callout[data-callout="transclude-green"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #ffd16e;     /* header text color*/
+  border-bottom: 1px solid #;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+/* for zotero 7-22-25 */
+
+.callout[data-callout="zot-yellow"] {
+  --callout-color: 255, 212, 0;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-book-open;
+  background: linear-gradient(135deg, rgba(255, 212, 0,0.35), rgba(255, 212, 0,0.35));
+  color: #; /* font inside box */
+  border-left: 4px solid #f8ff78;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+.callout[data-callout="zot-yellow"] .callout-title {
+  font-size: 1.2rem;    /* header size */
+  font-weight: 100;
+  color: #;     /* header text color*/
+  border-bottom: 1px solid #;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+.callout[data-callout="zot-red"] {
+  --callout-color: 255, 102, 102;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-book-open;
+  background: linear-gradient(135deg, rgba(255, 102, 102,0.35), rgba(255, 102, 102,0.35));
+  color: #; /* font inside box */
+  border-left: 4px solid #ff6666;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+.callout[data-callout="zot-red"] .callout-title {
+  font-size: 1.2rem;    /* header size */
+  font-weight: 100;
+  color: #;     /* header text color*/
+  border-bottom: 1px solid #;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.callout[data-callout="pplprojectheader"] {
+  --callout-color: 171, 221, 255;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(26, 27, 46,0.35), rgba(52, 131, 235,0.35));
+  color: #cfe3ff;               /* 🟡 FONT in the body text */
+  font-family: 'JetBrains Mono', monospace; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+.callout[data-callout="pplprojectheader"] .callout-title {
+  font-size: 1.2rem;
+  font-weight: 100;
+  color: #cfe3ff;
+  border-top: 2px solid #3483eb;
+  border-bottom: 1px dashed #3483eb;
+  margin-bottom: 0rem;
+  text-align: center;        /* center the text */
+  text-transform: uppercase; /* make it uppercase */
+}
+
+
+
+.callout[data-callout="pplprojecthtasks"] {
+  --callout-color: 255, 222, 138;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(255, 222, 138,0.35), rgba(255, 222, 138,0.35));
+  color: #ffde8a;               /* 🟡 FONT in the body text */
+  border-left: 4px solid #ffde8a;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="pplprojecthtasks"] .callout-title {
+  font-size: 1.2rem;    /* header size */
+  font-weight: 100;
+  color: #ffde8a;               /* 🟢 FONT header */
+  border-bottom: 0px solid #ffde8a;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+.callout[data-callout="pplproject_tasksdone"] {
+  --callout-color: 47, 66, 79;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(47, 66, 79,0.35), rgba(47, 66, 79,0.35));
+  color: #415869;               /* 🟡 FONT in the body text */
+  border-left: 4px solid #2f424f;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="pplproject_tasksdone"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #415869;               /* 🟢 FONT header */
+  border-bottom: 0px solid #2f424f;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+.callout[data-callout="pplproject1"] {
+  --callout-color: 186, 233, 116;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(250, 255, 158,0.0), rgba(128, 224, 208,0.05));
+  color: #7cd2d6;               /* 🟡 FONT in the body text */
+  border-left: 2px solid #7cd2d6;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: ; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="pplproject1"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #7cd2d6;               /* 🟢 FONT header */
+  border-bottom: 1px solid #2f5052;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+
+
+
+.callout[data-callout="pplproject2"] {
+  --callout-color: 186, 233, 116;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(250, 255, 158,0.0), rgba(166, 209, 146,0.15));
+  color: #7ead79;               /* 🟡 FONT in the body text */
+  border-left: 2px solid #8fc28a;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: ; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="pplproject2"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #8fc28a;               /* 🟢 FONT header */
+  border-bottom: 1px solid #444;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+
+
+.callout[data-callout="pplproject4"] {
+  --callout-color: 132, 171, 207;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(132, 171, 207,0.0), rgba(132, 171, 207,0.15));
+  color: #84abcf;               /* 🟡 FONT in the body text */
+  border-left: 2px solid #84abcf;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: ; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="pplproject4"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #84abcf;               /* 🟢 FONT header */
+  border-bottom: 1px solid #84abcf;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+.callout[data-callout="pplproject5"] {
+  --callout-color: 219, 59, 169;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(219, 59, 169,0.35), rgba(219, 59, 169,0.35));
+  color: #;               /* 🟡 FONT in the body text */
+  border-left: 4px solid #f55fc6;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="pplproject5"] .callout-title {
+  font-size: 1.2rem;    /* header size */
+  font-weight: 100;
+  color: #db3ba9;               /* 🟢 FONT header */
+  border-bottom: 1px solid #db3ba9;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+.callout[data-callout="pplproject7"] {
+  --callout-color: 98, 110, 115;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(250, 255, 158,0.0), rgba(128, 224, 208,0.05));
+  color: #608f94;               /* 🟡 FONT in the body text */
+  border-left: 2px solid #99b0c2;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: ; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="pplproject7"] .callout-title {
+  font-size: 1.2rem;    /* header size */
+  font-weight: 100;
+  color: #626e73;               /* 🟢 FONT header */
+  border-bottom: 1px solid #444;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.callout[data-callout="gradientpurple"] {
+  --callout-color: 180, 0, 255;
+  --callout-icon: lucide-cpu;
+  background: linear-gradient(135deg, rgba(180,0,255,0.15), rgba(0,255,255,0.15));
+  border-left: 5px solid rgba(255,0,255,0.5);
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+  color: #fff;
+  background-color: #1a1a2e;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.callout[data-callout="gradientpurple"] .callout-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #ff55ff;
+  border-bottom: 1px dotted rgba(255,255,255,0.2);
+  margin-bottom: 0.6rem;
+}
+
+
+.callout[data-callout="gradientgreen"] {
+  --callout-color: 186, 233, 116;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(85, 181, 98,0.35), rgba(128, 224, 208,0.35));
+  color: #;               /* 🟡 FONT in the body text */
+  border-left: 4px solid #f8ff78;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: 'JetBrains Mono', monospace; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="gradientgreen"] .callout-title {
+  font-size: 1.2rem;    /* header size */
+  font-weight: 100;
+  color: #78ad80;               /* 🟢 FONT header */
+  border-bottom: 1px solid #444;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+
+
+
+
+
+.callout[data-callout="annotation1"] {
+  --callout-color: 74, 89, 148;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(51, 59, 92,0.2), rgba(51, 59, 92,0.05));
+  color: #c9d2f2;               /* 🟡 FONT in the body text */
+  border-left: 1px solid #4a5994;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: ; font-size: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="annotation1"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #7cb3f7;               /* 🟢 FONT header */
+  border-bottom: 0px solid #4a5994;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+
+
+.callout[data-callout="zotannot2"] {
+  --callout-color: 235, 245, 176;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(235, 245, 176,0.2), rgba(245, 235, 176,0.1));
+  color: #ebf5b0;               /* 🟡 FONT in the body text */
+  border-left: 2px solid #ebf5b0;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: ; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="zotannot2"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #ebf5b0;               /* 🟢 FONT header */
+  border-bottom: 1px solid #444;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+.callout[data-callout="zotannot3"] {
+  --callout-color: 159, 153, 196;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(159, 153, 196,0.1), rgba(159, 153, 196,0.05));
+  color: #c3ff91;               /* 🟡 FONT in the body text */
+  border-left: 0px solid #9f99c4;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: ; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="zotannot3"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #dcadde;               /* 🟢 FONT header */
+  border-bottom: 0px solid #444;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+.callout[data-callout="abstract1"] {
+  --callout-color: 186, 233, 116;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient(135deg, rgba(250, 255, 158,0.0), rgba(166, 209, 146,0.15));
+  color: #7ead79;               /* 🟡 FONT in the body text */
+  border-left: 2px solid #8fc28a;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: ; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="abstract1"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #8fc28a;               /* 🟢 FONT header */
+  border-bottom: 1px solid #444;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+
+
+
+
+
+.callout[data-callout="dark3"] {
+  --callout-color: 87, 247, 255;               /* 🟢 emoji color and table lines */
+  --callout-icon: lucide-command;
+  background: linear-gradient( rgba(96, 98, 148,0.1), rgba(179, 210, 230,0.05));
+  color: #6282bd;               /* 🟡 FONT in the body text */
+  border-left: 2px solid #6282bd;               /* 🟡 left line */
+  border-radius: 0.5rem;/* curving the border */
+  padding: 0rem 1rem; /* how much text moves from the left and top  */
+  font-family: ; font-size: .9rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);                 /* shadow when in preview mode */   
+}
+
+.callout[data-callout="dark3"] .callout-title {
+  font-size: 1rem;    /* header size */
+  font-weight: 100;
+  color: #8fafeb;               /* 🟢 FONT header */
+  border-bottom: 1px solid #444;
+  margin-bottom: 0rem; /* distance between header and text */ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.callout[data-callout="zotero-main"] {
+  --callout-color: 0, 128, 128; /* deep teal */
+  --callout-icon: lucide-book-open;
+  background: linear-gradient(to bottom right, rgba(0,128,128,0.1), rgba(0,128,128,0.05));
+  border-left: 5px solid rgba(0,128,128,0.6);
+  border-radius: 0.75rem;
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+  font-size: 0.95rem;
+}
+.callout[data-callout="zotero-main"] .callout-title {
+  background: none;
+  padding: 0;
+  margin: 0 0 0.6rem 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: rgba(0, 80, 80, 0.95);
+  border-bottom: 1px solid rgba(0,128,128,0.25);
+}
+.callout[data-callout="zotero-main"] .callout-content {
+  line-height: 1.55;
+}
+.callout[data-callout="zotero-main"] a {
+  text-decoration: none;
+  font-weight: 600;
+}
+.callout[data-callout="zotero-main"] code {
+  background-color: rgba(0,128,128,0.1);
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.25rem;
+  font-size: 0.85rem;
+}
+
+
+
+.callout[data-callout="zotero1"] {
+    --callout-color: 119, 204, 255;
+    --callout-icon: book-open-text;
+      background: rgba(53, 57, 79, 0.55); 
+     font-size: 1.0rem;
+}
+
+
+
+.callout[data-callout="zotero2"] {
+  --callout-color: 200, 255, 182;
+  --callout-icon: sparkles;
+  background: rgba( 200, 255, 182, 0.15); 
+}
+
+
+
+
+.callout[data-callout="toc"] {
+  --callout-color: 230, 200, 255; /* lavender */
+  border: 1px solid rgba(230, 200, 255, 0.7);
+  --callout-icon: lucide-list;
+  border-radius: 0.75rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+}
+.callout[data-callout="toc"] .callout-title {
+  background-color: rgba(230, 200, 255, 0.2);
+  font-weight: 600;
+  font-size: 1.15rem;
+  border-bottom: 1px solid rgba(230, 200, 255, 0.4);
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.5rem;
+}
+.callout[data-callout="toc"] .callout-content {
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+
+
+/* ======================================= big pages ======================================= */
+
+
+
+
+.callout[data-callout="darkgrey"] {
+  --callout-color: 132, 140, 184;
+  border: 1px solid rgba(74, 84, 140, 0.7);
+  --callout-icon: lucide-moon;
+}
+.callout[data-callout="darkgrey"] .callout-title {
+  background-color: rgba(53, 57, 79, 0.45);
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(74, 84, 140, 0.7);
+}
+
+
+
+
+
+
+
+
+
+
+
+.callout[data-callout="inbox1"] {
+    --callout-color: 253, 196, 106;
+  background: transparent; /* Removes background from entire callout */
+  border: 1px solid rgba(232, 154, 94, 0.7); /* Outline for entire box */
+    --callout-icon: lucide-sun;
+}
+.callout[data-callout="inbox1"] .callout-title {
+  background-color: rgba(232, 154, 94, 0.15);  
+  font-size: 1.4rem;
+  border-bottom: 1px dashed rgba(232, 154, 94, 0.7); /* Optional separation line */
+}
+
+
+
+
+.callout[data-callout="journal"] {
+  --callout-color: 186, 233, 116;
+  background: transparent; /* Removes background from entire callout */
+  border: 1px solid rgba(186, 233, 116, 0.7); /* Outline for entire box */
+      --callout-icon: lucide-sun;
+}
+.callout[data-callout="journal"] .callout-title {
+  background-color: rgba(186, 233, 116, 0.2); /* Just the header bar */ 
+  font-size: 1.4rem;
+  border-bottom: 1px dashed rgba(186, 233, 116, 0.7); /* Optional separation line */
+}
+
+
+ 
+
+
+/* Persian Green */
+.callout[data-callout="meetings"] {
+  --callout-color:207, 244, 106;
+  --callout-icon: lucide-calendar;
+  background: rgba(42, 157, 143, 0.15); 
+     font-size: 1.0rem;
+}
+
+
+
+
+
+.callout[data-callout="knowledge"] {
+        --callout-color:186, 233, 116;
+  --callout-icon: notebook-text;
+  background: rgba(119, 204, 255, 0.25); 
+}
+
+
+
+
+
+.callout[data-callout="backend1"] {
+  --callout-color: 07, 244, 106;
+  background: transparent; /* Removes background from entire callout */
+  border: 1px solid rgba(39, 125, 161, 0.7); /* Outline for entire box */
+      --callout-icon: lucide-sun;
+}
+.callout[data-callout="backend1"] .callout-title {
+  background-color: rgba(87, 117, 144, 0.15);  
+  font-size: 1.4rem;
+  border-bottom: 1px dashed rgba(39, 125, 161, 0.7); /* Optional separation line */
+}
+
+
+ 
+
+
+
+
+
+.callout[data-callout="blueheader"] {
+  --callout-color: 173, 216, 230; /* Light blue */
+  border: 1px solid rgba(173, 216, 230, 0.7); /* Outline for entire box */
+  --callout-icon: lucide-sun;
+}
+.callout[data-callout="blueheader"] .callout-title {
+  background-color: rgba(173, 216, 230, 0.45); /* Light blue title background */
+  font-size: 1.4rem;
+  border-bottom: 1px dashed rgba(173, 216, 230, 0.7); /* Separation line */
+}
+
+
+
+.callout[data-callout="yellowheader"] {
+  --callout-color: 255, 223, 88; /* Light yellow */
+  border: 1px solid rgba(255, 223, 88, 0.7); /* Outline for entire box */
+  --callout-icon: lucide-sun;
+}
+.callout[data-callout="yellowheader"] .callout-title {
+  background-color: rgba(255, 223, 88, 0.45); /* Light yellow title background */
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(255, 223, 88, 0.7); /* Separation line */
+}
+
+
+
+/* GREEN HEADER */
+.callout[data-callout="green_meetings"] {
+  --callout-color: 144, 238, 144;
+  border: 1px solid rgba(144, 238, 144, 0.7);
+  --callout-icon: lucide-leaf;
+}
+.callout[data-callout="green_meetings"] .callout-title {
+  background-color: rgba(144, 238, 144, 0.45);
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(144, 238, 144, 0.7);
+}
+
+
+
+
+
+.callout[data-callout="pinkheader2"] {
+  --callout-color: 255, 182, 193; /* Light pink */
+  border: 1px solid rgba(255, 182, 193, 0.7); /* Outline for entire box */
+  --callout-icon: lucide-sun;
+}
+.callout[data-callout="pinkheader2"] .callout-title {
+  background-color: rgba(255, 192, 203, 0.45); /* Lighter pink for title */
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(255, 182, 193, 0.7); /* Separation line */
+}
+
+
+
+.callout[data-callout="zotero-abstract"] {
+  --callout-color: 70, 124, 140; /* Light pink */
+  border: 1px solid rgba(70, 124, 140, 0.7); /* Outline for entire box */
+  --callout-icon: lucide-sun;
+}
+.callout[data-callout="zotero-abstract"] .callout-title {
+  background-color: rgba(48, 68, 74, 0.45); /* Lighter pink for title */
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(70, 124, 140, 0.7); /* Separation line */
+}
+
+
+ 
+.callout[data-callout="greyheader"] {
+  --callout-color: 180, 180, 180; /* Neutral grey */
+  border: 1px solid rgba(180, 180, 180, 0.7); /* Outline for entire box */
+  --callout-icon: lucide-notebook-pen;
+}
+.callout[data-callout="greyheader"] .callout-title {
+  background-color: rgba(200, 200, 200, 0.25); /* Light grey for title */
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(180, 180, 180, 0.7); /* Separation line */
+}
+
+
+
+
+.callout[data-callout="zoteronav"] {
+  --callout-color: 180, 180, 180;  
+  border: 1px solid rgba(26, 36, 59, 0.7); /* Outline for entire box */
+  --callout-icon: lucide-notebook-pen;
+}
+.callout[data-callout="zoteronav"] .callout-title {
+  background-color: rgba(55, 59, 69, 0.25); /* title */
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(26, 36, 59, 0.7); /* Separation line */
+}
+
+
+
+
+
+.callout[data-callout="navi1"] {
+  --callout-color: 146, 176, 247;
+  background-color: rgba(146, 176, 247, 0.08); /* transparent background */
+  border: 1px solid rgba(146, 176, 247, 0.3); /* lighter outline */
+  --callout-icon: lucide-cloud;
+}
+
+.callout[data-callout="navi1"] .callout-title {
+  background-color: rgba(146, 176, 247, 0.15); /* transparent title */
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(146, 176, 247, 0.4);
+}
+
+
+
+/* ORANGE HEADER */
+.callout[data-callout="orangeheader"] {
+  --callout-color: 255, 200, 124;
+  border: 1px solid rgba(255, 200, 124, 0.7);
+  --callout-icon: lucide-flame;
+}
+.callout[data-callout="orangeheader"] .callout-title {
+  background-color: rgba(255, 200, 124, 0.45);
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(255, 200, 124, 0.7);
+}
+
+.callout[data-callout="blueheader2"] {
+  --callout-color: 146, 176, 247; /* Light blue */
+  border: 1px solid rgba(146, 176, 247, 0.7); /* Outline for entire box */
+  --callout-icon: lucide-cloud;
+}
+.callout[data-callout="blueheader2"] .callout-title {
+  background-color: rgba(146, 176, 247, 0.45); /* Light blue title background */
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(146, 176, 247, 0.7); /* Separation line */
+}
+
+
+.callout[data-callout="tealheader"] {
+  --callout-color: 42, 157, 143; /* Teal (Persian Green) */
+  border: 1px solid rgba(42, 157, 143, 0.7); /* Outline for entire box */
+  --callout-icon: lucide-droplet;
+}
+.callout[data-callout="tealheader"] .callout-title {
+  background-color: rgba(42, 157, 143, 0.35); /* Teal title background */
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(42, 157, 143, 0.7); /* Separation line */
+}
+
+
+.callout[data-callout="greenheader"] {
+  --callout-color: 186, 233, 116; /* Light green */
+  border: 1px solid rgba(186, 233, 116, 0.7); /* Outline for entire box */
+  --callout-icon: lucide-leaf;
+}
+.callout[data-callout="greenheader"] .callout-title {
+  background-color: rgba(186, 233, 116, 0.35); /* Light green title background */
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(186, 233, 116, 0.7); /* Separation line */
+}
+
+
+
+/* PURPLE HEADER */
+.callout[data-callout="purpleheader"] {
+  --callout-color: 216, 191, 216;
+  border: 1px solid rgba(216, 191, 216, 0.7);
+  --callout-icon: lucide-moon;
+}
+.callout[data-callout="purpleheader"] .callout-title {
+  background-color: rgba(216, 191, 216, 0.45);
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(216, 191, 216, 0.7);
+}
+
+
+ 
+
+.callout[data-callout="zot-lightgreen"] {
+  --callout-color: 200, 255, 182; /* Light pink */
+  border: 1px solid rgba(200, 255, 182, 0.7); /* Outline for entire box */
+  --callout-icon: lucide-sun;
+}
+.callout[data-callout="zot-lightgreen"] .callout-title {
+  background-color: rgba(200, 255, 182, 0.45); /* Lighter pink for title */
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(200, 255, 182, 0.7); /* Separation line */
+}
+
+
+
+
+
+/* PURPLE HEADER */
+.callout[data-callout="zotero-metadata"] {
+  --callout-color: 132, 140, 184;
+  border: 1px solid rgba(68, 118, 194, 0.7);
+  --callout-icon: lucide-moon;
+}
+.callout[data-callout="zotero-metadata"] .callout-title {
+  background-color: rgba(68, 118, 194, 0.35);
+  font-size: 1.1rem;
+  border-bottom: 1px dashed rgba(68, 118, 194, 0.7);
+}
+
+
+
+/* ======================================= unorganized ======================================= */
+
+.callout[data-callout="home"] {
+  --callout-color: 180, 180, 180;
+  --callout-icon: lucide-house;
+  background: rgba(26, 29, 45, 0.20);
+
+}
+
+/* Saffron */
+.callout[data-callout="saffron"] {
+  --callout-color: 233, 198, 106;
+  --callout-icon: lucide-star;
+  background: rgba(233, 198, 106, 0.15); 
+}
+
+/* Sage */
+.callout[data-callout="sage"] {
+  --callout-color: 186, 187, 116;
+  --callout-icon: lucide-feather;
+  background: rgba(186, 187, 116, 0.15); 
+}
+
+
+
+
+
+.callout[data-callout="tasks1"] {
+  --callout-color: 142, 200, 50; /* yellow-green */
+  --callout-icon: lucide-square-check-big;
+  background: rgba(142, 200, 50, 0.15); /* subtle yellow-green tint */
+}
+
+
+
+.callout[data-callout="tasksblue"] {
+  --callout-color: 146, 176, 247; /* matching light blue */
+  --callout-icon: lucide-square-check-big;
+  background: rgba(146, 176, 247, 0.15); /* subtle blue tint */
+}
+
+
+
+.callout[data-callout="tasks2"] {
+  --callout-color: 180, 180, 180;
+  --callout-icon: lucide-square-check-big;
+  background: rgba(26, 29, 45, 0.20);
+
+}
+
+
+
+
+.callout[data-callout="tasks"] {
+    --callout-color: 98, 244, 106;
+    --callout-icon: lucide-square-check-big;
+  background: rgba( 129, 199, 132, 0.15); 
+     font-size: 1.0rem;
+}
+
+
+
+.callout[data-callout="basic"] {
+        --callout-color: 186, 233, 116; 
+      background: rgba(180, 240, 170, 0.15); 
+    --callout-icon: lucide-sprout;
+     font-size: 1.0rem;
+}
+
+
+
+.callout[data-callout="notes1"] {
+  --callout-color: 150, 150, 150; /* soft gray */
+  background: rgba(200, 200, 200, 0.1); /* very light neutral tone */
+  --callout-icon: lucide-sprout;
+}
+
+
+.callout[data-callout="people1"] {
+  --callout-color: 120, 160, 160; /* muted teal-gray */
+  background: rgba(180, 200, 200, 0.12);
+  --callout-icon: user-plus;
+}
+
+
+.callout[data-callout="people"] {
+  --callout-color: 42, 239, 143; 
+      background: rgba(100, 210, 200, 0.15); 
+    --callout-icon: user-plus;
+}
+
+
+/* Moonstone */
+.callout[data-callout="projects"] {
+  --callout-color: 42, 239, 192;
+  --callout-icon: lucide-moon;
+  background: rgba(75, 167, 180, 0.15); 
+}
+
+
+
+.callout[data-callout="personal"] {
+    --callout-color:251, 156, 211;
+    --callout-icon: turtle;
+  background: rgba( 85, 140, 90, 0.15); 
+}
+
+/* Cornflower Blue */
+.callout[data-callout="atomic"] {
+  --callout-color:52, 195, 255;
+  --callout-icon: sparkles;
+  background: rgba(113, 149, 227, 0.15); 
+}
+
+
+.callout[data-callout="evergreen"] {
+    --callout-color:42, 177, 120;
+    --callout-icon: lucide-tree-pine;
+  background: rgba(89, 173, 246, 0.15); 
+}
+
+
+.callout[data-callout="literature"] {
+    --callout-color: 119, 204, 255;
+    --callout-icon: book-open-text;
+      background: rgba(100, 210, 255, 0.15); 
+     font-size: 1.0rem;
+}
+
+
+
+/* Carolina Blue */
+.callout[data-callout="topics"] {
+  --callout-color:98, 195, 255;
+  --callout-icon: lucide-blocks;
+  background: rgba(107, 177, 216, 0.15); 
+}
+
+.callout[data-callout="purple"] {
+    --callout-color: 198, 146, 255;
+  --callout-icon: lucide-wrench;
+}
+
+
+
+.callout[data-callout="links"] {
+    --callout-color: 255, 192, 203;
+    --callout-icon: lucide-link;
+     font-size: 1.0rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Jasper */
+.callout[data-callout="jasper"] {
+  --callout-color: 219, 75, 68;
+  --callout-icon: lucide-flame;
+  background: rgba(219, 75, 68, 0.15); 
+}
+
+
+
+
+.callout[data-callout="greenish"] {
+    --callout-color: 210, 245, 190; /* light yellow-green */
+    --callout-icon: lucide-leaf;
+}
+
+
+
+
+
+
+
+
+.callout[data-callout="white"] {
+    --callout-color: 245, 245, 245;
+    --callout-icon: lucide-eye-off;
+}
+
+
+.callout[data-callout="red"] {
+    --callout-color: 255, 105, 105;
+    --callout-icon: lucide-alert-triangle;
+}
+
+
+
+
+
+

@@ -1,0 +1,1004 @@
+{
+  "styles": {
+    "x. meta": {
+      "backgroundColor": "#0c0e17",
+      "isBold": false,
+      "isItalic": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "opacity": 1,
+      "textColor": "#a7acc3"
+    },
+    "pandoc": {
+      "applyToSubfolders": true,
+      "applyToFiles": true,
+      "backgroundColor": "#151723",
+      "textColor": "#dcff5c",
+      "isItalic": true,
+      "opacity": 1
+    },
+    "HOME.md": {
+      "textColor": "#ffd500"
+    },
+    "stigma lit": {
+      "textColor": "#ffa947",
+      "applyToFiles": true,
+      "applyToSubfolders": false
+    },
+    "Articles": {
+      "textColor": "#80d5db",
+      "applyToFiles": true,
+      "applyToSubfolders": false
+    },
+    "pandoc/wordexport": {
+      "textColor": "#ff5c7c"
+    },
+    "x. meta/templater": {
+      "textColor": "#ffffff",
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "x. meta/templater/cmd shift z.md": {
+      "textColor": "#ff4d4d"
+    },
+    "TABLE.md": {
+      "textColor": "#24ff14",
+      "isBold": true
+    },
+    "1zoterotopandoc": {
+      "textColor": "#ffd35c",
+      "applyToFiles": true
+    },
+    "1zoterotopandoc/wordexport": {
+      "textColor": "#ff4d4d",
+      "applyToFiles": true
+    },
+    "0 HOME.md": {
+      "textColor": "#ff85c6",
+      "backgroundColor": "#0f111a",
+      "isBold": true
+    },
+    "1 inbox": {
+      "textColor": "#ffffff"
+    },
+    "2 reference notes": {
+      "textColor": "#ffffff",
+      "applyToFiles": false,
+      "backgroundColor": "#8bc18c",
+      "applyToSubfolders": true,
+      "isBold": true
+    },
+    "x. export to word": {
+      "backgroundColor": "#0f0f0f",
+      "opacity": 1,
+      "textColor": "#ff0a0a",
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "x. export to word/converted word docs": {
+      "textColor": "#ffdd00"
+    },
+    "0 DOCK/HOME.md": {
+      "backgroundColor": "#000000",
+      "isBold": true,
+      "isItalic": true,
+      "textColor": "#ff52b7"
+    },
+    "x_meta/templater": {
+      "textColor": "#ff3333",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "x_meta/templater/literaturenote.md": {
+      "backgroundColor": "#b3f570",
+      "isBold": true
+    },
+    "z_extra code": {
+      "isItalic": true,
+      "textColor": "#ff8585",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "x_meta/extra code/1 extra code.md": {
+      "textColor": "#00fbff"
+    },
+    "import_zoterotopandoc": {
+      "backgroundColor": "#ff4d4d"
+    },
+    "1 inbox- fleeting notes": {
+      "textColor": "#ffc23d",
+      "applyToFiles": true
+    },
+    "2_reference": {
+      "textColor": "#000000",
+      "applyToFiles": false,
+      "backgroundColor": "#ffea61",
+      "applyToSubfolders": true,
+      "isBold": true
+    },
+    "3 Literature notes": {
+      "textColor": "#92df72",
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "4 Permanent notes": {
+      "textColor": "#5fc8ae",
+      "applyToFiles": true
+    },
+    "5 Projects and publications": {
+      "textColor": "#94d5e5"
+    },
+    "Processing": {
+      "textColor": "#63bce9",
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "z_meta": {
+      "textColor": "#b094ff",
+      "applyToFiles": true,
+      "backgroundColor": "#121111",
+      "applyToSubfolders": true
+    },
+    "PROJECTS.md": {
+      "textColor": "#ff4d4d",
+      "backgroundColor": "#181a25"
+    },
+    "Daily Notes": {
+      "textColor": "#a0549e",
+      "isItalic": false,
+      "applyToFiles": true
+    },
+    "kanban": {
+      "backgroundColor": "#363b63"
+    },
+    "3_litnotes": {
+      "textColor": "#000000",
+      "isItalic": false,
+      "applyToFiles": false,
+      "applyToSubfolders": false,
+      "backgroundColor": "#a2d28e",
+      "isBold": true
+    },
+    "1_inbox_fleeting notes": {
+      "textColor": "#c7c7c7",
+      "applyToSubfolders": false,
+      "applyToFiles": false,
+      "backgroundColor": "#4b1111",
+      "isBold": true
+    },
+    "4_permanentnotes": {
+      "textColor": "#000000",
+      "isItalic": false,
+      "applyToSubfolders": false,
+      "applyToFiles": false,
+      "backgroundColor": "#71c1b1"
+    },
+    "5_projectsandpubs": {
+      "textColor": "#000000",
+      "applyToFiles": false,
+      "applyToSubfolders": false,
+      "backgroundColor": "#67afc1"
+    },
+    "daily notes": {
+      "textColor": "#7866ff",
+      "applyToFiles": true
+    },
+    "ppl_notes": {
+      "textColor": "#ddb0dd",
+      "isItalic": false,
+      "applyToFiles": true
+    },
+    "0 DOCK/0 HOME.md": {
+      "textColor": "#ff6bd8",
+      "backgroundColor": "#0f101a",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "1a_import_zoterotopandoc": {
+      "textColor": "#ffffff",
+      "isItalic": false,
+      "applyToFiles": false,
+      "backgroundColor": "#b6800c",
+      "applyToSubfolders": false,
+      "isBold": true
+    },
+    "1 Dock": {
+      "textColor": "#ffffff",
+      "isBold": true,
+      "backgroundColor": "#636363",
+      "applyToFiles": false,
+      "applyToSubfolders": true
+    },
+    "ppl_notes/0 notes about people.md": {
+      "backgroundColor": "#6e4bbe",
+      "textColor": "#ffffff"
+    },
+    "6_resources": {
+      "backgroundColor": "#487a93",
+      "textColor": "#ffffff",
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "academia": {
+      "backgroundColor": "#859fb7",
+      "applyToSubfolders": false,
+      "applyToFiles": false,
+      "textColor": "#030202"
+    },
+    "z_meta/backlinks": {
+      "textColor": "#ffa8a8",
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "z_meta/templates": {
+      "textColor": "#82ff80",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "backlinks": {
+      "backgroundColor": "#0f0b0b",
+      "textColor": "#85e0ff",
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isItalic": true
+    },
+    "z_backlinks": {
+      "backgroundColor": "#060609",
+      "textColor": "#8abdff",
+      "isItalic": true,
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "obsidian-mikejlj-template-main": {
+      "applyToFiles": false,
+      "applyToSubfolders": false,
+      "backgroundColor": "#dedede",
+      "textColor": "#0e0b0b"
+    },
+    "3_knowledge": {
+      "backgroundColor": "#acd080",
+      "textColor": "#0f0a0a",
+      "isBold": true
+    },
+    "570 ⌯ 🧵 Topics": {
+      "backgroundColor": "#47569e",
+      "textColor": "#fffafa"
+    },
+    "500 ⌯ Knowledge Managementx": {
+      "backgroundColor": "#ff0f0f"
+    },
+    "500 ⌯ Knowledge Management": {
+      "backgroundColor": "#83ba5e",
+      "isBold": true,
+      "textColor": "#0c0909"
+    },
+    "100 ⌯ Drafts": {
+      "backgroundColor": "#519e47",
+      "textColor": "#100a0a",
+      "isBold": true
+    },
+    "300 ⌯ Journal": {
+      "backgroundColor": "#2f564e",
+      "applyToSubfolders": false,
+      "textColor": "#ffffff",
+      "isBold": true
+    },
+    "500 ⌯ Knowledge": {
+      "backgroundColor": "#324d6c",
+      "textColor": "#fffafa",
+      "applyToSubfolders": false,
+      "isBold": true
+    },
+    "700 ⌯ Periodical Review": {
+      "backgroundColor": "#6f6dba",
+      "applyToSubfolders": false,
+      "textColor": "#ffffff",
+      "isBold": true
+    },
+    "300 ⌯ Journal/310 ⌯ 🌱 Daily": {
+      "backgroundColor": "#547373",
+      "textColor": "#fafafa",
+      "isItalic": true
+    },
+    "300 ⌯ Journal/330 ⌯ ✏️ Notes": {
+      "backgroundColor": "#547373",
+      "textColor": "#fafafa",
+      "isItalic": true
+    },
+    "300 ⌯ Journal/340 ⌯ 🔖 Meetings": {
+      "backgroundColor": "#547373",
+      "textColor": "#fafafa",
+      "isItalic": true
+    },
+    "300 ⌯ Journal/391 ⌯ 🕺 People": {
+      "backgroundColor": "#547373",
+      "textColor": "#fafafa",
+      "isItalic": true
+    },
+    "300 ⌯ Journal/392 ⌯ 📨 Projects": {
+      "backgroundColor": "#547373",
+      "textColor": "#fafafa",
+      "isItalic": true
+    },
+    "300 ⌯ Journal/393 ⌯ ✅ Tasks": {
+      "backgroundColor": "#547373",
+      "textColor": "#fafafa",
+      "isItalic": true
+    },
+    "300 ⌯ Journal/394 ⌯ 🪵 Logs": {
+      "backgroundColor": "#547373",
+      "textColor": "#fafafa",
+      "isItalic": true
+    },
+    "300 ⌯ Journal/300 ⌯ Journal.md": {
+      "textColor": "#05ff71",
+      "isBold": true
+    },
+    "500 ⌯ Knowledge/505_import_zoterotopandoc": {
+      "backgroundColor": "#4d6e93",
+      "textColor": "#f8f7f7",
+      "isItalic": true
+    },
+    "500 ⌯ Knowledge/510 ⌯ 📚 Literature Notes": {
+      "backgroundColor": "#4d6e93",
+      "textColor": "#f8f7f7",
+      "isItalic": true
+    },
+    "500 ⌯ Knowledge/520 ⌯ 🛠️ Resources": {
+      "backgroundColor": "#4d6e93",
+      "textColor": "#f8f7f7",
+      "isItalic": true
+    },
+    "500 ⌯ Knowledge/530 ⌯ 📝 Atomic Notes": {
+      "backgroundColor": "#4d6e93",
+      "textColor": "#f8f7f7",
+      "isItalic": true
+    },
+    "500 ⌯ Knowledge/550 ⌯ 🌲 Evergreen Notes": {
+      "backgroundColor": "#4d6e93",
+      "textColor": "#f8f7f7",
+      "isItalic": true
+    },
+    "500 ⌯ Knowledge/570 ⌯ 🧵 Topics": {
+      "backgroundColor": "#4d6e93",
+      "textColor": "#f8f7f7",
+      "isItalic": true
+    },
+    "700 ⌯ Periodical Review/710 ⌯ 🪴 Weeks": {
+      "backgroundColor": "#9592d3",
+      "textColor": "#030202",
+      "isItalic": true
+    },
+    "700 ⌯ Periodical Review/730 ⌯ 🗓️ Months": {
+      "backgroundColor": "#9592d3",
+      "textColor": "#030202",
+      "isItalic": true
+    },
+    "000-🏡HomePg.md": {
+      "textColor": "#ff0fd3",
+      "backgroundColor": "#110e0f",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "100_DRAFTS": {
+      "backgroundColor": "#e19947",
+      "textColor": "#1a0f0f",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "300_JOURNAL": {
+      "backgroundColor": "#9cd576",
+      "textColor": "#030202",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "600_RESOURCES": {
+      "backgroundColor": "#6688e5",
+      "isItalic": false,
+      "textColor": "#050505",
+      "isBold": true
+    },
+    "300_JOURNAL/394_🪵Logs": {
+      "backgroundColor": "#9b7e55",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": true,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "600_RESOURCES/610-🛠Resources": {
+      "backgroundColor": "#37456d",
+      "isItalic": true,
+      "textColor": "#fafafa"
+    },
+    "600_RESOURCES/630-📦Datasets": {
+      "backgroundColor": "#37456d",
+      "isItalic": true,
+      "textColor": "#fafafa"
+    },
+    "700_PERIODICALREVIEW/710-🌿Weeks": {
+      "backgroundColor": "#3d2c24",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": true,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "700_PERIODICALREVIEW/730-🪴Months": {
+      "backgroundColor": "#3d2c24",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": true,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "700_PERIODICALREVIEW/750-🌳Planning": {
+      "backgroundColor": "#3d2c24",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": true,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "300_JOURNAL/393-📝Manuscripts": {
+      "textColor": "#b0d364",
+      "isBold": true
+    },
+    "300_JOURNAL/390-🧑‍💼People": {
+      "textColor": "#9cc157",
+      "isBold": true
+    },
+    "300_JOURNAL/320-✅ Tasks": {
+      "textColor": "#b0d364",
+      "isBold": true
+    },
+    "000-🏡Home_dashboard.md": {
+      "textColor": "#ff6bd8",
+      "backgroundColor": "#0f101a",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "100_DRAFTS/120-🌀Scratchpad": {
+      "textColor": "#d5a701",
+      "isBold": true
+    },
+    "100_DRAFTS/110-🧶Inbox": {
+      "textColor": "#d5a701",
+      "isBold": true
+    },
+    "300_JOURNAL/330-🕘Meetings": {
+      "textColor": "#ebe52d",
+      "isBold": true
+    },
+    "300_JOURNAL/340_✏️basic": {
+      "textColor": "#9cc157",
+      "isBold": true
+    },
+    "300_JOURNAL/392-📂Projects": {
+      "textColor": "#b0d364",
+      "isBold": true
+    },
+    "300_JOURNAL/310_✅tasks": {
+      "textColor": "#9cc157",
+      "isBold": true
+    },
+    "900_meta/900_DOCK_dashboard.md": {
+      "textColor": "#69ff29",
+      "backgroundColor": "#24273a",
+      "isItalic": true,
+      "isBold": false
+    },
+    "900_meta/910_Tmpl/910_Tmpl_dashboard.md": {
+      "textColor": "#69ff29",
+      "backgroundColor": "#24273a",
+      "isItalic": true
+    },
+    "900_meta/960_config/960_config_dashboard.md": {
+      "textColor": "#69ff29",
+      "backgroundColor": "#24273a",
+      "isItalic": true
+    },
+    "900_meta/961_docs/961_docs_dashboard.md": {
+      "textColor": "#69ff29",
+      "backgroundColor": "#24273a",
+      "isItalic": true
+    },
+    "700_PERIODICALREVIEW/700_PeriodicalReview_dashboard.md": {
+      "textColor": "#69ff29",
+      "backgroundColor": "#24273a",
+      "isItalic": true
+    },
+    "600_RESOURCES/600-🛠Resources_dashboard.md": {
+      "textColor": "#69ff29",
+      "backgroundColor": "#24273a",
+      "isItalic": true
+    },
+    "300_JOURNAL/394-🕘Meetings": {
+      "textColor": "#ebe52d",
+      "isBold": true
+    },
+    "400_PROJECTS": {
+      "backgroundColor": "#fbbc74",
+      "textColor": "#110d0d",
+      "isBold": true
+    },
+    "400_PROJECTS/410-📝Manuscripts": {
+      "textColor": "#ff9d2e",
+      "isBold": true
+    },
+    "400_PROJECTS/420-📂Projects": {
+      "textColor": "#ff9d2e",
+      "isBold": true
+    },
+    "400_PROJECTS/400-📂PROJECTS_dashboard.md": {
+      "textColor": "#69ff29",
+      "backgroundColor": "#24273a",
+      "isItalic": true
+    },
+    "400_PROJECTS/420-📂Projects/420-📂Projects_dashboard.md": {
+      "textColor": "#69ff29",
+      "backgroundColor": "#24273a",
+      "isItalic": true
+    },
+    "400_PROJECTSANDPUBS": {
+      "textColor": "#090807",
+      "isBold": true,
+      "backgroundColor": "#73a947"
+    },
+    "400_PROJECTSANDPUBS/410-📝Manuscripts": {
+      "textColor": "#ff9d2e",
+      "isBold": true
+    },
+    "400_PROJECTSANDPUBS/420-📂Projects": {
+      "textColor": "#5fb526",
+      "isBold": true
+    },
+    "400_PROJECTSANDPUBS/400-📂PROJECTS_dashboard.md": {},
+    "400_PROJECTSANDPUBS/400-📂PROJECTSANDPUBS_dashboard.md": {
+      "textColor": "#69ff29",
+      "backgroundColor": "#24273a",
+      "isItalic": true,
+      "isBold": false
+    },
+    "400_PROJECTSANDPUBS/410-📝Dissertation": {
+      "textColor": "#5fb526",
+      "isBold": true
+    },
+    "300_JOURNAL/300_Journal_dashboard.md": {
+      "textColor": "#69ff29",
+      "backgroundColor": "#24273a",
+      "isItalic": true
+    },
+    "300_JOURNAL/391-📂Projects": {
+      "textColor": "#9cc157",
+      "isBold": true
+    },
+    "300_JOURNAL/350-🕘Meetings": {
+      "textColor": "#9cc157",
+      "isBold": true
+    },
+    "300_JOURNAL/392-Personal": {
+      "textColor": "#9cc157",
+      "isBold": true
+    },
+    "300_JOURNAL/310-🌱DailyNotes": {
+      "textColor": "#9cc157",
+      "isBold": true
+    },
+    "100_INBOX": {
+      "backgroundColor": "#ffd53d",
+      "textColor": "#060404",
+      "isBold": true
+    },
+    "400_WORKSPACE": {
+      "backgroundColor": "#5cc79e",
+      "textColor": "#090606",
+      "isBold": true
+    },
+    "400_WORKSPACE/390-🧑‍💼People": {
+      "textColor": "#5cc79e",
+      "isBold": true
+    },
+    "400_WORKSPACE/391-📂Projects": {
+      "textColor": "#5cc79e",
+      "isBold": true
+    },
+    "400_WORKSPACE/392-🌸Personal": {
+      "textColor": "#5cc79e",
+      "isBold": true
+    },
+    "400_WORKSPACE/410-🧑‍💼People": {
+      "textColor": "#51d2ab",
+      "isBold": true
+    },
+    "400_WORKSPACE/420-📂Projects": {
+      "textColor": "#51d2ab",
+      "isBold": true
+    },
+    "400_WORKSPACE/430-🌸Personal": {
+      "textColor": "#51d2ab",
+      "isBold": true
+    },
+    "900_meta/910_Tmpl": {
+      "textColor": "#f8861b",
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    },
+    "300_JOURNAL/310_✅tasks/310_✅tasks_dashboard.md": {
+      "textColor": "#fff29e",
+      "isItalic": true
+    },
+    "300_JOURNAL/340_✏️basic/340_✏️basic_dashboard.md": {
+      "textColor": "#fff29e",
+      "isItalic": true,
+      "isBold": false
+    },
+    "100_INBOX/100_INBOX_dashboard.md": {
+      "textColor": "#fff29e",
+      "isItalic": true
+    },
+    "300_JOURNAL/310-🌱DailyNotes/310-🌱DailyNotes_dashboard.md": {
+      "textColor": "#fff29e",
+      "isItalic": true
+    },
+    "300_JOURNAL/350-🕘Meetings/350-🕘Meetings_dashboard.md": {
+      "textColor": "#fff29e",
+      "isItalic": true
+    },
+    "400_WORKSPACE/400_WORKSPACE_dashboard.md": {
+      "textColor": "#fff29e",
+      "isItalic": true
+    },
+    "400_WORKSPACE/420-📂Projects/420-📂Projects_dashboard.md": {
+      "textColor": "#4dead0",
+      "isItalic": true
+    },
+    "400_WORKSPACE/410-🧑‍💼People/410-🧑‍💼People_dashboard.md": {
+      "textColor": "#4dead0",
+      "isItalic": true
+    },
+    "400_KNOWLEDGE/500_Knowledge_dashboard.md": {
+      "textColor": "#55a9d3",
+      "isItalic": true
+    },
+    "400_KNOWLEDGE/450_📙literature/450_📙literature_dashboard.md": {
+      "textColor": "#55a9d3",
+      "isItalic": true
+    },
+    "400_KNOWLEDGE/430_🌲evergreenNotes/430_🌲evergreenNotes_dashboard.md": {
+      "textColor": "#55a9d3",
+      "isItalic": true
+    },
+    "400_KNOWLEDGE/570-🗺️Topics/570-🗺️Topics_dashboard.md": {
+      "textColor": "#55a9d3",
+      "isItalic": true
+    },
+    "400_KNOWLEDGE/490_🛠resources/490_🛠resources_dashboard.md": {
+      "textColor": "#55a9d3",
+      "isItalic": true
+    },
+    "400_KNOWLEDGE/510-✨AtomicNotes/510-✨AtomicNotes_dashboard.md": {
+      "textColor": "#55a9d3",
+      "isItalic": true
+    },
+    "300_JOURNAL/310-🌱DailyNotes_dashboard.md": {
+      "textColor": "#e6eebf",
+      "isItalic": true
+    },
+    "300_JOURNAL/310_✅tasks_dashboard.md": {
+      "textColor": "#e6eebf",
+      "isItalic": true
+    },
+    "300_JOURNAL/350-🕘Meetings_dashboard.md": {
+      "textColor": "#e6eebf",
+      "isItalic": true
+    },
+    "300_JOURNAL/340_✏️basic_dashboard.md": {
+      "textColor": "#e6eebf",
+      "applyToFiles": false,
+      "isItalic": true
+    },
+    "900_meta/960_config/javascript": {
+      "textColor": "#ff6161",
+      "applyToFiles": true
+    },
+    "Dissertation proposal": {
+      "textColor": "#4dead0",
+      "isItalic": true,
+      "isBold": false
+    },
+    "410_DISSERTATION": {
+      "textColor": "#4dead0",
+      "isItalic": true
+    },
+    "300_🪷JOURNAL": {
+      "backgroundColor": "#6e8d5e",
+      "textColor": "#000000",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "500_🌷KNOWLEDGE": {
+      "backgroundColor": "#49afb6",
+      "textColor": "#000000",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "700_PERIODICALREVIEW": {
+      "backgroundColor": "#937ece",
+      "textColor": "#000000",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "700_📆PERIODICALREVIEW": {
+      "backgroundColor": "#937ece",
+      "textColor": "#000000",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": true,
+      "applyToFiles": false
+    },
+    "300_ATLAS/430-🐢Personal": {
+      "backgroundColor": "#636728",
+      "textColor": "#f2f7fd",
+      "isBold": true
+    },
+    "900_meta/910-Tmpl": {
+      "backgroundColor": "#252832",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "400-ActiveProjects": {
+      "backgroundColor": "#81b189",
+      "textColor": "#090707",
+      "isBold": true
+    },
+    "100-DOCK": {
+      "textColor": "#ff8533",
+      "isItalic": true,
+      "applyToSubfolders": true
+    },
+    "400-PROJECTS-ACTIVE": {
+      "textColor": "#55b978",
+      "applyToFiles": true
+    },
+    "410-DISSERTATION": {
+      "textColor": "#5ddfc5",
+      "backgroundColor": "#24273a",
+      "applyToSubfolders": true
+    },
+    "800_🐢PERSONAL": {
+      "textColor": "#ee81e5",
+      "backgroundColor": "#24273a",
+      "applyToSubfolders": true
+    },
+    "430-PAPERS": {
+      "textColor": "#ff7ad5",
+      "applyToSubfolders": true
+    },
+    "880_overview": {
+      "textColor": "#fffa5c"
+    },
+    "410-🌙DISSERTATION": {
+      "textColor": "#34888d",
+      "isBold": false
+    },
+    "410-🌙DISSERTATION/📝Writing pages": {
+      "textColor": "#66f5ff",
+      "isBold": true
+    },
+    "430-CLINICAL HSS": {
+      "textColor": "#44c173"
+    },
+    "880_obsidian": {
+      "textColor": "#ffd152",
+      "applyToFiles": true
+    },
+    "900_meta/960_config": {
+      "textColor": "#ff9e9e",
+      "applyToFiles": true
+    },
+    "430-CLINICAL Henry St": {
+      "textColor": "#44c173"
+    },
+    "000-🏡Home_mb.md": {
+      "backgroundColor": "#171c2b",
+      "textColor": "#ff70d2",
+      "isBold": true
+    },
+    "310-Therapy Henry St": {
+      "textColor": "#44c173"
+    },
+    "900_meta/910-tmpl/qa_scripts": {
+      "textColor": "#dbb54d",
+      "applyToFiles": true,
+      "isItalic": true
+    },
+    "410-🌙DISSERTATION/Diss Proposal (longform)": {
+      "textColor": "#ff66cf",
+      "isBold": false,
+      "applyToFiles": true,
+      "isItalic": true
+    },
+    "Docxer": {
+      "textColor": "#adc9ff",
+      "applyToFiles": true
+    },
+    "430-📝 LONGFORM WRITING": {
+      "backgroundColor": "#937ece",
+      "textColor": "#000000",
+      "isBold": true,
+      "isItalic": false,
+      "opacity": 1,
+      "applyToSubfolders": false,
+      "applyToFiles": false
+    },
+    "430-📝 LONGFORM WRITING/Docxer": {
+      "textColor": "#a06be1",
+      "isItalic": false,
+      "isBold": false,
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "430-LONGFORM WRITING": {
+      "textColor": "#5dd0df",
+      "backgroundColor": "#24273a",
+      "applyToSubfolders": true
+    },
+    "560-COUNSELING": {
+      "textColor": "#5d7edf",
+      "backgroundColor": "#24273a"
+    },
+    "700-PERIODICALREVIEW": {
+      "textColor": "#ee81a7",
+      "backgroundColor": "#24273a",
+      "applyToSubfolders": true
+    },
+    "990_fileconversion": {
+      "textColor": "#a65e99"
+    },
+    "900_fileconversion": {
+      "textColor": "#c874b6",
+      "applyToFiles": false,
+      "applyToSubfolders": true
+    },
+    "550_dissertationproposal": {
+      "textColor": "#8e81ee",
+      "backgroundColor": "#24273a",
+      "applyToSubfolders": true
+    },
+    "630-LONGFORM WRITING": {
+      "textColor": "#ff94c8",
+      "backgroundColor": "#24273a",
+      "applyToSubfolders": true,
+      "isBold": false,
+      "isItalic": false
+    },
+    "920_fileprocessing/🧲▶️-Obisidan-to-word/📄Worddoc-with-livecitations": {
+      "textColor": "#575b7a",
+      "applyToFiles": true,
+      "applyToSubfolders": true,
+      "isItalic": true
+    },
+    "100_DOCK": {
+      "textColor": "#f25454",
+      "backgroundColor": "#24273a",
+      "applyToSubfolders": true
+    }
+  },
+  "presets": {
+    "50": {
+      "textColor": "#e65b5b",
+      "backgroundColor": "#24273a"
+    },
+    "100": {
+      "textColor": "#f97d48",
+      "backgroundColor": "#24273a"
+    },
+    "200": {
+      "textColor": "#f9b848",
+      "backgroundColor": "#24273a"
+    },
+    "300": {
+      "textColor": "#afdc32",
+      "backgroundColor": "#24273a"
+    },
+    "400": {
+      "textColor": "#5ddfc5",
+      "backgroundColor": "#24273a"
+    },
+    "500": {
+      "textColor": "#9c6be6",
+      "backgroundColor": "#24273a"
+    },
+    "600": {
+      "textColor": "#ee81e5",
+      "backgroundColor": "#24273a",
+      "applyToSubfolders": true
+    },
+    "900": {
+      "textColor": "#6b6b6b",
+      "applyToSubfolders": true,
+      "backgroundColor": "#12131c"
+    },
+    "home": {
+      "backgroundColor": "#171c2b",
+      "textColor": "#ff70d2",
+      "isBold": true
+    },
+    "300b": {
+      "textColor": "#4dc32c",
+      "backgroundColor": "#24273a"
+    },
+    "300c": {
+      "textColor": "#5ddfa2",
+      "backgroundColor": "#24273a"
+    },
+    "400b": {
+      "textColor": "#5dd0df",
+      "backgroundColor": "#24273a"
+    },
+    "400c": {
+      "textColor": "#5da0df",
+      "backgroundColor": "#24273a"
+    },
+    "400d": {
+      "textColor": "#5d7edf",
+      "backgroundColor": "#24273a"
+    },
+    "wordconversion": {
+      "backgroundColor": "#3e4260"
+    },
+    "xx": {
+      "textColor": "#bfbfbf",
+      "applyToSubfolders": true,
+      "backgroundColor": "#222435"
+    }
+  },
+  "presetOrder": [
+    "home",
+    "50",
+    "100",
+    "200",
+    "300",
+    "300b",
+    "300c",
+    "400",
+    "400b",
+    "400c",
+    "400d",
+    "500",
+    "600",
+    "900",
+    "wordconversion",
+    "xx"
+  ]
+}

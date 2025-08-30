@@ -1,0 +1,20 @@
+/* Monospace */
+.preview-fira { font-family: "Fira Code", monospace !important; }
+.preview-jetbrains { font-family: "JetBrains Mono", monospace !important; }
+.preview-sourcecode { font-family: "Source Code Pro", monospace !important; }
+.preview-inconsolata { font-family: "Inconsolata", monospace !important; }
+.preview-ibmplex { font-family: "IBM Plex Mono", monospace !important; }
+.preview-menlo { font-family: "Menlo", monospace !important; }
+.preview-consolas { font-family: "Consolas", monospace !important; }
+
+/* Serif */
+.preview-times { font-family: "Times New Roman", serif !important; }
+.preview-georgia { font-family: "Georgia", serif !important; }
+.preview-palatino { font-family: "Palatino Linotype", serif !important; }
+.preview-garamond { font-family: "Garamond", serif !important; }
+
+/* Sans-serif */
+.preview-helvetica { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important; }
+.preview-inter { font-family: "Inter", sans-serif !important; }
+.preview-roboto { font-family: "Roboto", sans-serif !important; }
+.preview-opensans { font-family: "Open Sans", sans-serif !important; }

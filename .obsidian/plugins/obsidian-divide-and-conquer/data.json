@@ -1,0 +1,14 @@
+{
+  "pluginFilterRegexes": [
+    "hot-reload",
+    "obsidian-divide-and-conquer"
+  ],
+  "snippetFilterRegexes": [],
+  "filterUsingDisplayName": true,
+  "filterUsingAuthor": false,
+  "filterUsingDescription": false,
+  "initializeAfterPluginChanges": false,
+  "reloadAfterPluginChanges": false,
+  "disabledStates": "{\"plugins\":[[\"obsidian-zotero-desktop-connector\",\"various-complements\",\"obsidian-trash-explorer\",\"obsidian-toggl-integration\",\"tickticksync\",\"templater-obsidian\",\"obsidian-tasks-plugin\",\"tasknotes\",\"tag-wrangler\",\"obsidian-plugin-toc\",\"sync-graph-settings\",\"surfing\",\"supercharged-links-obsidian\",\"obsidian-style-settings\",\"simple-columns\",\"settings-search\",\"replace-all\",\"obsidian-regex-replace\",\"recent-files-obsidian\",\"quickadd\",\"darlal-switcher-plus\",\"persistent-graph\",\"periodic_note␥s\",\"url-into-selection\",\"obsidian-pandoc-reference-list\",\"obsidian-pandoc\",\"obsidian-outliner\",\"nldates-obsidian\",\"multi-properties\",\"obsidian-meta-bind-plugin\",\"longform\",\"local-backup\",\"obsidian-linter\",\"obsidian-kanban\",\"js-engine\",\"obsidian-importer\",\"image-converter\",\"iconic\",\"homepage\",\"obsidian-view-mode-by-frontmatter\",\"find-orphaned-images\",\"find-unlinked-files\",\"obsidian-enhancing-export\",\"obsidian-dangling-links\",\"cmdr\",\"auto-moc\",\"auto-note-mover\",\"advanced-canvas\"]]}",
+  "snapshots": "{\"plugins\":[\"obsidian-zotero-desktop-connector\",\"various-complements\",\"obsidian-trash-explorer\",\"obsidian-toggl-integration\",\"tickticksync\",\"templater-obsidian\",\"obsidian-tasks-plugin\",\"tasknotes\",\"tag-wrangler\",\"obsidian-plugin-toc\",\"sync-graph-settings\",\"surfing\",\"supercharged-links-obsidian\",\"obsidian-style-settings\",\"simple-columns\",\"settings-search\",\"replace-all\",\"obsidian-regex-replace\",\"recent-files-obsidian\",\"quickadd\",\"darlal-switcher-plus\",\"persistent-graph\",\"periodic_note␥s\",\"url-into-selection\",\"obsidian-pandoc-reference-list\",\"obsidian-pandoc\",\"obsidian-outliner\",\"nldates-obsidian\",\"multi-properties\",\"obsidian-meta-bind-plugin\",\"longform\",\"local-backup\",\"obsidian-linter\",\"obsidian-kanban\",\"js-engine\",\"obsidian-importer\",\"image-converter\",\"iconic\",\"homepage\",\"obsidian-view-mode-by-frontmatter\",\"find-orphaned-images\",\"find-unlinked-files\",\"obsidian-enhancing-export\",\"obsidian-dangling-links\",\"cmdr\",\"auto-moc\",\"auto-note-mover\",\"advanced-canvas\"]}"
+}

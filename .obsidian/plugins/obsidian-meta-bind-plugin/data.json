@@ -1,0 +1,53 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "Update literature note",
+      "hidden": false,
+      "tooltip": "This will fetch new annotations from Zotero",
+      "id": "update-litnote",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "command",
+          "command": "templater-obsidian:900_meta/910_᯽tmpl/templates/910_embedded/410_🧲zotero_import_templater.md"
+        }
+      ]
+    },
+    {
+      "label": "new supercharged link css filetype",
+      "icon": "",
+      "style": "default",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "supercharge-filetype",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "insertIntoNote",
+          "line": 1,
+          "value": "/* ~~~~~~~~~ 🟡🪼filetype ~~~~~~~~~ */\n\n.theme-light .data-link-text[data-link-filetype=\"🪼filetype\"], .theme-light .markdown-preview-view .internal-link[data-link-filetype=\"🪼filetype\"] { \n  font-weight: 400; font-style: ; font-family: \"Courier New\", Courier, monospace !important;\n  color: #⭐color !important; } \n.theme-light .data-link-icon[data-link-filetype=\"🪼filetype\"]::before, .theme-light .markdown-preview-view .internal-link[data-link-filetype=\"🪼filetype\"]::before { \n  content: \"🌱EMOJI🌱\"; \n  color: #⭐color !important; } \n\n.theme-dark .data-link-text[data-link-filetype=\"🪼filetype\"], .theme-dark .markdown-preview-view .internal-link[data-link-filetype=\"🪼filetype\"] { \n  font-weight: 400; font-style: ; font-family: \"Courier New\", Courier, monospace !important;\n  color: #⭐color !important; } \n.theme-dark .data-link-icon[data-link-filetype=\"🪼filetype\"]::before, .theme-dark .markdown-preview-view .internal-link[data-link-filetype=\"🪼filetype\"]::before { \n  content: \"🌱EMOJI🌱\"; \n  color: #⭐color !important; } \n",
+          "templater": false
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

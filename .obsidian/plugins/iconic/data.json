@@ -1,0 +1,407 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 300,
+  "colorPicker1": "rgb",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": true,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {
+    "ReferenceListView": {
+      "color": "#1abaff"
+    },
+    "VIEW_TYPE_LONGFORM_EXPLORER": {
+      "color": "#5bff14"
+    },
+    "all-properties": {
+      "icon": "🅿️"
+    },
+    "file-explorer": {
+      "color": "#ffdd00",
+      "icon": "📂"
+    },
+    "kanban": {
+      "icon": "✅"
+    },
+    "recent-files": {
+      "icon": "🕰️"
+    },
+    "tag": {
+      "icon": "lucide-tag",
+      "color": "#99fdff"
+    }
+  },
+  "fileIcons": {
+    "0. 🚩 working templates 🚩.md": {
+      "icon": "⭐"
+    },
+    "1 Dock": {
+      "icon": "🏠",
+      "unsynced": [
+        "documents/obsidiansync"
+      ]
+    },
+    "1 Dock/0 people and project notes.md": {
+      "icon": "🧑‍🎓"
+    },
+    "1 Dock/HOME.md": {
+      "icon": "🏠"
+    },
+    "1_inbox_fleeting notes": {
+      "icon": "☁️",
+      "unsynced": [
+        "documents/obsidiansync"
+      ]
+    },
+    "300_ATLAS/320_👥people/tester.md": {
+      "color": "#1f4bff"
+    },
+    "410-🌙DISSERTATION/diss guidelines.md": {
+      "icon": "🔑"
+    },
+    "430-LONGFORM WRITING/Docxer (DROP IN HERE)": {
+      "icon": "🖇️"
+    },
+    "800_🐢PERSONAL/820_🍃plants": {
+      "icon": "🪴"
+    },
+    "900_meta/900_📍CornerNote.md": {
+      "icon": "📍"
+    },
+    "900_meta/910_Tmpl/910_template management.md": {
+      "icon": "⭐"
+    },
+    "900_meta/911_backend_coding/workspace shortcuts.md": {
+      "icon": "⭐"
+    },
+    "900_meta/920_coding/Knowledge workspace.md": {
+      "icon": "📚"
+    },
+    "900_meta/960_config/buttons and callouts/900 🔑 Buttons and shortcuts.md": {
+      "icon": "🔑"
+    },
+    "900_meta/960_config/javascript": {
+      "icon": "💽"
+    },
+    "900_meta/corner workspace.md": {
+      "icon": "⭐"
+    },
+    "daily notes": {
+      "icon": "📅",
+      "unsynced": [
+        "documents/obsidiansync"
+      ]
+    },
+    "ppl_notes": {
+      "icon": "🫂",
+      "unsynced": [
+        "documents/obsidiansync"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {
+    "find-orphaned-images:Find orphaned images": {
+      "icon": "lucide-camera"
+    },
+    "graph:Open graph view": {
+      "icon": "🗺️"
+    },
+    "homepage:Open homepage": {
+      "icon": "🏠"
+    },
+    "local-backup:Run local backup": {
+      "color": "#5774e5"
+    },
+    "obsidian-excalidraw-plugin:New drawing": {
+      "icon": "🖌️"
+    },
+    "obsidian-statusbar-pomo:Start pomodoro": {
+      "icon": "🍅"
+    },
+    "obsidian-trash-explorer:Open trash explorer": {
+      "color": "#990000"
+    },
+    "periodic_note␥s:Open today": {
+      "icon": "📅"
+    },
+    "quickadd:QuickAdd": {
+      "icon": "🌟"
+    },
+    "tasknotes:Open advanced calendar": {
+      "color": "#55d93a"
+    },
+    "tasknotes:Open agenda": {
+      "color": "#46d33c"
+    },
+    "tasknotes:Open kanban board": {
+      "color": "#2edc1e"
+    },
+    "tasknotes:Open task list": {
+      "color": "#3ad93d"
+    },
+    "templater-obsidian:Templater": {
+      "icon": "🪞"
+    },
+    "workspaces:Manage workspace layouts": {
+      "color": "#00ff1e"
+    },
+    "zk-prefixer:Create new unique note": {
+      "color": "#fbff00"
+    }
+  },
+  "fileRules": [
+    {
+      "id": "Fo19P",
+      "name": "_➕tmplnote",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "endsWith",
+          "value": "_➕tmplnote"
+        }
+      ],
+      "enabled": false,
+      "icon": "lucide-file-code",
+      "color": "#a5ff9e"
+    },
+    {
+      "id": "qdkWm",
+      "name": "_templater",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "endsWith",
+          "value": "_templater"
+        }
+      ],
+      "enabled": false,
+      "icon": "🎇"
+    },
+    {
+      "id": "gYUNX",
+      "name": "_refresh",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "endsWith",
+          "value": "_refresh"
+        }
+      ],
+      "enabled": false,
+      "icon": "lucide-refresh-cw",
+      "color": "#ff4747"
+    },
+    {
+      "id": "lMQRm",
+      "name": "_tmpl",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "endsWith",
+          "value": "_tmpl"
+        }
+      ],
+      "enabled": false,
+      "icon": "lucide-pen-line",
+      "color": "#4d70ff"
+    },
+    {
+      "id": "3UrwH",
+      "name": "-scratch",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "-scratch"
+        }
+      ],
+      "enabled": false,
+      "icon": "♻️"
+    },
+    {
+      "id": "ARygW",
+      "name": "(lf)",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "(lf)"
+        }
+      ],
+      "enabled": false,
+      "icon": "✏️"
+    }
+  ],
+  "folderRules": [
+    {
+      "id": "n3VZ8",
+      "name": "inbox",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "startsWith",
+          "value": "200_📥INBOX"
+        }
+      ],
+      "enabled": false,
+      "icon": "🌱"
+    },
+    {
+      "id": "ST0l9",
+      "name": "journal",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "startsWith",
+          "value": "300-journal"
+        }
+      ],
+      "enabled": false,
+      "icon": "🔖"
+    },
+    {
+      "id": "GRnpO",
+      "name": "630-writing",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "630-writing"
+        }
+      ],
+      "enabled": false,
+      "icon": "✏️"
+    },
+    {
+      "id": "7vSQ5",
+      "name": "50-dock",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "50-dock"
+        }
+      ],
+      "enabled": false,
+      "icon": "📥"
+    },
+    {
+      "id": "Zk60E",
+      "name": "diss",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "diss"
+        }
+      ],
+      "enabled": false,
+      "icon": "⭐"
+    },
+    {
+      "id": "QIud3",
+      "name": "500-knowledge",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "500-knowledge"
+        }
+      ],
+      "enabled": false,
+      "icon": "📚"
+    },
+    {
+      "id": "EHrzm",
+      "name": "counseling",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "400"
+        }
+      ],
+      "enabled": false,
+      "icon": "🏥"
+    },
+    {
+      "id": "lndxv",
+      "name": "personal",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "personal"
+        }
+      ],
+      "enabled": false,
+      "icon": "🐢"
+    },
+    {
+      "id": "naai5",
+      "name": "periodic",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "700-periodical"
+        }
+      ],
+      "enabled": false,
+      "icon": "📅"
+    },
+    {
+      "id": "AQEgn",
+      "name": "900",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "900_meta"
+        }
+      ],
+      "enabled": false,
+      "icon": "⚙️"
+    }
+  ]
+}

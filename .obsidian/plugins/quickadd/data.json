@@ -1,0 +1,2477 @@
+{
+  "choices": [
+    {
+      "id": "79b34743-386f-498e-a4dc-cfcc243232fb",
+      "name": "☑️⋆TaskNotes⋆New ⟡",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "16627534-19bf-4b22-9077-19a0ef98c9b6",
+        "name": "☑️⋆TaskNotes⋆New ⟡",
+        "commands": [
+          {
+            "name": "TaskNotes: Create new task",
+            "type": "Obsidian",
+            "id": "5ef82924-57bc-4487-a0d5-46b618f518e9",
+            "commandId": "tasknotes:create-new-task"
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "bd2870e4-e52f-4327-b643-8b078212134b",
+      "name": "👥🚀⋆People/Projects ⏬⟡⚡",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "413e7992-5d8f-4a68-9c01-39e1084b63ce",
+        "name": "👥🚀⋆People/Projects ⏬⟡⚡",
+        "commands": [
+          {
+            "name": "👥🚀⋆People/Projects ⏬⟡⚡",
+            "type": "UserScript",
+            "id": "bac606bd-338c-410a-95be-0d7e41e1d042",
+            "path": "900_meta/910_᯽tmpl/scripts/Select_Person or Project_⏬᯽⚡.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "fe2fd8db-86b8-4f2d-823f-884aad643ec5",
+      "name": "📄 Generic note ➕⟡",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "bdcc06f6-c538-4429-ae69-9e132c0d05d9",
+        "name": "📄 Generic note ➕⟡",
+        "commands": [
+          {
+            "name": "📄 Generic note ➕⟡",
+            "type": "NestedChoice",
+            "id": "46e89654-5a14-4764-a209-acb7b6991225",
+            "choice": {
+              "id": "8cae69cf-6728-4e19-9fdf-d255b7a5e934",
+              "name": "📄 Generic note ➕⟡",
+              "type": "Template",
+              "command": false,
+              "templatePath": "900_meta/910_᯽tmpl/templates/0_generic_➕tmplnote.md",
+              "fileNameFormat": {
+                "enabled": false,
+                "format": "{{value}}"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [
+                  "200_📥INBOX"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFileInNewTab": {
+                "enabled": true,
+                "direction": "vertical",
+                "focus": true
+              },
+              "openFile": true,
+              "openFileInMode": "default",
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              }
+            }
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "da81f10f-52c6-443e-8686-19627a4c9d18",
+      "name": "📄 New note ⏬➕⟡⚡",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "d2434d7e-eda4-4768-8a36-d09e52b63113",
+        "name": "📄 New note ⏬➕⟡⚡",
+        "commands": [
+          {
+            "name": "📄 New note ⏬➕⟡⚡",
+            "type": "UserScript",
+            "id": "9d5ff824-f617-4383-b1cc-e5705c5da78b",
+            "path": "900_meta/910_᯽tmpl/scripts/➕📄NewNote_⏬᯽⚡.js",
+            "settings": {}
+          },
+          {
+            "name": "Templater: Jump to next cursor location",
+            "type": "Obsidian",
+            "id": "88fa0cc9-b8b2-4d15-8f72-95fe2609cbe2",
+            "commandId": "templater-obsidian:jump-to-next-cursor-location"
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "04968281-52fd-49a8-a933-f3c4efcb147e",
+      "name": "📄 New note ⏬➕⟡ⴵ",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "a12b76b3-2ecd-4031-922d-75e70582df0e",
+        "name": "📄 New note ⏬➕⟡ⴵ",
+        "commands": [
+          {
+            "name": "📄 New note ⏬➕⟡ⴵ",
+            "type": "UserScript",
+            "id": "b0c13200-484c-4b5a-a933-45f2114b1d8f",
+            "path": "900_meta/910_᯽tmpl/scripts/➕📄NewNote_⏬᯽ⴵ.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "671c9919-086d-4f13-a84f-a6aeaceb0c4b",
+      "name": "✅⋆Tasks⋆NEW ⟡⚡︎",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "7113388d-c15a-4597-a3cd-39acbfa10d8a",
+        "name": "✅⋆Tasks⋆NEW ⟡⚡︎",
+        "commands": [
+          {
+            "name": "✅⋆Tasks⋆NEW ⟡⚡︎",
+            "type": "UserScript",
+            "id": "1290eaa7-f95e-4ee1-b72c-5a5e15b8b2ee",
+            "path": "900_meta/910_᯽tmpl/scripts/310_✅tasks_add new_᯽⚡.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "9e17da7f-0def-4279-8f2e-2d01e422b67a",
+      "name": "🔖⋆Meetings⋆recent ⏬⟡⚡",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "2aa7d560-584c-4ea1-8255-7930692674f4",
+        "name": "🔖⋆Meetings⋆recent ⏬⟡⚡",
+        "commands": [
+          {
+            "name": "🔖⋆Meetings⋆recent ⏬⟡⚡",
+            "type": "UserScript",
+            "id": "f198efec-63bb-4632-b754-b7604071c127",
+            "path": "900_meta/910_᯽tmpl/scripts/Select_350_🔖meetings_recent_⏬᯽⚡.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "7c0597a4-405e-44ea-b78c-994b345ce3b9",
+      "name": "⌖dashboards ⏬⟡⚡",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "20564802-0dd4-458a-97a4-c404e3e7ebab",
+        "name": "⌖dashboards ⏬⟡⚡",
+        "commands": [
+          {
+            "name": "⌖dashboards ⏬⟡⚡",
+            "type": "UserScript",
+            "id": "c5c8138e-fd99-4da5-84db-dbda093246f8",
+            "path": "900_meta/910_᯽tmpl/scripts/Select_⌖dashboards_᯽⚡.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "c025a5be-9d49-4cc3-ba9a-66db4fcb1b35",
+      "name": "──────── ➕ New notes ────────",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "4dbd2f45-d88d-4af8-b08f-3fd59927e777",
+          "name": "🎨⋆Excalidraw⋆➕⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "ee1d719c-3caa-4751-b725-059eb2af7048",
+            "name": "🎨⋆Excalidraw⋆➕⟡",
+            "commands": [
+              {
+                "name": "Excalidraw: Create new drawing - IN A NEW TAB",
+                "type": "Obsidian",
+                "id": "e9d888bd-6e6a-40ee-a4b9-26b57e0bffec",
+                "commandId": "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "81ac9062-e14c-438d-b1a3-cbd6145d9fd6",
+          "name": "📥⋆Inbox⋆➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "67b3f974-f3ea-4cfd-b2e7-76a4ebe3b97f",
+            "name": "📥⋆Inbox⋆➕⟡⚡",
+            "commands": [
+              {
+                "name": "📥⋆Inbox⋆➕⟡⚡",
+                "type": "UserScript",
+                "id": "e757a44c-6012-4c50-9696-9010488d8b59",
+                "path": "900_meta/910_᯽tmpl/scripts/200_📥INBOX_➕᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "463f2d29-ae4b-4fad-88b9-26bfdbbf7776",
+          "name": "📥⋆Inbox⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "d4c06cb4-fbbc-4e34-bba6-86df18e2a320",
+            "name": "📥⋆Inbox⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "📥⋆Inbox⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "c892788f-eb30-42e7-8616-04e41fc0da6e",
+                "path": "900_meta/910_᯽tmpl/scripts/200_📥INBOX_➕᯽ⴵ.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "9b069aaf-30cc-428d-beed-3844f79ee9fd",
+          "name": "🐢⋆Personal⋆➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "15a09cbe-ba6f-4ccf-a98a-1109be844192",
+            "name": "🐢⋆Personal⋆➕⟡⚡",
+            "commands": [
+              {
+                "name": "🐢⋆Personal⋆➕⟡⚡",
+                "type": "UserScript",
+                "id": "c0ad9a37-063e-4476-8987-c7a83ea82afc",
+                "path": "900_meta/910_᯽tmpl/scripts/800_🐢PERSONAL_➕᯽⚡.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "53f730aa-2721-4658-9426-c2ff3520184c",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "b0849543-e93a-456f-aa73-e03e14e7d7cc",
+          "name": "🐢⋆Personal⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "c796d8e4-b4da-4927-bdef-ec6eb59a9207",
+            "name": "🐢⋆Personal⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "🐢⋆Personal⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "0eeda847-8b72-4e51-9bf6-7d69c73ed327",
+                "path": "900_meta/910_᯽tmpl/scripts/800_🐢PERSONAL_➕᯽ⴵ.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "84f2f024-a1d9-4d81-97ef-9481489802ef",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "37111d4c-6a1e-46d1-86f6-c41f90a2a76d",
+          "name": "🍃⋆Plants⋆➕⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "91a2a393-abfe-4515-a475-674d03aee793",
+            "name": "🍃⋆Plants⋆➕⟡",
+            "commands": [
+              {
+                "name": "🍃⋆Plants⋆➕⟡",
+                "type": "NestedChoice",
+                "id": "b9681d6d-c48a-4d5b-b94f-632e64a486a6",
+                "choice": {
+                  "id": "b415b019-266b-4942-92ac-af6a26080dee",
+                  "name": "🍃⋆Plants⋆➕⟡",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "900_meta/910_᯽tmpl/templates/820_🍃plants_➕tmplnote.md",
+                  "fileNameFormat": {
+                    "enabled": true,
+                    "format": "{{VALUE}}"
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "800_🐢PERSONAL/820_🍃plants/821_🍃plants_species"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFileInNewTab": {
+                    "enabled": false,
+                    "direction": "vertical",
+                    "focus": true
+                  },
+                  "openFile": true,
+                  "openFileInMode": "default",
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": true,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  }
+                }
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "5f7cf709-2064-4533-9542-0d08fcb17e3d",
+          "name": "🍃⋆Plants⋆YAML images ⧉⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "c781d27f-a4c1-4be6-a41d-4aa4ea188d02",
+            "name": "🍃⋆Plants⋆YAML images ⧉⟡⚡",
+            "commands": [
+              {
+                "name": "🍃⋆Plants⋆YAML images ⧉⟡⚡",
+                "type": "UserScript",
+                "id": "ef6c2b81-3efe-410c-9828-ecfdd2890e3b",
+                "path": "900_meta/910_᯽tmpl/scripts/820_🍃plants_updateyaml_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "417c59a1-1f3c-4113-9d3b-0a414fd77c70",
+          "name": "🔖⋆Meetings⋆➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "62081868-ae46-445b-9609-12df8a583bf6",
+            "name": "🔖⋆Meetings⋆➕⟡⚡",
+            "commands": [
+              {
+                "name": "🔖⋆Meetings⋆➕⟡⚡",
+                "type": "UserScript",
+                "id": "12179a36-ba68-47e0-945d-201dc2af74bb",
+                "path": "900_meta/910_᯽tmpl/scripts/350_🔖meetings_➕᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "332e5af6-4a05-49bd-af29-1d49d3f21b53",
+          "name": "🔖⋆Meetings⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "c284778c-9d8d-4156-9eb7-e20276b59c5b",
+            "name": "🔖⋆Meetings⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "🔖⋆Meetings⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "5de2e809-c73e-4855-9758-2ab6f996833e",
+                "path": "900_meta/910_᯽tmpl/scripts/350_🔖meetings_➕᯽ⴵ.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "be7f42bc-9356-47c2-bcf6-2094f8310bb7",
+          "name": "🔖⋆Meetings⋆inline ➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "dd0faa3f-2e80-4aeb-a76e-fea586108476",
+            "name": "🔖⋆Meetings⋆inline ➕⟡⚡",
+            "commands": [
+              {
+                "name": "🔖⋆Meetings⋆inline ➕⟡⚡",
+                "type": "UserScript",
+                "id": "c7f714fe-c75c-4200-9661-1e97c6dd24a6",
+                "path": "900_meta/910_᯽tmpl/scripts/350_🔖meetings_inline_᯽⚡.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "2730385f-4183-43a4-af06-727638c2c861",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "07dbedbe-0013-456c-886c-b40e65f94ea2",
+          "name": "🔖⋆Meetings⋆inline (dated) ➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "2414b7fd-bd9a-482f-8f33-79fbde503739",
+            "name": "🔖⋆Meetings⋆inline (dated) ➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "🔖⋆Meetings⋆inline (dated) ➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "b50ecb80-9040-4183-8b9e-eadb05ea4c2b",
+                "path": "900_meta/910_᯽tmpl/scripts/350_🔖meetings_inlineadddate_᯽ⴵ.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "df480906-0944-4025-ae1e-1e7641402ef6",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "b242552b-3183-45ab-9a03-ebd9011a1816",
+          "name": "🔖⋆Meetings⋆YAML date ⧉⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "a263e4eb-cec6-4922-baf7-fbf78942f135",
+            "name": "🔖⋆Meetings⋆YAML date ⧉⟡⚡",
+            "commands": [
+              {
+                "name": "🔖⋆Meetings⋆YAML date ⧉⟡⚡",
+                "type": "UserScript",
+                "id": "d266e32f-ad87-4bd4-8456-094ee99dde5b",
+                "path": "900_meta/910_᯽tmpl/scripts/350_🔖meetings_updatedate_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "0f54abb9-668e-4b76-9b8e-a9bfbc7ec72e",
+          "name": "👥⋆People⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "c2039f7f-cc8e-4452-b87c-6d669c4bb959",
+            "name": "👥⋆People⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "👥⋆People⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "4727c1fd-7178-4650-b39c-30ef1a408a68",
+                "path": "900_meta/910_᯽tmpl/scripts/320_👥people_➕᯽ⴵ.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "9989b259-375d-44f0-81f9-e853823fa2f5",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "ddc216a0-9453-4be3-99c4-e7db03cc3ce8",
+          "name": "🚀⋆Projects⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "60e8eb74-38bf-4745-b030-cc0256c1b18c",
+            "name": "🚀⋆Projects⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "🚀⋆Projects⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "495f875d-8ee7-4c5f-a682-a47c256cd705",
+                "path": "900_meta/910_᯽tmpl/scripts/330_🚀projects_➕᯽ⴵ.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "838cd22d-c66f-4cf5-ac03-64b12adff28c",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "b29e5d78-329e-45f3-a525-379fcc1485bd",
+          "name": "✏️⋆Basic⋆➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "✏️⋆Basic⋆➕⟡⚡",
+            "id": "5b76d368-26ba-4acd-92be-6e31c444b1fc",
+            "commands": [
+              {
+                "name": "✏️⋆Basic⋆➕⟡⚡",
+                "type": "UserScript",
+                "id": "80184f64-0a6e-4241-822d-9ca3eb1e9c09",
+                "path": "900_meta/910_᯽tmpl/scripts/340_✏️basic_➕᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "f54cb8f9-ca4c-46f8-898a-509b1ce3cfad",
+          "name": "✏️⋆Basic⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "1ac55654-fbeb-4e1a-b86c-9bd73a474dbb",
+            "name": "✏️⋆Basic⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "✏️⋆Basic⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "90794b7a-9ad8-415e-8238-bc82c0a85280",
+                "path": "900_meta/910_᯽tmpl/scripts/340_✏️basic_➕᯽ⴵ.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "1ac3317a-b9c0-44cc-a1c8-3f51ed63ce10",
+          "name": "👥🚀⋆Docked note ➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "b7806dee-4126-416c-85fd-21395c4006a9",
+            "name": "👥🚀⋆Docked note ➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "👥🚀⋆Docked note ➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "ae54b3f4-f287-45ca-bd76-25fb334c09e8",
+                "path": "900_meta/910_᯽tmpl/scripts/300_👥🚀dockednote_➕᯽ⴵ.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "a9e04929-84d1-43c6-ac11-a53dd315fd29",
+          "name": "👥⋆People⋆⏬⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "8f90ddc0-3eff-437e-aa7d-074f80c2fc05",
+            "name": "👥⋆People⋆⏬⟡⚡",
+            "commands": [
+              {
+                "name": "👥⋆People⋆⏬⟡⚡",
+                "type": "UserScript",
+                "id": "003d545e-510c-4636-af6e-c3f4745022c5",
+                "path": "900_meta/910_᯽tmpl/scripts/Select_320_👥people_⏬᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "691db2ec-ab8d-4dbc-a2f2-22e47cdd3c4d",
+          "name": "🚀⋆Projects⋆⏬⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "c2c6d18b-839d-490f-baec-1d820866a673",
+            "name": "🚀⋆Projects⋆⏬⟡⚡",
+            "commands": [
+              {
+                "name": "🚀⋆Projects⋆⏬⟡⚡",
+                "type": "UserScript",
+                "id": "f7b2a8c8-966f-4030-af77-628cb81f233a",
+                "path": "900_meta/910_᯽tmpl/scripts/Select_330_🚀projects_⏬᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "4c5f458d-0998-4beb-a37d-0421021a3b54",
+          "name": "👥⋆refresh🔃⟡⟳",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "aac201b9-bb3a-459e-b8c9-7b56a3b2b845",
+            "name": "👥⋆refresh🔃⟡⟳",
+            "commands": [
+              {
+                "name": "👥⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "c45a68d4-e198-4631-a31c-54d897508272",
+                "path": "900_meta/910_᯽tmpl/scripts/320_👥people_refresh_᯽⟳.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "ea37843c-4e2c-4027-8250-73b61b57e667",
+          "name": "🚀⋆refresh🔃⟡⟳",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "d353a0aa-2a81-45ef-92f2-65a52136a75b",
+            "name": "🚀⋆refresh🔃⟡⟳",
+            "commands": [
+              {
+                "name": "🚀⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "7d43cee8-d2d1-47c0-8304-8e7cddd45640",
+                "path": "900_meta/910_᯽tmpl/scripts/330_🚀projects_refresh_᯽⟳.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "72003ca9-02bb-4823-879a-11a6cb870bcb",
+      "name": "──────── ➕ Knowledge 📚 ────────",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "6b40c7eb-5bb4-438d-8de5-40b773336e18",
+          "name": "🌱⋆Atomic⋆convert text to [] ➕⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "72b032d6-536b-487f-9408-18ed09ab50ef",
+            "name": "🌱⋆Atomic⋆convert text to [] ➕⟡",
+            "commands": [
+              {
+                "name": "🌱⋆Atomic⋆convert text to [] ➕⟡",
+                "type": "NestedChoice",
+                "id": "fffd553d-5ead-43fc-b9a5-14719a8f128b",
+                "choice": {
+                  "id": "7d8fae05-fc71-437b-af4d-4853451df5ad",
+                  "name": "🌱⋆Atomic⋆convert text to [] ➕⟡",
+                  "type": "Capture",
+                  "command": false,
+                  "appendLink": true,
+                  "captureTo": "400_KNOWLEDGE/420_🌱atomic/{{VALUE}}.md",
+                  "captureToActiveFile": false,
+                  "createFileIfItDoesntExist": {
+                    "enabled": true,
+                    "createWithTemplate": true,
+                    "template": "900_meta/910_᯽tmpl/templates/420_🌱atomic_➕tmplnote.md"
+                  },
+                  "format": {
+                    "enabled": true,
+                    "format": "{{LINKCURRENT}} {{DATE:}}\n"
+                  },
+                  "insertAfter": {
+                    "enabled": true,
+                    "after": "Linked from:: ",
+                    "insertAtEnd": false,
+                    "considerSubsections": false,
+                    "createIfNotFound": false,
+                    "createIfNotFoundLocation": "bottom"
+                  },
+                  "prepend": false,
+                  "task": false,
+                  "openFileInNewTab": {
+                    "enabled": false,
+                    "direction": "vertical",
+                    "focus": true
+                  },
+                  "openFile": true,
+                  "openFileInMode": "default"
+                }
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "03432d57-699f-4361-a4a2-db72ce5fb0ab",
+          "name": "🌱⋆Atomic⋆transclude 🪟⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "bbbb2497-9ed3-4cdb-95cf-dce061145bf7",
+            "name": "🌱⋆Atomic⋆transclude 🪟⟡ⴵ",
+            "commands": [
+              {
+                "name": "🌱⋆Atomic⋆transclude 🪟⟡ⴵ",
+                "type": "UserScript",
+                "id": "38a898dc-25ca-4ebb-99a3-1a2631f13218",
+                "path": "900_meta/910_᯽tmpl/scripts/420_🌱atomic_transclusion_🪟᯽ⴵ.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "68e91a71-e0e3-42d6-891c-23a057b79a91",
+          "name": "📓⋆Journals⋆➕⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "1e3c5c47-2c66-4f9a-826e-a75c0aa85af2",
+            "name": "📓⋆Journals⋆➕⟡",
+            "commands": [
+              {
+                "name": "Untitled Capture Choice",
+                "type": "NestedChoice",
+                "id": "9ba8f27c-b09f-450b-ae09-cde610aca861",
+                "choice": {
+                  "id": "f1450acf-e496-45ac-b79d-0c911e18dd3d",
+                  "name": "Untitled Capture Choice",
+                  "type": "Capture",
+                  "command": false,
+                  "appendLink": true,
+                  "captureTo": "400_KNOWLEDGE/620_📓journals/{{VALUE}}.md",
+                  "captureToActiveFile": false,
+                  "createFileIfItDoesntExist": {
+                    "enabled": true,
+                    "createWithTemplate": true,
+                    "template": "900_meta/910_᯽tmpl/templates/620_📓journals_➕tmplnote.md"
+                  },
+                  "format": {
+                    "enabled": true,
+                    "format": "#### 📓 {{VALUE}}"
+                  },
+                  "insertAfter": {
+                    "enabled": true,
+                    "after": "<!-- START::🛠resources-fullnote -->",
+                    "insertAtEnd": false,
+                    "considerSubsections": false,
+                    "createIfNotFound": false,
+                    "createIfNotFoundLocation": "top"
+                  },
+                  "prepend": false,
+                  "task": false,
+                  "openFileInNewTab": {
+                    "enabled": false,
+                    "direction": "vertical",
+                    "focus": true
+                  },
+                  "openFile": true,
+                  "openFileInMode": "default"
+                }
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "ed4c133b-1154-490c-963b-ee3bba43b941",
+          "name": "🧲⋆Zotero⋆new➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "dd67d73a-84c8-456e-aa32-0dc6d49acfaa",
+            "name": "🧲⋆Zotero⋆new➕⟡⚡",
+            "commands": [
+              {
+                "name": "410_🧲zotero_0citekey_᯽⚡",
+                "type": "UserScript",
+                "id": "4140c794-b3e2-4aec-be2f-ba93d5856995",
+                "path": "900_meta/910_᯽tmpl/scripts/410_🧲zotero_0citekey_᯽⚡.js",
+                "settings": {}
+              },
+              {
+                "name": "Zotero Integration: 519b_🧲⭐zotero_primaryimport",
+                "type": "Obsidian",
+                "id": "3610600c-c4cd-47b3-b16b-ed095332ea8c",
+                "commandId": "obsidian-zotero-desktop-connector:zdc-exp-519b_🧲⭐zotero_primaryimport"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "9e1c5e57-138a-4b71-b34c-5e2d9a33b48a",
+          "name": "🌱⋆Atomic⋆➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "1b9ccb65-3f5f-40d1-938c-8898e266265b",
+            "name": "🌱⋆Atomic⋆➕⟡⚡",
+            "commands": [
+              {
+                "name": "🌱⋆Atomic⋆➕⟡⚡",
+                "type": "UserScript",
+                "id": "fbebf943-a9a6-4e73-8b0d-c6e06df65f74",
+                "path": "900_meta/910_᯽tmpl/scripts/420_🌱atomic_➕᯽⚡.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "f8ed923d-083c-4def-9e90-58954e71a3eb",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "5ecfd0fe-eb23-4c86-9358-1ba253ed7d77",
+          "name": "🌱⋆Atomic⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "1e338080-339c-41b6-8ba7-560389bf4a98",
+            "name": "🌱⋆Atomic⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "🌱⋆Atomic⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "545cd904-c8e9-4dbf-9e11-40197f05eb2d",
+                "path": "900_meta/910_᯽tmpl/scripts/420_🌱atomic_➕᯽ⴵ.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "2f98c9a1-e2d4-44ca-8b01-fc6bd46322fc",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "b09e4002-dc31-4f3a-a33b-4b15b5eefaa3",
+          "name": "🌱⋆Atomic⋆from 🧲 quote (Select text) ➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "36a1490d-020c-467a-ad5e-d63ce96603a1",
+            "name": "🌱⋆Atomic⋆from 🧲 quote (Select text) ➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "🌱⋆Atomic⋆from 🧲 quote (Select text) ➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "c2ff7c36-38e9-4d58-b2f2-c9ef3687b0df",
+                "path": "900_meta/910_᯽tmpl/scripts/420_🌱atomic_fromzotero_➕᯽ⴵ.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "1095d0e6-07ff-4887-92f2-b98f44f42498",
+          "name": "🌲⋆Evergreen⋆➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "f437b203-8256-4522-ac9b-2b31d35b37d2",
+            "name": "🌲⋆Evergreen⋆➕⟡⚡",
+            "commands": [
+              {
+                "name": "🌲⋆Evergreen⋆➕⟡⚡",
+                "type": "UserScript",
+                "id": "b617ce48-eaff-4a62-86e0-872ec657e5d6",
+                "path": "900_meta/910_᯽tmpl/scripts/430_🌲evergreen_➕᯽⚡.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "7c00a67a-7cac-4aba-b1b6-0ccc4af1e2dd",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "0a758dce-f9fe-4788-b70e-7b43a0339f27",
+          "name": "🌲⋆Evergreen⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "d19370d8-7461-4b11-88c2-f47dc31172a1",
+            "name": "🌲⋆Evergreen⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "🌲⋆Evergreen⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "cfa610cf-302a-43b2-8276-733a6d292d96",
+                "path": "900_meta/910_᯽tmpl/scripts/430_🌲evergreen_➕᯽ⴵ.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "3533b113-80dc-4202-a8e5-e6c031edcb78",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "6bd4eeee-f21c-4b65-8dc9-44884eeafdde",
+          "name": "🌲⋆Evergreen⋆transclude 🪟⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "648a8c45-3cbb-4c41-acca-b4b4cdc31067",
+            "name": "🌲⋆Evergreen⋆transclude 🪟⟡ⴵ",
+            "commands": [
+              {
+                "name": "🌲⋆Evergreen⋆transclude 🪟⟡ⴵ",
+                "type": "UserScript",
+                "id": "8ac25ab6-d226-4312-bc08-ea4cbdd1d98e",
+                "path": "900_meta/910_᯽tmpl/scripts/430_🌲evergreen_transclusion_🪟᯽ⴵ.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "33d6f260-c082-48c0-8d9a-0836fb13fe57",
+          "name": "⛰️⋆Topics⋆➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "acdc32d0-a719-4695-a46c-141cf911e4c6",
+            "name": "⛰️⋆Topics⋆➕⟡⚡",
+            "commands": [
+              {
+                "name": "⛰️⋆Topics⋆➕⟡⚡",
+                "type": "UserScript",
+                "id": "b715f237-04e9-4ea3-8558-639a2d154a82",
+                "path": "900_meta/910_᯽tmpl/scripts/440_⛰️topics_➕᯽⚡.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "ffbc362c-8748-4143-894f-ae0201315106",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "30c08bf2-3270-4703-aa78-63c1039e2bf5",
+          "name": "⛰️⋆Topics⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "885b93a7-727d-41cd-a863-e7b2cd6950df",
+            "name": "⛰️⋆Topics⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "⛰️⋆Topics⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "4e6dd434-fa49-401c-ad36-e346292f9494",
+                "path": "900_meta/910_᯽tmpl/scripts/440_⛰️topics_➕᯽ⴵ.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "eb3fa598-392b-4cb8-b9f5-a0c225eb7a1d",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "074169bc-5207-4769-b27c-d1ad46d37a73",
+          "name": "📙⋆Lit⋆➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "69ad4dfd-d8d3-4d17-a03f-2c00dd2b9aa2",
+            "name": "📙⋆Lit⋆➕⟡⚡",
+            "commands": [
+              {
+                "name": "📙⋆Lit⋆➕⟡⚡",
+                "type": "UserScript",
+                "id": "6a717788-3016-45ab-8a5e-c2ab8dfd1981",
+                "path": "900_meta/910_᯽tmpl/scripts/450_📙literature_➕᯽⚡.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "5f79b7ac-63df-410b-8534-7961ee7f83d3",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "5d01931b-9087-451c-8418-e86ac9548568",
+          "name": "📙⋆Lit⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "a53f5887-9d9b-4648-8e3d-27a0fc5375c6",
+            "name": "📙⋆Lit⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "📙⋆Lit⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "565759c7-8257-4d65-bee0-bc343d416c3a",
+                "path": "900_meta/910_᯽tmpl/scripts/450_📙literature_➕᯽ⴵ.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "be42de7f-1381-4a16-ba50-13fbd72badb5",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "93b757be-b081-4720-8367-1459137a68e9",
+          "name": "🛠⋆Resources⋆➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "a8fa98e9-511d-43c4-81c7-7a96a4f608c1",
+            "name": "🛠⋆Resources⋆➕⟡⚡",
+            "commands": [
+              {
+                "name": "🛠⋆Resources⋆➕⟡⚡",
+                "type": "UserScript",
+                "id": "9b7c121c-0a8b-4792-97c8-6176c4382af2",
+                "path": "900_meta/910_᯽tmpl/scripts/490_🛠resources_➕᯽⚡.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "e3caaaa4-24da-4980-8c02-c3b25e6370d7",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "71f06d30-710b-4c98-b5cc-70e3e7c97f40",
+          "name": "🛠⋆Resources⋆➕⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "6641910a-357f-495e-a362-6bb044431e72",
+            "name": "🛠⋆Resources⋆➕⟡ⴵ",
+            "commands": [
+              {
+                "name": "🛠⋆Resources⋆➕⟡ⴵ",
+                "type": "UserScript",
+                "id": "fba283f6-f6b5-46aa-a549-c76b716bdc59",
+                "path": "900_meta/910_᯽tmpl/scripts/490_🛠resources_➕᯽ⴵ.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "a8954a57-2113-449c-a9e8-097d3edff139",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "50626891-e62f-4191-8033-f82843521f83",
+          "name": "410_🧲zotero_hotkeyforcitation_᯽⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "f5cd604b-2193-4850-8657-291d08573038",
+            "name": "410_🧲zotero_hotkeyforcitation_᯽⚡",
+            "commands": [
+              {
+                "name": "410_🧲zotero_hotkeyforcitation_᯽⚡",
+                "type": "UserScript",
+                "id": "11bfdd88-3bd9-44d0-b8a1-7c0b0e41b311",
+                "path": "900_meta/910_᯽tmpl/scripts/410_🧲zotero_hotkeyforcitation_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "1c8fd454-3779-4fe6-93ab-44c337de95e1",
+          "name": "🧲⋆Zotero⋆reimport 🔃⟡t",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "🧲⋆Zotero⋆reimport 🔃⟡t",
+            "id": "36a5c647-900e-4be7-8ea3-b6edcfafcc07",
+            "commands": [
+              {
+                "name": "Templater: Insert 410_🧲zotero_refresh_templater",
+                "type": "Obsidian",
+                "id": "3bc3aa92-3191-4609-a216-e40378193876",
+                "commandId": "templater-obsidian:900_meta/910_᯽tmpl/templates/410_🧲zotero_refresh_templater.md"
+              }
+            ]
+          }
+        },
+        {
+          "id": "84f0ecb0-69ba-41bb-9646-e70a09787903",
+          "name": "[[400_KNOWLEDGE/410_🧲zotero/ (QA)",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "ce88c70d-4eb7-49a9-aea9-2ec88f6b0384",
+            "name": "[[400_KNOWLEDGE/410_🧲zotero/",
+            "commands": [
+              {
+                "name": "Untitled Capture Choice",
+                "type": "NestedChoice",
+                "id": "cd9349dc-97ab-48ae-86b6-fa5221b6a271",
+                "choice": {
+                  "id": "38401822-3911-4bf9-8ab1-2d8104be64c7",
+                  "name": "Untitled Capture Choice",
+                  "type": "Capture",
+                  "command": false,
+                  "appendLink": false,
+                  "captureTo": "",
+                  "captureToActiveFile": true,
+                  "createFileIfItDoesntExist": {
+                    "enabled": false,
+                    "createWithTemplate": false,
+                    "template": ""
+                  },
+                  "format": {
+                    "enabled": true,
+                    "format": "[[400_KNOWLEDGE/410_🧲zotero/"
+                  },
+                  "insertAfter": {
+                    "enabled": false,
+                    "after": "",
+                    "insertAtEnd": false,
+                    "considerSubsections": false,
+                    "createIfNotFound": false,
+                    "createIfNotFoundLocation": "top"
+                  },
+                  "prepend": false,
+                  "task": false,
+                  "openFileInNewTab": {
+                    "enabled": false,
+                    "direction": "vertical",
+                    "focus": true
+                  },
+                  "openFile": false,
+                  "openFileInMode": "default"
+                }
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "c0d65712-6dad-4d34-8c79-db2084ea7b7f",
+          "name": "🧲⋆Zotero⋆Tables 🔃⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "9bbdd882-0ce6-43cb-a651-65a646103766",
+            "name": "🧲⋆Zotero⋆Tables 🔃⟡⚡",
+            "commands": [
+              {
+                "name": "🧲⋆Zotero⋆Tables 🔃⟡⚡",
+                "type": "UserScript",
+                "id": "6253f1ca-5977-4e23-9f20-e733426fc1a4",
+                "path": "900_meta/910_᯽tmpl/scripts/410_🧲zotero_tables_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "1b88f186-483e-421f-8a8a-1d2c3d85229b",
+          "name": "🌱⋆Atomic⋆refresh🔃⟡⟳",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "45b970b5-5e62-40db-94d1-c02f0f0683aa",
+            "name": "🌱⋆Atomic⋆refresh🔃⟡⟳",
+            "commands": [
+              {
+                "name": "🌱⋆Atomic⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "110c0a87-bbfb-47c5-872c-cdd60988cf62",
+                "path": "900_meta/910_᯽tmpl/scripts/420_🌱atomic_refresh_᯽⟳.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "770a90e7-48d1-4dd1-b490-0ef9ddc4585d",
+          "name": "🌲⋆Evergreen⋆refresh🔃⟡⟳",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "b913f36b-4b11-44b2-ae12-13bdbc4e4169",
+            "name": "🌲⋆Evergreen⋆refresh🔃⟡⟳",
+            "commands": [
+              {
+                "name": "🌲⋆Evergreen⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "27ccbe69-9d95-491f-a019-740deae6842d",
+                "path": "900_meta/910_᯽tmpl/scripts/430_🌲evergreen_refresh_᯽⟳.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "cc7a408b-08b5-4f15-8abb-5418a23ae157",
+          "name": "⛰️⋆Topics⋆refresh🔃⟡⟳",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "f3198cd5-bdef-46fd-ba43-f272b47f7eed",
+            "name": "⛰️⋆Topics⋆refresh🔃⟡⟳",
+            "commands": [
+              {
+                "name": "⛰️⋆Topics⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "c503f83a-1a64-4caa-9df3-04a331878911",
+                "path": "900_meta/910_᯽tmpl/scripts/440_⛰️topics_refresh_᯽⟳.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "14814523-f07e-44b7-9b78-7a2794974cc0",
+          "name": "🛠⋆Resources⋆refresh🔃⟡⟳",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "683360e5-b20e-4131-961f-6c43e3ba72d0",
+            "name": "🛠⋆Resources⋆refresh🔃⟡⟳",
+            "commands": [
+              {
+                "name": "🛠⋆Resources⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "214f5e8f-a2ce-4886-8a51-4f3bcb0c6747",
+                "path": "900_meta/910_᯽tmpl/scripts/490_🛠resources_refresh_᯽⟳.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "f23cfb43-c2ff-4e83-a7f1-12193778505e",
+          "name": "📙⋆Lit⋆refresh🔃⟡⟳",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "4548c88a-b2d1-40bf-a4ef-7470ab98520e",
+            "name": "📙⋆Lit⋆refresh🔃⟡⟳",
+            "commands": [
+              {
+                "name": "📙⋆Lit⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "5cdcb08b-dd80-4ee0-959b-7c83654884f0",
+                "path": "900_meta/910_᯽tmpl/scripts/450_📙literature_refresh_᯽⟳.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "6ba45293-392f-4d26-b65c-472f7133b6e7",
+          "name": "📙⋆Lit⋆read 0🔴none ⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "📙⋆Lit⋆read 0🔴none ⟡⚡",
+            "id": "eee3bef9-1d0c-489b-b5d8-7504ed7f1ffa",
+            "commands": [
+              {
+                "name": "450_📙literature_status_read_0none᯽⚡ ",
+                "type": "UserScript",
+                "id": "614c0c90-d48e-41d5-87ea-52f2f7e3cd78",
+                "path": "900_meta/910_᯽tmpl/scripts/450_📙literature_status_read_0none᯽⚡ .js",
+                "settings": {}
+              },
+              {
+                "name": "🔨⋆YAML⋆inline ⧉⟡⚡",
+                "type": "UserScript",
+                "id": "ff06f91a-b44a-45f9-94e4-176d99bda18f",
+                "path": "900_meta/910_᯽tmpl/scripts/prop_insertfrominline_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "c15a2375-aa66-4dd7-981e-659ad64adef6",
+          "name": "📙⋆Lit⋆read 1🟠partial ⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "📙⋆Lit⋆read 1🟠partial ⟡⚡",
+            "id": "12ade0b7-4e49-4c1c-b4ad-b6fd5782092a",
+            "commands": [
+              {
+                "name": "450_📙literature_status_read_1partial᯽⚡ ",
+                "type": "UserScript",
+                "id": "0d7b15fe-3538-46a5-b955-2e8f6baeb82b",
+                "path": "900_meta/910_᯽tmpl/scripts/450_📙literature_status_read_1partial᯽⚡ .js",
+                "settings": {}
+              },
+              {
+                "name": "🔨⋆YAML⋆inline ⧉⟡⚡",
+                "type": "UserScript",
+                "id": "a59f27cd-99b7-4540-90ec-7bbb3f94c075",
+                "path": "900_meta/910_᯽tmpl/scripts/prop_insertfrominline_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "b93f8b99-aac3-475e-90f9-301d11e8ff46",
+          "name": "📙⋆Lit⋆read 2🟢full ⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "📙⋆Lit⋆read 2🟢full ⟡⚡",
+            "id": "0b602f16-771a-4a78-a353-37f02f6113cc",
+            "commands": [
+              {
+                "name": "450_📙literature_status_read_2full᯽⚡ ",
+                "type": "UserScript",
+                "id": "6925a31a-941b-46e1-96f6-7ff48c709b7b",
+                "path": "900_meta/910_᯽tmpl/scripts/450_📙literature_status_read_2full᯽⚡ .js",
+                "settings": {}
+              },
+              {
+                "name": "🔨⋆YAML⋆inline ⧉⟡⚡",
+                "type": "UserScript",
+                "id": "ab782227-e2ea-4b1a-89ff-bee616fac204",
+                "path": "900_meta/910_᯽tmpl/scripts/prop_insertfrominline_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "f0646d5f-3cbd-4fbb-a3da-881e5f858471",
+          "name": "📙⋆Lit⋆process 0🔴none ⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "📙⋆Lit⋆process 0🔴none ⟡⚡",
+            "id": "901fd4fe-d869-4d29-a1de-52879e325359",
+            "commands": [
+              {
+                "name": "450_📙literature_status_process_0none᯽⚡ ",
+                "type": "UserScript",
+                "id": "4141534f-8548-4810-a655-a4306ade9f13",
+                "path": "900_meta/910_᯽tmpl/scripts/450_📙literature_status_process_0none᯽⚡ .js",
+                "settings": {}
+              },
+              {
+                "name": "🔨⋆YAML⋆inline ⧉⟡⚡",
+                "type": "UserScript",
+                "id": "87c7825c-5397-425b-a0af-b53bd0a3366e",
+                "path": "900_meta/910_᯽tmpl/scripts/prop_insertfrominline_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "2aafa059-0920-4502-9557-8a0ff7558e90",
+          "name": "📙⋆Lit⋆process 1🟠partial ⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "📙⋆Lit⋆process 1🟠partial ⟡⚡",
+            "id": "35ed80e3-ff1e-45cb-8d08-52d4fb8f2381",
+            "commands": [
+              {
+                "name": "450_📙literature_status_process_1partial᯽⚡ ",
+                "type": "UserScript",
+                "id": "e9c62f7f-b578-44f5-bdf8-a9424ba4399c",
+                "path": "900_meta/910_᯽tmpl/scripts/450_📙literature_status_process_1partial᯽⚡ .js",
+                "settings": {}
+              },
+              {
+                "name": "🔨⋆YAML⋆inline ⧉⟡⚡",
+                "type": "UserScript",
+                "id": "42d81c0a-c182-4768-8868-222021224ed7",
+                "path": "900_meta/910_᯽tmpl/scripts/prop_insertfrominline_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "6e3cae7a-7767-40d7-9526-907b7bef25b4",
+          "name": "📙⋆Lit⋆process 2🟢full ⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "📙⋆Lit⋆process 2🟢full ⟡⚡",
+            "id": "99e34291-ebf4-4faf-8e4f-1d727c075d63",
+            "commands": [
+              {
+                "name": "450_📙literature_status_process_2full᯽⚡ ",
+                "type": "UserScript",
+                "id": "9725a3a5-d322-4015-bd09-458dde870d5c",
+                "path": "900_meta/910_᯽tmpl/scripts/450_📙literature_status_process_2full᯽⚡ .js",
+                "settings": {}
+              },
+              {
+                "name": "🔨⋆YAML⋆inline ⧉⟡⚡",
+                "type": "UserScript",
+                "id": "0231e08f-2043-4870-a30a-6b3a9bf1ddc5",
+                "path": "900_meta/910_᯽tmpl/scripts/prop_insertfrominline_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "4dc968c8-eb26-41e2-a97b-76c39e6e9625",
+          "name": "🧲⋆Zotero⋆Move ➡️⟡t",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "aa3283d5-8559-4bea-840a-35712834c5ae",
+            "name": "🧲⋆Zotero⋆Move ➡️⟡t",
+            "commands": [
+              {
+                "name": "Templater: Insert 410_🧲zotero_move_templater",
+                "type": "Obsidian",
+                "id": "629a977e-f41f-4102-838f-f62716748cdc",
+                "commandId": "templater-obsidian:900_meta/910_᯽tmpl/templates/410_🧲zotero_move_templater.md"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "61ca7de7-2638-4618-9dd0-f2ef392b3313",
+          "name": "📙⋆Lit⋆Move to processing ➡️⟡t",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "ec03e47d-beb8-4e4e-b6c0-8bf2458baad2",
+            "name": "📙⋆Lit⋆Move to processing ➡️⟡t",
+            "commands": [
+              {
+                "name": "Templater: Insert 500_moveto0processing_templater",
+                "type": "Obsidian",
+                "id": "e61a0ad5-1e82-49a4-842f-0611da2d0cf1",
+                "commandId": "templater-obsidian:900_meta/910_᯽tmpl/templates/500_moveto0processing_templater.md"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "529791cb-2f16-40e4-ad67-6bc2e2498711",
+          "name": "📙⋆Lit⋆Move to ✨processed ➡️⟡t",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "1a94cd43-43d2-4ad2-8094-ee2d4343aaec",
+            "name": "📙⋆Lit⋆Move to ✨processed ➡️⟡t",
+            "commands": [
+              {
+                "name": "Templater: Insert 500_moveto1processed_templater",
+                "type": "Obsidian",
+                "id": "41938f96-f90d-4d8c-b70c-033dc5bf5d28",
+                "commandId": "templater-obsidian:900_meta/910_᯽tmpl/templates/500_moveto1processed_templater.md"
+              }
+            ]
+          },
+          "runOnStartup": false
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "47e17957-8ca5-4364-bd19-0ce53d9943a9",
+      "name": "──────── ➕ Clinical ────────",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "2f923569-b131-41a8-bd3a-948f655abb2a",
+          "name": "❀⋆Sessions⋆AddNew➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "❀⋆Sessions⋆AddNew➕⟡⚡",
+            "id": "b965b2f5-0b74-4802-8ab6-20d6e1c24547",
+            "commands": [
+              {
+                "name": "❀⋆Sessions⋆AddNew➕⟡⚡",
+                "type": "UserScript",
+                "id": "eeb5a6db-6468-4690-a253-596abba0474d",
+                "path": "900_meta/910_᯽tmpl/scripts/720_❀session_➕᯽⚡.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "c5d59bd0-739a-4c1f-96d5-45772c78ee5b",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          }
+        },
+        {
+          "id": "96cf3909-c091-47da-932f-473b92f7f83a",
+          "name": "❀⋆Sessions⋆inline ➕⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "❀⋆Sessions⋆inline ➕⟡⚡",
+            "id": "d7131ab9-3e38-48e4-a129-e832d6e04ea0",
+            "commands": [
+              {
+                "name": "❀⋆Sessions⋆inline ➕⟡⚡",
+                "type": "UserScript",
+                "id": "2bf1793a-bace-422b-af8f-254e8203f92b",
+                "path": "900_meta/910_᯽tmpl/scripts/720_❀session_inline_᯽⚡.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "d5b99fab-71d7-476f-a84c-825777037090",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "d29f3c65-87b5-4e3d-8a95-91b61667d1de",
+      "name": "──────── periodical ────────",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "dcd47c0e-22f1-457b-b82a-8710c2ef46e2",
+          "name": "🌸⋆Today ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "8d91f6b6-8f6c-485a-8cb5-4e9b347e5b27",
+            "name": "🌸⋆Today ⟡",
+            "commands": [
+              {
+                "name": "Periodic Notes: Open daily note",
+                "type": "Obsidian",
+                "id": "5cfde671-055b-406c-a3ed-cb58c6b36f3b",
+                "commandId": "periodic_note␥s:open-daily-note"
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "1a2cc741-7f34-458f-910c-7c5fd1455e95",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "e0257d9d-c9a4-406c-b830-528d938804fd",
+          "name": "🌿⋆This week ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "553658ec-322d-4e5e-a67a-b56d39edf53e",
+            "name": "🌿⋆This week ⟡",
+            "commands": [
+              {
+                "name": "Periodic Notes: Open weekly note",
+                "type": "Obsidian",
+                "id": "6554b9f9-c68a-4a6b-82b7-ea0b7060c8bd",
+                "commandId": "periodic_note␥s:open-weekly-note"
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "667dd79b-cf74-4002-8083-9b0ece5ecfdd",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "6df101f0-6e85-431b-9576-8e4ec02e126f",
+          "name": "🪴⋆This month ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "077ccf00-662c-4fbf-8193-4c5226d1ed38",
+            "name": "🪴⋆This month ⟡",
+            "commands": [
+              {
+                "name": "Periodic Notes: Open monthly note",
+                "type": "Obsidian",
+                "id": "39ee2f63-865b-42b1-9d0c-06b8f9acb202",
+                "commandId": "periodic_note␥s:open-monthly-note"
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "01ec36ab-8805-43eb-8e1c-be56089679d4",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "278853a5-2a62-4903-b11f-b0a7d6365d38",
+      "name": "──────── ✅ tasknotes ────────",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "4335f9b1-9d7e-4acd-b369-3c4cf24d8bc6",
+          "name": "☑️⋆TaskNotes⋆Tasks View ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "1604b603-c5bb-4655-88bd-da9d07982eaa",
+            "name": "☑️⋆TaskNotes⋆Tasks View ⟡",
+            "commands": [
+              {
+                "name": "TaskNotes: Open tasks view",
+                "type": "Obsidian",
+                "id": "1518b223-5b9d-4cbe-8fb5-e319b70a2e0f",
+                "commandId": "tasknotes:open-tasks-view"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "dd767d14-6240-4204-993b-7c6f605eea11",
+          "name": "☑️⋆TaskNotes⋆Agenda View ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "ec77e75f-49aa-4a00-8468-f5cc691eaa46",
+            "name": "☑️⋆TaskNotes⋆Agenda View ⟡",
+            "commands": [
+              {
+                "name": "TaskNotes: Open agenda view",
+                "type": "Obsidian",
+                "id": "e91614c3-0cc6-4543-8271-895419b099cf",
+                "commandId": "tasknotes:open-agenda-view"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "06d94e58-7fa5-4f37-b077-887f5927743d",
+          "name": "☑️⋆TaskNotes⋆📆 Calendar (adv) ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "42932294-8ed9-4be8-84a2-0afe1ed29da7",
+            "name": "☑️⋆TaskNotes⋆📆 Calendar (adv) ⟡",
+            "commands": [
+              {
+                "name": "TaskNotes: Open advanced calendar view",
+                "type": "Obsidian",
+                "id": "3982fffb-80ff-4901-8113-e420819bd657",
+                "commandId": "tasknotes:open-advanced-calendar-view"
+              }
+            ]
+          },
+          "runOnStartup": false
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "52f3889d-c5fa-43fc-9d9a-f0f6981dec41",
+      "name": "🔨⋆Open in new window⟡",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "🔨⋆Open in new window⟡",
+        "id": "003a7c49-c534-47c8-bd11-3b8da1e67c62",
+        "commands": [
+          {
+            "name": "Open current tab in new window",
+            "type": "Obsidian",
+            "id": "f4f837c0-3c89-4f89-9a0d-f7181fa9303e",
+            "commandId": "workspace:open-in-new-window"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d77d7df0-a2b7-425a-a5fd-70d1a5dbac6d",
+      "name": "🔨⋆Paste as markdown ⟡t",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "d97ca758-692d-4305-9be2-a36c256fdf58",
+        "name": "🔨⋆Paste as markdown ⟡t",
+        "commands": [
+          {
+            "name": "Templater: Insert paste-as-markdown_templater",
+            "type": "Obsidian",
+            "id": "d33fa18c-0a96-4723-8565-1e1b555e3662",
+            "commandId": "templater-obsidian:900_meta/910_᯽tmpl/templates/paste-as-markdown_templater.md"
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "c7162274-baec-4383-b9ec-f24c5602d041",
+      "name": "🚗⋆Copy pathlink ⟡",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "e9513b8a-a328-4878-9d12-e4260b152d3e",
+        "name": "🚗⋆Copy pathlink ⟡",
+        "commands": [
+          {
+            "name": "Copy file path",
+            "type": "Obsidian",
+            "id": "6ef53d29-f822-4edb-9560-a7e227e18b8f",
+            "commandId": "workspace:copy-path"
+          }
+        ]
+      },
+      "runOnStartup": false
+    },
+    {
+      "id": "bafde5b6-6d0d-47cd-a27e-8e70e6e6ff74",
+      "name": "──────── meta, tools ────────",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "20e9f64c-127c-4eea-88aa-f5fa23e94999",
+          "name": "🔨⋆YAML⋆inline ⧉⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "🔨⋆YAML⋆inline ⧉⟡⚡",
+            "id": "73705c43-f894-469d-b8b0-80c9ebe8af3f",
+            "commands": [
+              {
+                "name": "🔨⋆YAML⋆inline ⧉⟡⚡",
+                "type": "UserScript",
+                "id": "2290a407-c0c7-4df2-a2cc-3c15ef642b0d",
+                "path": "900_meta/910_᯽tmpl/scripts/prop_insertfrominline_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          }
+        },
+        {
+          "id": "48564ad5-33c4-492f-b429-114749479390",
+          "name": "🧽 Refresh/Lint ⟡",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "🧽 Refresh/Lint ⟡",
+            "id": "ed6ecbee-ead0-4b60-869c-f1f196980fc7",
+            "commands": [
+              {
+                "name": "🛠⋆Resources⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "66eca3e8-02dc-4850-aa6a-0e92ab79f497",
+                "path": "900_meta/910_᯽tmpl/scripts/490_🛠resources_refresh_᯽⟳.js",
+                "settings": {}
+              },
+              {
+                "name": "📙⋆Lit⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "22d11522-6ac4-413d-9031-09d9dac033a8",
+                "path": "900_meta/910_᯽tmpl/scripts/450_📙literature_refresh_᯽⟳.js",
+                "settings": {}
+              },
+              {
+                "name": "⛰️⋆Topics⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "3b0cf8cd-8a11-4887-9359-3805adce7828",
+                "path": "900_meta/910_᯽tmpl/scripts/440_⛰️topics_refresh_᯽⟳.js",
+                "settings": {}
+              },
+              {
+                "name": "🌱⋆Atomic⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "6c914c4b-243e-4313-8efe-0978ef5948dd",
+                "path": "900_meta/910_᯽tmpl/scripts/420_🌱atomic_refresh_᯽⟳.js",
+                "settings": {}
+              },
+              {
+                "name": "🌲⋆Evergreen⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "b3197ba5-6622-437d-8ea8-1727ffea7c88",
+                "path": "900_meta/910_᯽tmpl/scripts/430_🌲evergreen_refresh_᯽⟳.js",
+                "settings": {}
+              },
+              {
+                "name": "🚀⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "0f4222c9-600f-47f6-8b3f-d5f9d572ba3a",
+                "path": "900_meta/910_᯽tmpl/scripts/330_🚀projects_refresh_᯽⟳.js",
+                "settings": {}
+              },
+              {
+                "name": "👥⋆refresh🔃⟡⟳",
+                "type": "UserScript",
+                "id": "18503973-cfb9-4671-920c-2ab5680f1e6e",
+                "path": "900_meta/910_᯽tmpl/scripts/320_👥people_refresh_᯽⟳.js",
+                "settings": {}
+              },
+              {
+                "name": "Linter: Lint the current file",
+                "type": "Obsidian",
+                "id": "ab7e7c0b-7db7-43d3-b9c7-ab234f23671d",
+                "commandId": "obsidian-linter:lint-file"
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "cb9e7a79-c9af-4fe8-b798-020394fb50b0",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          }
+        },
+        {
+          "id": "625248db-24d2-4d6a-aae1-6f78d1ed909d",
+          "name": "📂 Save/load workspace ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "e1189b43-2abc-48bb-ad8a-1187c4152b11",
+            "name": "📂 Save/load workspace ⟡",
+            "commands": [
+              {
+                "name": "Workspaces: Save and load another layout",
+                "type": "Obsidian",
+                "id": "a16767f8-a3c1-4fe2-88ce-1567dca69753",
+                "commandId": "workspaces:save-and-load"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "d4797c34-40fc-4415-b148-108a5eef0364",
+          "name": "🔨⋆Obsidian to word ⟡",
+          "type": "Template",
+          "command": true,
+          "templatePath": "900_meta/910_᯽tmpl/templates/800_Obisidan-to-word.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE}} {{DATE:}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "900_meta/920_fileprocessing/🧲▶️-Obisidan-to-word"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "focus": true,
+            "mode": "default"
+          }
+        },
+        {
+          "id": "4aa19807-9e81-4b85-bd6e-fde04d95b473",
+          "name": "Ctrl s",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Ctrl s",
+            "id": "2cd90369-720d-4d74-ac41-66c9da3c1c10",
+            "commands": [
+              {
+                "name": "🔨⋆Ctrl a + delete ⟡⚡︎",
+                "type": "Choice",
+                "id": "bd32e3be-0fe9-40dd-994c-d9dcadd9dbd6",
+                "choiceId": "f8862c1f-aaee-4b21-8da6-dc52f97f4da9"
+              },
+              {
+                "name": "🧲⋆Zotero⋆reimport 🔃⟡t",
+                "type": "Choice",
+                "id": "bbddebb4-0150-4354-a2f5-9a5f8ca99e06",
+                "choiceId": "1c8fd454-3779-4fe6-93ab-44c337de95e1"
+              },
+              {
+                "name": "📙⋆Lit⋆read 1🟠partial ⟡⚡",
+                "type": "Choice",
+                "id": "c7f3d7b1-2e6c-42fd-b337-84312a593dec",
+                "choiceId": "c15a2375-aa66-4dd7-981e-659ad64adef6"
+              }
+            ]
+          }
+        },
+        {
+          "id": "297ebeca-67fb-4ded-b467-2935532ae5c1",
+          "name": "🔨⋆Rulebook ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "7c3ad3e9-9814-468c-884b-4be2db7b37c7",
+            "name": "🔨⋆Rulebook ⟡",
+            "commands": [
+              {
+                "name": "Iconic: Open rulebook",
+                "type": "Obsidian",
+                "id": "2db2a7dc-b8ad-446d-95d3-f8603cda9716",
+                "commandId": "iconic:open-rulebook"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "180ac274-d208-4456-800a-5f4bbcd32a80",
+          "name": "🔨⋆Export to PDF ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "164f9ec2-a558-4cfb-80db-8b3468d3d76f",
+            "name": "🔨⋆Export to PDF ⟡",
+            "commands": [
+              {
+                "name": "Export to PDF...",
+                "type": "Obsidian",
+                "id": "56f6dd22-f924-488d-85a9-e2436134478a",
+                "commandId": "workspace:export-pdf"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "e2d6e2b3-a84b-4906-b939-dadeee20ae14",
+          "name": "🔨⋆Sortspec (capture) ⟡",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "900_meta/911_backend_coding/sortspec.md",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "focus": true,
+            "mode": "default"
+          }
+        },
+        {
+          "id": "67fbbeae-3b2f-4396-a34a-991c870ee757",
+          "name": "🔨⋆Find orphaned images and delete ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "b0190e57-b4a6-4ea1-ae01-c3b9149516ff",
+            "name": "🔨⋆Find orphaned images and delete ⟡",
+            "commands": [
+              {
+                "name": "Find Orphaned Images: Find or delete orphaned images",
+                "type": "Obsidian",
+                "id": "9e27b9aa-c5ea-4b19-a066-c8abd3bd3d18",
+                "commandId": "find-orphaned-images:find-orphaned-images"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "1134fada-9b07-43af-8686-712b0190f524",
+          "name": "💻⋆STATA⋆wrap code ⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "a847ef13-07ad-444a-8b31-94d29c78e088",
+            "name": "💻⋆STATA⋆wrap code ⟡⚡",
+            "commands": [
+              {
+                "name": "💻⋆STATA⋆wrap code ⟡⚡",
+                "type": "UserScript",
+                "id": "683de783-995e-4c2b-ad0e-44dccffe69eb",
+                "path": "900_meta/910_᯽tmpl/scripts/wrap_stata_script_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "05e4f214-3126-480f-8512-3b94588e0ae7",
+          "name": "⤵️⋆Collapse headings ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "6c5cb09d-4519-4ced-974b-2265a30a782d",
+            "name": "⤵️⋆Collapse headings ⟡",
+            "commands": [
+              {
+                "name": "Fold all headings and lists",
+                "type": "Obsidian",
+                "id": "29e47147-0f27-44cf-8c7b-ed9dc813187a",
+                "commandId": "editor:fold-all"
+              },
+              {
+                "name": "Toggle fold properties in current file",
+                "type": "Obsidian",
+                "id": "ec76f704-4f6e-4aaa-9675-60cac5b7b74a",
+                "commandId": "editor:toggle-fold-properties"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "57fa78ea-22a8-499a-a000-ae6f26904cef",
+          "name": "⤵️⋆Open headings ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "df26ecb5-69d6-449d-8b50-7d6ad889cb14",
+            "name": "⤵️⋆Open headings ⟡",
+            "commands": [
+              {
+                "name": "Unfold all headings and lists",
+                "type": "Obsidian",
+                "id": "cdce32f1-6369-4a2f-8ad8-1ea9f1f640df",
+                "commandId": "editor:unfold-all"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "d1460f94-54ac-4244-9e06-f7df72781ced",
+          "name": "🔨⋆Coding block ➕⟡t",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "dc1fc3b3-c8e2-4088-90db-7b7e96fd395a",
+            "name": "🔨⋆Coding block ➕⟡t",
+            "commands": [
+              {
+                "name": "🔨⋆Coding block ➕⟡t",
+                "type": "NestedChoice",
+                "id": "fdf1cb69-c94c-46ce-9518-5d67ec0c68d8",
+                "choice": {
+                  "id": "927dd814-5088-4760-ae6f-ee35c93759f3",
+                  "name": "🔨⋆Coding block ➕⟡t",
+                  "type": "Template",
+                  "command": false,
+                  "templatePath": "900_meta/910_᯽tmpl/templates/921_randomcodingblock_tmpl.md",
+                  "fileNameFormat": {
+                    "enabled": false,
+                    "format": ""
+                  },
+                  "folder": {
+                    "enabled": true,
+                    "folders": [
+                      "900_meta/920_coding/921_random coding blocks"
+                    ],
+                    "chooseWhenCreatingNote": false,
+                    "createInSameFolderAsActiveFile": false,
+                    "chooseFromSubfolders": false
+                  },
+                  "appendLink": false,
+                  "openFileInNewTab": {
+                    "enabled": false,
+                    "direction": "vertical",
+                    "focus": true
+                  },
+                  "openFile": true,
+                  "openFileInMode": "default",
+                  "fileExistsMode": "Increment the file name",
+                  "setFileExistsBehavior": true
+                }
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "d654e83c-3aa7-4ff1-818c-66f68e1cae64",
+          "name": "✅⋆Tasks⋆Add to this page ⟡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "1e5e2e12-5080-4535-b81c-4dde1379fdd9",
+            "name": "✅⋆Tasks⋆Add to this page ⟡",
+            "commands": [
+              {
+                "name": "Add task",
+                "type": "NestedChoice",
+                "id": "f158b41b-efc3-4239-bfed-81ec2e31b812",
+                "choice": {
+                  "id": "1aa69172-4f69-4a0b-95ce-fd81e96d6e90",
+                  "name": "Add task",
+                  "type": "Capture",
+                  "command": false,
+                  "appendLink": false,
+                  "captureTo": "",
+                  "captureToActiveFile": true,
+                  "createFileIfItDoesntExist": {
+                    "enabled": false,
+                    "createWithTemplate": false,
+                    "template": ""
+                  },
+                  "format": {
+                    "enabled": true,
+                    "format": "```js quickadd\nreturn await this.app.plugins.plugins['obsidian-tasks-plugin'].apiV1.createTaskLineModal();\n```\n"
+                  },
+                  "insertAfter": {
+                    "enabled": true,
+                    "after": "### ✅ Tasks",
+                    "insertAtEnd": false,
+                    "considerSubsections": false,
+                    "createIfNotFound": true,
+                    "createIfNotFoundLocation": "bottom"
+                  },
+                  "prepend": false,
+                  "task": false,
+                  "openFileInNewTab": {
+                    "enabled": false,
+                    "direction": "vertical",
+                    "focus": true
+                  },
+                  "openFile": false,
+                  "openFileInMode": "default"
+                }
+              },
+              {
+                "name": "Templater: Jump to next cursor location",
+                "type": "Obsidian",
+                "id": "cf27d693-6eaa-4f25-897d-1158a3a60e64",
+                "commandId": "templater-obsidian:jump-to-next-cursor-location"
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "b6dcb5fc-30da-40ca-bdf8-dc935be63d87",
+          "name": "🔨⋆YAML⋆ctime mtime ⧉⟡⚡",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "cc2d744b-43f8-4c42-bbf1-a41d2cb62b13",
+            "name": "🔨⋆YAML⋆ctime mtime ⧉⟡⚡",
+            "commands": [
+              {
+                "name": "🔨⋆YAML⋆ctime mtime ⧉⟡⚡",
+                "type": "UserScript",
+                "id": "f89dbf82-5486-4c12-bc0f-dd39ff5c4eea",
+                "path": "900_meta/910_᯽tmpl/scripts/prop_ctime-mtime_᯽⚡.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "8ca81f09-bde7-4b2a-85b9-28b1f32de342",
+          "name": "🔨⋆YAML⋆datenote CHANGE ⧉⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "56971917-e656-4603-9e45-1a42fa7534f4",
+            "name": "🔨⋆YAML⋆datenote CHANGE ⧉⟡ⴵ",
+            "commands": [
+              {
+                "name": "🔨⋆YAML⋆datenote CHANGE ⧉⟡ⴵ",
+                "type": "UserScript",
+                "id": "06781e09-2c07-4c76-8160-5c2790dc52a4",
+                "path": "900_meta/910_᯽tmpl/scripts/prop_datenote_change_᯽ⴵ.js",
+                "settings": {}
+              }
+            ]
+          },
+          "runOnStartup": false
+        },
+        {
+          "id": "4cd3bf20-d08b-4485-93c6-bb2d4d4d14e5",
+          "name": "🔨⋆YAML⋆datenote ADD ⧉⟡ⴵ",
+          "type": "Macro",
+          "command": true,
+          "macro": {
+            "id": "f392b189-24eb-4b82-8a9e-0811ae190f9f",
+            "name": "🔨⋆YAML⋆datenote ADD ⧉⟡ⴵ",
+            "commands": [
+              {
+                "name": "🔨⋆YAML⋆datenote ADD ⧉⟡ⴵ",
+                "type": "UserScript",
+                "id": "eaea7dc3-7e26-42cc-85df-ba795ccfb41e",
+                "path": "900_meta/910_᯽tmpl/scripts/prop_datenote_add_᯽ⴵ.js",
+                "settings": {}
+              },
+              {
+                "name": "Templater: Replace templates in the active file",
+                "type": "Obsidian",
+                "id": "b20d2099-8b1c-4137-9b9c-260b58afb264",
+                "commandId": "templater-obsidian:replace-in-file-templater"
+              }
+            ]
+          },
+          "runOnStartup": false
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "5f7a6955-d4d2-42fe-bd76-489d331dd828",
+      "name": "Templates ⏬⟡⚡",
+      "type": "Macro",
+      "command": true,
+      "macro": {
+        "id": "fa01fad9-123a-433a-8cf6-faa847369385",
+        "name": "Templates ⏬⟡⚡",
+        "commands": [
+          {
+            "name": "Templates ⏬⟡⚡",
+            "type": "UserScript",
+            "id": "4c6fd2a8-239e-40ec-b00c-cbf687374f1a",
+            "path": "900_meta/910_᯽tmpl/scripts/Select_templates_᯽⚡.js",
+            "settings": {}
+          }
+        ]
+      },
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "900_meta/910_᯽tmpl/templates/",
+  "announceUpdates": true,
+  "version": "2.1.0",
+  "disableOnlineFeatures": true,
+  "enableRibbonIcon": true,
+  "showCaptureNotification": true,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true
+  }
+}

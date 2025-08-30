@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "(path:\"300_ATLAS/320_👥people\" OR path:\"400_KNOWLEDGE/410_🧲zotero\" OR [\"filetype\":👥people_note␥])  -[\"filetype\":🧲lit_note␥] -path:900_meta   -file:Dashboard -[\"people_cat\":clinical]",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"300_ATLAS/320_👥people/Magdalena Cerdá\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"300_ATLAS/320_👥people/Karen Choe\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711901
+      }
+    },
+    {
+      "query": "[\"people_cat\":mentor]",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    },
+    {
+      "query": "[\"people_cat\":collaborator]",
+      "color": {
+        "a": 1,
+        "rgb": 16771947
+      }
+    },
+    {
+      "query": "[\"people_cat\":student]",
+      "color": {
+        "a": 1,
+        "rgb": 8252501
+      }
+    },
+    {
+      "query": "[\"people_known\":2]",
+      "color": {
+        "a": 1,
+        "rgb": 7699896
+      }
+    },
+    {
+      "query": "[\"people_known\":1]",
+      "color": {
+        "a": 1,
+        "rgb": 3290185
+      }
+    },
+    {
+      "query": "[\"filetype\":👥people_note␥]",
+      "color": {
+        "a": 1,
+        "rgb": 855575
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.11963704427083,
+  "lineSizeMultiplier": 0.966512044270833,
+  "collapse-forces": false,
+  "centerStrength": 0.360921223958333,
+  "repelStrength": 11.4567057291667,
+  "linkStrength": 0.933024088541667,
+  "linkDistance": 175,
+  "scale": 0.5231316298580415,
+  "close": false
+}

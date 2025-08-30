@@ -1,0 +1,44 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "900_meta/910_᯽tmpl/templates",
+  "templates_pairs": [],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "900_meta/910_᯽tmpl/scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "900_meta/910_᯽tmpl/templates/381_🌸daily_➕tmplnote.md",
+    "900_meta/910_᯽tmpl/templates/382_🌿weeks_➕tmplnote.md",
+    "900_meta/910_᯽tmpl/templates/383_🪴months_➕tmplnote.md",
+    "900_meta/910_᯽tmpl/templates/paste-as-markdown_templater.md",
+    "900_meta/910_᯽tmpl/templates/410_🧲zotero_1import_➕tmplnote.md",
+    "900_meta/910_᯽tmpl/templates/View notes and their links that refer to this note.md",
+    "900_meta/910_᯽tmpl/templates/420_🌱atomic_➕tmplnote.md",
+    "900_meta/910_᯽tmpl/templates/340_✏️basic_➕tmplnote.md",
+    "900_meta/910_᯽tmpl/templates/350_🔖meetings_➕tmplnote.md",
+    "900_meta/910_᯽tmpl/templates/440_⛰️topics_➕tmplnote.md",
+    "900_meta/910_᯽tmpl/templates/450_📙literature_move_templater.md",
+    "900_meta/910_᯽tmpl/templates/410_🧲zotero_move_templater.md",
+    "900_meta/910_᯽tmpl/templates/500_moveto0processing_templater.md",
+    "900_meta/910_᯽tmpl/templates/500_moveto1processed_templater.md",
+    "900_meta/910_᯽tmpl/templates/800_Obisidan-to-word.md",
+    "900_meta/910_᯽tmpl/templates/384_🌳planning_yearly_➕tmplnote.md",
+    "900_meta/910_᯽tmpl/templates/350_🔖meetings_inline_tmpl.md",
+    "900_meta/910_᯽tmpl/templates/410_🧲zotero_refresh_templater.md",
+    "900_meta/910_᯽tmpl/templates/720_❀session_inline_tmpl.md"
+  ],
+  "startup_templates": [],
+  "intellisense_render": 1
+}

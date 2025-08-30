@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ef290b0e71bd09dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aecb0465ebe76a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f803b5ba93dfd90",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b015f5d91287f04",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b413a371a42f0fb2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3fa6a23ec73dc930",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "775d91ecef410931",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "985bb656b2ee37cc",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c0d2dba685f37baa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7021b3cb0ee06b7e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2 reference notes/Horn2019INFLUENCESTRUCTURALSTIGMA.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "7baa56ff6ccbcb61",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Notes about coding.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "34149b4aa87a630f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notes about coding.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "0c9bade429aeff88",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "find-orphaned-images:Find orphaned images": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "1f803b5ba93dfd90",
+  "lastOpenFiles": [
+    "3 Literature notes/stigma lit/0. Definitions.md",
+    "3 Literature notes/stigma lit/2014 Corrigan 3 parts.md",
+    "3 Literature notes/stigma lit/measuring structural stigma.md",
+    "3 Literature notes/stigma lit/limitations.md",
+    "0 DOCK/HOME.md",
+    "3 Literature notes/stigma lit/definitions of structural stigma.md",
+    "2 reference notes/Horn2019INFLUENCESTRUCTURALSTIGMA.md",
+    "pandoc/Choe2023ImpactCOVID19Pandemic.md"
+  ]
+}

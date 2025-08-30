@@ -1,0 +1,21 @@
+{
+  "pathToPandoc": "/opt/homebrew/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1756565839376
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pullFromZotero": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/american-medical-association-brackets.csl",
+  "hideLinks": true,
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true,
+  "pathToBibliography": "/Users/karenchoe/obsidiansync/900_meta/901_config/pandoc/zoterolibrary2025.bib",
+  "cslStylePath": ""
+}

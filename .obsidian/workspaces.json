@@ -1,0 +1,2273 @@
+{
+  "workspaces": {
+    "dissertation": {
+      "main": {
+        "id": "294b54231aa17b7f",
+        "type": "split",
+        "children": [
+          {
+            "id": "24bdafd44eb1c89d",
+            "type": "tabs",
+            "dimension": 51.74654752233956,
+            "children": [
+              {
+                "id": "b36c1f30d23ab486",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/3.1 Significance 6 (lf).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "3.1 Significance 6 (lf)"
+                }
+              },
+              {
+                "id": "2048185424cc8034",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/7. Limitations 1pg (lf).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "7. Limitations 1pg (lf)"
+                }
+              },
+              {
+                "id": "6c618a27605981a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400_KNOWLEDGE/410_🧲zotero/Rocha-Silva2024PassiveDataCollection.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Rocha-Silva2024PassiveDataCollection"
+                }
+              },
+              {
+                "id": "492f23cbcafc2355",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Untitled"
+                }
+              },
+              {
+                "id": "f772768a9fa05245",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/buttons-1 main.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "buttons-1 main"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "58027ed4da63a8a8",
+            "type": "tabs",
+            "dimension": 48.25345247766044,
+            "children": [
+              {
+                "id": "2b1df99d6895de2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/3.1 Significance-scratch.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "3.1 Significance-scratch"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9ccc8cd75d857c6d",
+        "type": "split",
+        "children": [
+          {
+            "id": "e94b8c045357e56a",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "934ef778965e7013",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "f58dbc2783ef3c06",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "b46afbbe921bc12c",
+                "type": "leaf",
+                "state": {
+                  "type": "trash-explorer",
+                  "state": {},
+                  "icon": "trash",
+                  "title": "Trash explorer"
+                }
+              },
+              {
+                "id": "7a142241c703413a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "17d1797c57e462fb",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {},
+                  "icon": "longform",
+                  "title": "Longform"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "6c71ca3be1e37b5c",
+            "type": "tabs",
+            "dimension": 50,
+            "children": [
+              {
+                "id": "89604a1b491dbeb1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/buttons-1 main.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of buttons-1 main"
+                }
+              },
+              {
+                "id": "f1dccf46c6eb66ae",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/buttons-1 main.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 274.5
+      },
+      "right": {
+        "id": "03c6a7b46c2ffbe9",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d07bb9451cf6f9c",
+            "type": "tabs",
+            "dimension": 27.977315689981097,
+            "children": [
+              {
+                "id": "10a9608d4950341b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "f172a12d77ac3d92",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "d3f2136237f5577d",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "todo"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7268f2fa9b6c31b4",
+            "type": "tabs",
+            "dimension": 27.977315689981097,
+            "children": [
+              {
+                "id": "2f7f6ff164d46683",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "workspace shortcuts"
+                }
+              }
+            ]
+          },
+          {
+            "id": "00304d1c76ac73d1",
+            "type": "tabs",
+            "dimension": 22.022684310018906,
+            "children": [
+              {
+                "id": "34bcbc76f32e68cb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/buttons-1 main.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for buttons-1 main"
+                }
+              },
+              {
+                "id": "cf265cecb65199dc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/buttons-1 main.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from buttons-1 main"
+                }
+              },
+              {
+                "id": "c83ad74facca9da1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/buttons-1 main.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for buttons-1 main"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "25a872574d48541f",
+            "type": "tabs",
+            "dimension": 22.022684310018906,
+            "children": [
+              {
+                "id": "57970b0637a1c770",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "6b46624a23fb1192",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": "pain"
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 285.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "tasknotes:Open mini calendar": false,
+          "tasknotes:Open advanced calendar": false,
+          "tasknotes:Open task list": false,
+          "tasknotes:Open notes": false,
+          "tasknotes:Open agenda": false,
+          "tasknotes:Open kanban board": false,
+          "tasknotes:Open pomodoro": false,
+          "tasknotes:Open pomodoro stats": false,
+          "tasknotes:Create new task": false,
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "homepage:Open homepage": false,
+          "audio-recorder:Start/stop recording": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-kanban:Create new board": false,
+          "obsidian-trash-explorer:Open trash explorer": true,
+          "templater-obsidian:Templater": true,
+          "quickadd:QuickAdd": false,
+          "iconic:Open rulebook": false,
+          "widgets:Add widget": false,
+          "custom-sort:Toggle custom sorting": false,
+          "cmdr:Recent Files: Open": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "auto-moc:AutoMOC": false,
+          "periodic_note␥s:Open today": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "f772768a9fa05245",
+      "mtime": "2025-07-16T13:52:38-04:00"
+    },
+    "home": {
+      "main": {
+        "id": "294b54231aa17b7f",
+        "type": "split",
+        "children": [
+          {
+            "id": "8e8135b8bf6e66d6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "872d054400db002d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000-🏡Home.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "000-🏡Home"
+                }
+              },
+              {
+                "id": "c12a87c2b08458a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "300_ATLAS/310_✅tasks/2 ✻ ✅ All Tasks.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2 ✻ ✅ All Tasks"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9ccc8cd75d857c6d",
+        "type": "split",
+        "children": [
+          {
+            "id": "e94b8c045357e56a",
+            "type": "tabs",
+            "dimension": 63.958916900093364,
+            "children": [
+              {
+                "id": "934ef778965e7013",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "f58dbc2783ef3c06",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "b46afbbe921bc12c",
+                "type": "leaf",
+                "state": {
+                  "type": "trash-explorer",
+                  "state": {},
+                  "icon": "trash",
+                  "title": "Trash explorer"
+                }
+              },
+              {
+                "id": "7a142241c703413a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "17d1797c57e462fb",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {},
+                  "icon": "longform",
+                  "title": "Longform"
+                }
+              }
+            ]
+          },
+          {
+            "id": "461720279e1a3682",
+            "type": "tabs",
+            "dimension": 36.04108309990663,
+            "children": [
+              {
+                "id": "2f7f6ff164d46683",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "workspace shortcuts"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 270.5
+      },
+      "right": {
+        "id": "03c6a7b46c2ffbe9",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d07bb9451cf6f9c",
+            "type": "tabs",
+            "dimension": 29.110512129380055,
+            "children": [
+              {
+                "id": "10a9608d4950341b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "f172a12d77ac3d92",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "f1dccf46c6eb66ae",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "26ac88688f576295",
+                "type": "leaf",
+                "state": {
+                  "type": "toggl-report",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Toggl Report"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "00304d1c76ac73d1",
+            "type": "tabs",
+            "dimension": 28.481581311769993,
+            "children": [
+              {
+                "id": "89604a1b491dbeb1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of workspace shortcuts"
+                }
+              },
+              {
+                "id": "34bcbc76f32e68cb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/3.1 Significance-scratch.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for 3.1 Significance-scratch"
+                }
+              },
+              {
+                "id": "cf265cecb65199dc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from workspace shortcuts"
+                }
+              },
+              {
+                "id": "c83ad74facca9da1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for workspace shortcuts"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "d78e848756937227",
+            "type": "tabs",
+            "dimension": 42.40790655884995,
+            "children": [
+              {
+                "id": "6b46624a23fb1192",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": "pain"
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "57970b0637a1c770",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "21f80506c040cd3a",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 266.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "large-language-models:Ask a question": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "homepage:Open homepage": false,
+          "audio-recorder:Start/stop recording": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-kanban:Create new board": false,
+          "obsidian-trash-explorer:Open trash explorer": true,
+          "templater-obsidian:Templater": true,
+          "quickadd:QuickAdd": false,
+          "iconic:Open rulebook": false,
+          "widgets:Add widget": false,
+          "workspaces:Manage workspace layouts": false,
+          "custom-sort:Toggle custom sorting": false,
+          "cmdr:Recent Files: Open": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "periodic_note␥s:Open today": false
+        }
+      },
+      "active": "2f7f6ff164d46683",
+      "mtime": "2025-07-16T19:05:25-04:00"
+    },
+    "fentanyl paper": {
+      "main": {
+        "id": "294b54231aa17b7f",
+        "type": "split",
+        "children": [
+          {
+            "id": "0c87e0c2f490ba4e",
+            "type": "tabs",
+            "dimension": 61.19751166407465,
+            "children": [
+              {
+                "id": "252ed2b709656da1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "430-LONGFORM WRITING/Fentanyl pain_ms/1. Intro.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1. Intro"
+                }
+              }
+            ]
+          },
+          {
+            "id": "32ae6a077da46bce",
+            "type": "tabs",
+            "dimension": 38.802488335925354,
+            "children": [
+              {
+                "id": "0d36fb1bf0efd762",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "430-LONGFORM WRITING/Fentanyl pain_ms/0. Index.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "0. Index"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9ccc8cd75d857c6d",
+        "type": "split",
+        "children": [
+          {
+            "id": "e94b8c045357e56a",
+            "type": "tabs",
+            "dimension": 70.58823529411765,
+            "children": [
+              {
+                "id": "934ef778965e7013",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "f58dbc2783ef3c06",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "b46afbbe921bc12c",
+                "type": "leaf",
+                "state": {
+                  "type": "trash-explorer",
+                  "state": {},
+                  "icon": "trash",
+                  "title": "Trash explorer"
+                }
+              },
+              {
+                "id": "7a142241c703413a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "803db63a7a8ffc2b",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {},
+                  "icon": "longform",
+                  "title": "Longform"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "461720279e1a3682",
+            "type": "tabs",
+            "dimension": 29.411764705882355,
+            "children": [
+              {
+                "id": "2f7f6ff164d46683",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "workspace shortcuts"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 324.5
+      },
+      "right": {
+        "id": "03c6a7b46c2ffbe9",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d07bb9451cf6f9c",
+            "type": "tabs",
+            "dimension": 29.110512129380055,
+            "children": [
+              {
+                "id": "10a9608d4950341b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "f172a12d77ac3d92",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "f1dccf46c6eb66ae",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/3.1 Significance-scratch.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "d3f2136237f5577d",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "todo"
+                }
+              }
+            ]
+          },
+          {
+            "id": "00304d1c76ac73d1",
+            "type": "tabs",
+            "dimension": 28.481581311769993,
+            "children": [
+              {
+                "id": "89604a1b491dbeb1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of workspace shortcuts"
+                }
+              },
+              {
+                "id": "34bcbc76f32e68cb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/3.1 Significance-scratch.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for 3.1 Significance-scratch"
+                }
+              },
+              {
+                "id": "cf265cecb65199dc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/3.1 Significance-scratch.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 000-🏡Home"
+                }
+              },
+              {
+                "id": "c83ad74facca9da1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/3.1 Significance-scratch.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 310-Therapy Henry St_⌖dashboard"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d78e848756937227",
+            "type": "tabs",
+            "dimension": 42.40790655884995,
+            "children": [
+              {
+                "id": "6b46624a23fb1192",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": "pain"
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "57970b0637a1c770",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "21f80506c040cd3a",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 266.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "homepage:Open homepage": false,
+          "audio-recorder:Start/stop recording": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-kanban:Create new board": false,
+          "obsidian-trash-explorer:Open trash explorer": true,
+          "templater-obsidian:Templater": true,
+          "quickadd:QuickAdd": false,
+          "iconic:Open rulebook": false,
+          "widgets:Add widget": false,
+          "workspaces:Manage workspace layouts": false,
+          "custom-sort:Toggle custom sorting": false,
+          "cmdr:Recent Files: Open": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "periodic_note␥s:Open today": false,
+          "large-language-models:Ask a question": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+        }
+      },
+      "active": "2f7f6ff164d46683",
+      "mtime": "2025-07-16T15:46:45-04:00"
+    },
+    "journal review": {
+      "main": {
+        "id": "294b54231aa17b7f",
+        "type": "split",
+        "children": [
+          {
+            "id": "09c0dfd4d556e8fc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cf0526d7631b3eed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "300_ATLAS/330_🚀projects/SS SUMH Meta-Synthesis.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "SS SUMH Meta-Synthesis"
+                }
+              },
+              {
+                "id": "a763f65a8e94d71a",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://docs.google.com/spreadsheets/d/1ucA28Go58C5y24Lf21qJoU7lvpnW3X3Q/edit?gid=1384119300#gid=1384119300",
+                    "title": "SS_SUMH_compile_20250310.xlsx - Google Sheets",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "SS_SUMH_compile_20250310.xlsx - Google Sheets"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9ccc8cd75d857c6d",
+        "type": "split",
+        "children": [
+          {
+            "id": "e94b8c045357e56a",
+            "type": "tabs",
+            "dimension": 70.58823529411765,
+            "children": [
+              {
+                "id": "934ef778965e7013",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "f58dbc2783ef3c06",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "b46afbbe921bc12c",
+                "type": "leaf",
+                "state": {
+                  "type": "trash-explorer",
+                  "state": {},
+                  "icon": "trash",
+                  "title": "Trash explorer"
+                }
+              },
+              {
+                "id": "7a142241c703413a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "17d1797c57e462fb",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {},
+                  "icon": "longform",
+                  "title": "Longform"
+                }
+              }
+            ]
+          },
+          {
+            "id": "461720279e1a3682",
+            "type": "tabs",
+            "dimension": 29.411764705882355,
+            "children": [
+              {
+                "id": "2f7f6ff164d46683",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "workspace shortcuts"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 227.5
+      },
+      "right": {
+        "id": "03c6a7b46c2ffbe9",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d07bb9451cf6f9c",
+            "type": "tabs",
+            "dimension": 23.804226918798662,
+            "children": [
+              {
+                "id": "10a9608d4950341b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "f172a12d77ac3d92",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "f1dccf46c6eb66ae",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "00304d1c76ac73d1",
+            "type": "tabs",
+            "dimension": 23.692992213570633,
+            "children": [
+              {
+                "id": "89604a1b491dbeb1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "900_meta/911_backend_coding/workspace shortcuts.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of workspace shortcuts"
+                }
+              },
+              {
+                "id": "34bcbc76f32e68cb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/3.1 Significance-scratch.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for 3.1 Significance-scratch"
+                }
+              },
+              {
+                "id": "cf265cecb65199dc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/3.1 Significance-scratch.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 000-🏡Home"
+                }
+              },
+              {
+                "id": "c83ad74facca9da1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "410-🌙DISSERTATION/Diss Proposal (longform)/3.1 Significance-scratch.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 310-Therapy Henry St_⌖dashboard"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d78e848756937227",
+            "type": "tabs",
+            "dimension": 52.5027808676307,
+            "children": [
+              {
+                "id": "6b46624a23fb1192",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": "pain"
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "57970b0637a1c770",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "21f80506c040cd3a",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 413.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-dangling-links:Show dangling links panel": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "large-language-models:Ask a question": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "homepage:Open homepage": false,
+          "audio-recorder:Start/stop recording": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-kanban:Create new board": false,
+          "obsidian-trash-explorer:Open trash explorer": true,
+          "templater-obsidian:Templater": true,
+          "quickadd:QuickAdd": false,
+          "iconic:Open rulebook": false,
+          "widgets:Add widget": false,
+          "workspaces:Manage workspace layouts": false,
+          "custom-sort:Toggle custom sorting": false,
+          "cmdr:Recent Files: Open": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "periodic_note␥s:Open today": false
+        }
+      },
+      "active": "2f7f6ff164d46683",
+      "mtime": "2025-07-16T17:41:16-04:00"
+    },
+    "noa paths coding": {
+      "main": {
+        "id": "294b54231aa17b7f",
+        "type": "split",
+        "children": [
+          {
+            "id": "1d6dfefa0ea187d5",
+            "type": "split",
+            "children": [
+              {
+                "id": "e7cc6e8ec12710a9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ec47a71aa058e0a4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/MOUD treatment itself.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "MOUD treatment itself"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "a2937739a918a364",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "e237c9ae6fb81a32",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/integration of patient lived experiences.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "integration of patient lived experiences"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "39544626bd5f184c",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2b5d6276499911c7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/leadership.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "leadership"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "d7afb20401eb5c58",
+            "type": "split",
+            "children": [
+              {
+                "id": "307655b228a238ee",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9fff0bc83b30e1f7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/hospital setting.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "hospital setting"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "5863fde09dbea2a7",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c2e72fcf8cdde1c6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/strategies.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "strategies"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9ccc8cd75d857c6d",
+        "type": "split",
+        "children": [
+          {
+            "id": "e94b8c045357e56a",
+            "type": "tabs",
+            "dimension": 72.87184284377923,
+            "children": [
+              {
+                "id": "934ef778965e7013",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "7a142241c703413a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "button-mobilegreen",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "17d1797c57e462fb",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {},
+                  "icon": "longform",
+                  "title": "Longform"
+                }
+              },
+              {
+                "id": "f75346b2625b7ff7",
+                "type": "leaf",
+                "state": {
+                  "type": "vertical-tabs",
+                  "state": {},
+                  "icon": "vertical-tabs",
+                  "title": "Vertical tabs"
+                }
+              },
+              {
+                "id": "a869dbe58c9ea793",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "461720279e1a3682",
+            "type": "tabs",
+            "dimension": 27.12815715622077,
+            "children": [
+              {
+                "id": "643f4951cca63dc0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "900_meta/920_coding/workspace.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "workspace"
+                }
+              },
+              {
+                "id": "6b46624a23fb1192",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": "pain"
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 297.5
+      },
+      "right": {
+        "id": "03c6a7b46c2ffbe9",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d07bb9451cf6f9c",
+            "type": "tabs",
+            "dimension": 34.45161290322581,
+            "children": [
+              {
+                "id": "10a9608d4950341b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "f172a12d77ac3d92",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              }
+            ]
+          },
+          {
+            "id": "00304d1c76ac73d1",
+            "type": "tabs",
+            "dimension": 65.54838709677419,
+            "children": [
+              {
+                "id": "5f5f3e2792639d9a",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "89604a1b491dbeb1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/MOUD treatment itself.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of MOUD treatment itself"
+                }
+              },
+              {
+                "id": "34bcbc76f32e68cb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/MOUD treatment itself.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for MOUD treatment itself"
+                }
+              },
+              {
+                "id": "f1dccf46c6eb66ae",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "400_KNOWLEDGE/420_🌱atomic/Inadequately controlled pain is a key risk component in the pathway from prescription opioid use to OUD or OD among older adults..md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "21f80506c040cd3a",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c83ad74facca9da1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Zettkasten process.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Zettkasten process"
+                }
+              },
+              {
+                "id": "cf265cecb65199dc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "400_KNOWLEDGE/420_🌱atomic/420_🌱atomic_⌖dashboard.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 420_🌱atomic_⌖dashboard"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 272.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "audio-recorder:Start/stop recording": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "quickadd:QuickAdd": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-trash-explorer:Open trash explorer": true,
+          "templater-obsidian:Templater": true,
+          "iconic:Open rulebook": false,
+          "workspaces:Manage workspace layouts": false,
+          "cmdr:Recent Files: Open": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "custom-sort:Toggle custom sorting": false,
+          "local-backup:Run local backup": false,
+          "periodic_note␥s:Open today": false
+        }
+      },
+      "active": "ec47a71aa058e0a4",
+      "mtime": "2025-07-24T18:12:49-04:00"
+    },
+    "knowledge": {
+      "main": {
+        "id": "294b54231aa17b7f",
+        "type": "split",
+        "children": [
+          {
+            "id": "1d6dfefa0ea187d5",
+            "type": "split",
+            "children": [
+              {
+                "id": "e7cc6e8ec12710a9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ec47a71aa058e0a4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/MOUD treatment itself.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "MOUD treatment itself"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "a2937739a918a364",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "e237c9ae6fb81a32",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/integration of patient lived experiences.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "integration of patient lived experiences"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "39544626bd5f184c",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2b5d6276499911c7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/leadership.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "leadership"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "d7afb20401eb5c58",
+            "type": "split",
+            "children": [
+              {
+                "id": "307655b228a238ee",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9fff0bc83b30e1f7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/hospital setting.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "hospital setting"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "5863fde09dbea2a7",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c2e72fcf8cdde1c6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/strategies.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "strategies"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9ccc8cd75d857c6d",
+        "type": "split",
+        "children": [
+          {
+            "id": "e94b8c045357e56a",
+            "type": "tabs",
+            "dimension": 72.87184284377923,
+            "children": [
+              {
+                "id": "934ef778965e7013",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "7a142241c703413a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "button-mobilegreen",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "17d1797c57e462fb",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {},
+                  "icon": "longform",
+                  "title": "Longform"
+                }
+              },
+              {
+                "id": "f75346b2625b7ff7",
+                "type": "leaf",
+                "state": {
+                  "type": "vertical-tabs",
+                  "state": {},
+                  "icon": "vertical-tabs",
+                  "title": "Vertical tabs"
+                }
+              },
+              {
+                "id": "a869dbe58c9ea793",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "461720279e1a3682",
+            "type": "tabs",
+            "dimension": 27.12815715622077,
+            "children": [
+              {
+                "id": "643f4951cca63dc0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "900_meta/920_coding/workspace.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "workspace"
+                }
+              },
+              {
+                "id": "6b46624a23fb1192",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": "pain"
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 297.5
+      },
+      "right": {
+        "id": "03c6a7b46c2ffbe9",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d07bb9451cf6f9c",
+            "type": "tabs",
+            "dimension": 34.45161290322581,
+            "children": [
+              {
+                "id": "10a9608d4950341b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "f172a12d77ac3d92",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              }
+            ]
+          },
+          {
+            "id": "00304d1c76ac73d1",
+            "type": "tabs",
+            "dimension": 65.54838709677419,
+            "children": [
+              {
+                "id": "5f5f3e2792639d9a",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "89604a1b491dbeb1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/MOUD treatment itself.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of MOUD treatment itself"
+                }
+              },
+              {
+                "id": "34bcbc76f32e68cb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "430-LONGFORM WRITING/PATHS qual analysis (Noa, SARET)/MOUD treatment itself.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for MOUD treatment itself"
+                }
+              },
+              {
+                "id": "f1dccf46c6eb66ae",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "400_KNOWLEDGE/420_🌱atomic/Inadequately controlled pain is a key risk component in the pathway from prescription opioid use to OUD or OD among older adults..md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "21f80506c040cd3a",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c83ad74facca9da1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Zettkasten process.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Zettkasten process"
+                }
+              },
+              {
+                "id": "cf265cecb65199dc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "400_KNOWLEDGE/420_🌱atomic/420_🌱atomic_⌖dashboard.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 420_🌱atomic_⌖dashboard"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 272.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "audio-recorder:Start/stop recording": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "quickadd:QuickAdd": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-trash-explorer:Open trash explorer": true,
+          "templater-obsidian:Templater": true,
+          "iconic:Open rulebook": false,
+          "workspaces:Manage workspace layouts": false,
+          "cmdr:Recent Files: Open": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "custom-sort:Toggle custom sorting": false,
+          "local-backup:Run local backup": false,
+          "periodic_note␥s:Open today": false
+        }
+      },
+      "active": "ec47a71aa058e0a4",
+      "mtime": "2025-07-24T18:12:26-04:00"
+    }
+  },
+  "active": "noa paths coding"
+}

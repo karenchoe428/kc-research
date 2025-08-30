@@ -1,0 +1,8 @@
+{
+  "deleteFileAfterConversion": true,
+  "importComments": true,
+  "fallbackAttachmentName": "Attachment",
+  "attachmentsFolder": "custom",
+  "customAttachmentsFolder": "990_fileconversion/992_docxer_import-word/attachments",
+  "useImageAltAsFilename": false
+}

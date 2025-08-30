@@ -1,0 +1,39 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "zoteropandoccitation",
+      "format": "pandoc",
+      "brackets": true
+    },
+    {
+      "name": "bibliography",
+      "format": "formatted-bibliography",
+      "cslStyle": "apa"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "zotero-update-lit",
+      "outputPathTemplate": "400_KNOWLEDGE/410_🧲zotero/{{citekey}}.md",
+      "imageOutputPathTemplate": "900_meta/970_backlinked/attachments",
+      "imageBaseNameTemplate": "{{citekey}}_ZOTEROIMG",
+      "templatePath": "900_meta/910_᯽tmpl/templates/410_🧲zotero_1import_➕tmplnote.md"
+    },
+    {
+      "name": "519b_🧲⭐zotero_primaryimport",
+      "outputPathTemplate": "400_KNOWLEDGE/410_🧲zotero/{{citekey}}.md",
+      "imageOutputPathTemplate": "900_meta/970_backlinked/attachments",
+      "imageBaseNameTemplate": "{{citekey}}_ZOTEROIMG",
+      "templatePath": "900_meta/910_᯽tmpl/templates/410_🧲zotero_1import_➕tmplnote.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}

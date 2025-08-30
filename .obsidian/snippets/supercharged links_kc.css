@@ -1,0 +1,897 @@
+
+/* ============================ based on what folder its in ============================ */
+
+/* ~~~~~~~~~ 300journal~~~~~~~~~ */
+/* 🟡 Live preview, then reading mode */
+/* ~~~~~~~~~ HOLD NOT USING FOR NOW 🛑🛑🛑
+.data-link-text[data-link-path^="300_ATLAS/"] { color: #8ECAE6 !important; font-weight: 400; }
+.data-link-icon[data-link-path^="300_ATLAS/"]::before { content: ""; color: #8ECAE6; }
+
+
+/* ~~~~~~~~~ HOLD NOT USING FOR NOW 🛑🛑🛑
+.markdown-preview-view .internal-link[data-link-path^="300_ATLAS/"] { color: #8ECAE6; font-weight: 400; }
+.markdown-preview-view .internal-link[data-link-path^="300_ATLAS/"]::before { content: ""; color: #8ECAE6; }
+
+
+
+
+
+
+/* Bold top-level folders */
+.nav-files-container > div > .nav-folder > .nav-folder-title { font-weight:400; }
+
+
+
+
+
+
+
+/* 🔗 supercharged links ============ from macbook ============================ */
+.theme-light a[href^="file:///User"], .theme-light .markdown-preview-view a[href^="file:///User"] { color: #853c5c !important; font-weight: 400; text-decoration: underline solid; position: relative; } .theme-light a[href^="file:///User"]::before, .theme-light .markdown-preview-view a[href^="file:///User"]::before { content: ""; color: #ffb8eb; position: relative; left: 0; } .theme-light .markdown-preview-view span.cm-url { color: #ffb8eb !important; font-weight: 400; text-decoration: underline solid; } .theme-light .markdown-preview-view span.cm-url::before { content: ""; color: #ffb8eb; } 
+
+.theme-dark a[href^="file:///User"], .theme-dark .markdown-preview-view a[href^="file:///User"] { color: #ffb8eb !important; font-weight: 400; text-decoration: underline solid; position: relative; } .theme-dark a[href^="file:///User"]::before, .theme-dark .markdown-preview-view a[href^="file:///User"]::before { content: ""; color: #ffb8eb; position: relative; left: 0; } .theme-dark .markdown-preview-view span.cm-url { color: #ffb8eb !important; font-weight: 400; text-decoration: underline solid; } .theme-dark .markdown-preview-view span.cm-url::before { content: ""; color: #ffb8eb; }
+
+/* ============================ based on filetype MUST ADD filetype TO THE PLUGIN SETTING UNDER TARGET ATTREIBUTES FOR STYLING ============================ */
+
+
+
+
+/* 📁 custom folder ~~~~~~~~~ BASE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* Base */
+.nav-folder-title, .nav-file-title {
+  border-radius: 10px;
+  padding: 2px 6px;
+}
+
+/* Hover effect */
+.nav-folder-title:hover,
+.nav-file-title:hover {
+  filter: brightness(0.35);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 📁 custom folder ~~~~~~~~~ 100 DOCK ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.nav-folder-title[data-path^="100"] { background:#733F35 !important; color:#fff !important; }
+.nav-file-title[data-path^="100"]   { background:none !important; color:#DD7965 !important; }
+
+
+
+/* ⭐🔴🔗 supercharged links ============ dock notes ============================ */
+.theme-light .data-link-text[data-link-path^="100_DOCK"],
+.theme-light .markdown-preview-view .internal-link[data-link-path^="100_DOCK"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #F49481 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #732414; } /* underline color */
+.theme-light .data-link-icon[data-link-path^="100_DOCK"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-path^="100_DOCK"]::before { 
+  content: "⨳ "; color: #D54225 !important; }  
+
+.theme-dark .data-link-text[data-link-path^="100_DOCK"],
+.theme-dark .markdown-preview-view .internal-link[data-link-path^="100_DOCK"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #F49481 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #732414; } /* underline color */
+.theme-dark .data-link-icon[data-link-path^="100_DOCK"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-path^="100_DOCK"]::before { 
+  content: "⨳ "; color: #D54225 !important; }  
+  
+
+
+  
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 📁 custom folder ~~~~~~~~~ 300 ATLAS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.nav-folder-title[data-path^="300"] { background:#A8964C !important; color:#000 !important; }
+.nav-file-title[data-path^="300"]   { background:none !important; color:#f1c40f !important; }
+
+
+/* 🔗 supercharged links ============ ✏️basic_note␥ ============================ */
+
+
+.theme-light .data-link-text[data-link-filetype="✏️basic_note␥"],
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="✏️basic_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #F2D13E !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #52711A; /* underline color */}
+.theme-light .data-link-icon[data-link-filetype="✏️basic_note␥"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="✏️basic_note␥"]::before { 
+  content: "❈ "; color: #F2D13E !important; }  
+
+.theme-dark .data-link-text[data-link-filetype="✏️basic_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="✏️basic_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #F2D13E !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #52711A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="✏️basic_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="✏️basic_note␥"]::before { 
+  content: "❈ "; color: #F2D13E !important; }  
+
+
+
+/* 🔗 supercharged links ============ 🔖meetings_note␥ ============================ */
+.theme-light .data-link-text[data-link-filetype="🔖meetings_note␥"],
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="🔖meetings_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #FEAA52 !important; /* Link color */
+  font-size: 14px !important;
+  text-decoration: underline;
+  text-decoration-color: #9B9BA1; /* underline color */}
+.theme-light .data-link-icon[data-link-filetype="🔖meetings_note␥"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="🔖meetings_note␥"]::before { 
+  content: "🔖"; color: #FEAA52 !important; }  
+
+.theme-dark .data-link-text[data-link-filetype="🔖meetings_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🔖meetings_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #85B52A !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #52711A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="🔖meetings_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🔖meetings_note␥"]::before { 
+  content: "🔖 "; color: #85B52A !important; }  
+
+
+
+
+
+/* 📁 custom folder ~~~~~~~~~ 310 TASKS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* Match any folder that contains '/310' in its path */
+.nav-folder-title[data-path*="/310"] { 
+  background:#387106 !important; 
+  color:#FCFCFC !important; 
+}
+.nav-file-title[data-path*="/310"] { 
+  background:none !important; 
+  color:#65AF25 !important; 
+}
+
+
+
+/* 🔗 supercharged links ============ ☑️tasknotes_note␥ ============================ */
+.theme-light .data-link-text[data-link-filetype="☑️tasknotes_note␥"],
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="☑️tasknotes_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #FEAA52 !important; /* Link color */
+  font-size: 14px !important;
+  text-decoration: underline;
+  text-decoration-color: #9B9BA1; /* underline color */}
+.theme-light .data-link-icon[data-link-filetype="☑️tasknotes_note␥"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="☑️tasknotes_note␥"]::before { 
+  content: "➺"; color: #FEAA52 !important; }  
+
+.theme-dark .data-link-text[data-link-filetype="☑️tasknotes_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="☑️tasknotes_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #68F165 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #2C5E2C; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="☑️tasknotes_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="☑️tasknotes_note␥"]::before { 
+  content: "☑️"; color: #30F23E !important; }  
+
+
+
+
+
+
+/* 🔗 supercharged links ============ ➺🚀projects_note␥ ============================ */
+.theme-light .data-link-text[data-link-filetype="🚀projects_note␥"],
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="🚀projects_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #FEAA52 !important; /* Link color */
+  font-size: 14px !important;
+  text-decoration: underline;
+  text-decoration-color: #9B9BA1; /* underline color */}
+.theme-light .data-link-icon[data-link-filetype="🚀projects_note␥"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="🚀projects_note␥"]::before { 
+  content: "➺"; color: #FEAA52 !important; }  
+
+.theme-dark .data-link-text[data-link-filetype="🚀projects_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🚀projects_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #E96514 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #E96514; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="🚀projects_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🚀projects_note␥"]::before { 
+  content: "➺"; color: #E96514 !important; }  
+
+
+
+
+/* 🔗 supercharged links ============ 👥people_note␥ ============================ */
+.theme-light .data-link-text[data-link-filetype="👥people_note␥"],
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="👥people_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #F364A7 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #AE4777; /* underline color */}
+.theme-light .data-link-icon[data-link-filetype="👥people_note␥"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="👥people_note␥"]::before { 
+  content: "✴︎"; color: #DB5A96 !important; }  
+
+
+.theme-dark .data-link-text[data-link-filetype="👥people_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="👥people_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #FE8ADD !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #B24994; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="👥people_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="👥people_note␥"]::before { 
+  content: "✴︎"; color: #F364CA !important; }  
+
+
+
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 📁 custom folder ~~~~~~~~~ 200 INBOX ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.nav-folder-title[data-path^="200"] { background:#8B633C !important; color:#fff !important; }
+.nav-file-title[data-path^="200"]   { background:none !important; color:#e67e22 !important; }
+
+
+/* 🔗 supercharged links ============ 📥INBOX_note␥ ============================ */
+
+.theme-light .data-link-text[data-link-filetype="📥INBOX_note␥"],
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="📥INBOX_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #FEAA52 !important; /* Link color */
+  font-size: 14px !important;
+  text-decoration: underline;
+  text-decoration-color: #9B9BA1; /* underline color */}
+.theme-light .data-link-icon[data-link-filetype="📥INBOX_note␥"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="📥INBOX_note␥"]::before { 
+  content: "✧ "; color: #FEAA52 !important; }  
+
+.theme-dark .data-link-text[data-link-filetype="📥INBOX_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="📥INBOX_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #F39606 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #F39606; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="📥INBOX_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="📥INBOX_note␥"]::before { 
+  content: "✧ "; color: #FFA319 !important; }  
+
+
+
+.theme-dark .data-link-text[data-link-filetype="🗓️🌸daily_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🗓️🌸daily_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #90A8F0 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #52711A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="🗓️🌸daily_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🗓️🌸daily_note␥"]::before { 
+  content: "🗓️ "; color: #85B52A !important; }  
+
+
+
+.theme-dark .data-link-text[data-link-filetype="🗓️🌿weeks_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🗓️🌿weeks_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #90A8F0 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #52711A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="🗓️🌿weeks_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🗓️🌿weeks_note␥"]::before { 
+  content: "🗓️ "; color: #85B52A !important; }  
+
+
+.theme-dark .data-link-text[data-link-filetype="🗓️🪴months_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🗓️🪴months_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #90A8F0 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #52711A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="🗓️🪴months_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🗓️🪴months_note␥"]::before { 
+  content: "🗓️ "; color: #85B52A !important; }  
+
+
+.theme-dark .data-link-text[data-link-filetype="🗓️🌳yearly_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🗓️🌳yearly_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #90A8F0 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #52711A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="🗓️🌳yearly_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🗓️🌳yearly_note␥"]::before { 
+  content: "🗓️ "; color: #85B52A !important; }  
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 📁 custom folder ~~~~~~~~~ KNOWLEDGE NOTES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.nav-folder-title[data-path^="400"] { background:#648643 !important; color:#FAFAFA !important; }
+.nav-file-title[data-path^="400"]   { background:none !important; color:#88CD7A !important; }
+
+
+/* 🔗 supercharged links ============ 🌱atomic_note␥ ============================ */
+  
+.theme-light .data-link-text[data-link-filetype="🌱atomic_note␥"], .theme-light .markdown-preview-view .internal-link[data-link-filetype="🌱atomic_note␥"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #55b848 !important; }  
+.theme-light .data-link-icon[data-link-filetype="🌱atomic_note␥"]::before, .theme-light .markdown-preview-view .internal-link[data-link-filetype="🌱atomic_note␥"]::before { content: "🌱"; color: #55b848 !important; }  
+  
+.theme-dark .data-link-text[data-link-filetype="🌱atomic_note␥"], .theme-dark .markdown-preview-view .internal-link[data-link-filetype="🌱atomic_note␥"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #55b848 !important; }  
+.theme-dark .data-link-icon[data-link-filetype="🌱atomic_note␥"]::before, .theme-dark .markdown-preview-view .internal-link[data-link-filetype="🌱atomic_note␥"]::before { content: "🌱"; color: #55b848 !important; }  
+  
+
+
+/* 🔗 supercharged links ============ 🌲evergreen_note␥ ============================ */
+  
+.theme-light .data-link-text[data-link-filetype="🌲evergreen_note␥"], .theme-light .markdown-preview-view .internal-link[data-link-filetype="🌲evergreen_note␥"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #669e37 !important; }  
+.theme-light .data-link-icon[data-link-filetype="🌲evergreen_note␥"]::before, .theme-light .markdown-preview-view .internal-link[data-link-filetype="🌲evergreen_note␥"]::before { content: "🌲"; color: #669e37 !important; }  
+  
+.theme-dark .data-link-text[data-link-filetype="🌲evergreen_note␥"], .theme-dark .markdown-preview-view .internal-link[data-link-filetype="🌲evergreen_note␥"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #669e37 !important; }  
+.theme-dark .data-link-icon[data-link-filetype="🌲evergreen_note␥"]::before, .theme-dark .markdown-preview-view .internal-link[data-link-filetype="🌲evergreen_note␥"]::before { content: "🌲"; color: #669e37 !important; }  
+  
+
+
+/* 🔗 supercharged links ============ ⛰️topics_note␥ ============================ */
+  
+.theme-light .data-link-text[data-link-filetype="⛰️topics_note␥"], .theme-light .markdown-preview-view .internal-link[data-link-filetype="⛰️topics_note␥"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #379e43 !important; }  
+.theme-light .data-link-icon[data-link-filetype="⛰️topics_note␥"]::before, .theme-light .markdown-preview-view .internal-link[data-link-filetype="⛰️topics_note␥"]::before { content: "⛰️"; color: #379e43 !important; }  
+  
+.theme-dark .data-link-text[data-link-filetype="⛰️topics_note␥"], .theme-dark .markdown-preview-view .internal-link[data-link-filetype="⛰️topics_note␥"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #379e43 !important; }  
+.theme-dark .data-link-icon[data-link-filetype="⛰️topics_note␥"]::before, .theme-dark .markdown-preview-view .internal-link[data-link-filetype="⛰️topics_note␥"]::before { content: "⛰️"; color: #379e43 !important; }  
+  
+
+
+
+
+/* 🔗 supercharged links ============ 🛠resources_note␥ ============================ */
+
+.theme-light .data-link-text[data-link-filetype="🛠resources_note␥"], .theme-light .markdown-preview-view .internal-link[data-link-filetype="🛠resources_note␥"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #80c4a1 !important; }  
+.theme-light .data-link-icon[data-link-filetype="🛠resources_note␥"]::before, .theme-light .markdown-preview-view .internal-link[data-link-filetype="🛠resources_note␥"]::before { content: "🛠"; color: #80c4a1 !important; }  
+  
+.theme-dark .data-link-text[data-link-filetype="🛠resources_note␥"], .theme-dark .markdown-preview-view .internal-link[data-link-filetype="🛠resources_note␥"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #80c4a1 !important; }  
+.theme-dark .data-link-icon[data-link-filetype="🛠resources_note␥"]::before, .theme-dark .markdown-preview-view .internal-link[data-link-filetype="🛠resources_note␥"]::before { content: "🛠"; color: #80c4a1 !important; }  
+  
+
+
+/* 🔗 supercharged links ============ 🧲lit_note␥ ============================ */
+
+.theme-light .data-link-text[data-link-filetype="🧲lit_note␥"], .theme-light .markdown-preview-view .internal-link[data-link-filetype="🧲lit_note␥"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #459c00 !important; }  
+.theme-light .data-link-icon[data-link-filetype="🧲lit_note␥"]::before, .theme-light .markdown-preview-view .internal-link[data-link-filetype="🧲lit_note␥"]::before { content: "🧲"; color: #459c00 !important; }  
+  
+.theme-dark .data-link-text[data-link-filetype="🧲lit_note␥"], .theme-dark .markdown-preview-view .internal-link[data-link-filetype="🧲lit_note␥"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #5ab214 !important; }  
+.theme-dark .data-link-icon[data-link-filetype="🧲lit_note␥"]::before, .theme-dark .markdown-preview-view .internal-link[data-link-filetype="🧲lit_note␥"]::before { content: "🧲"; color: #5ab214 !important; }
+
+
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 📁 custom folder ~~~~~~~~~ 500 WRITING ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.nav-folder-title[data-path^="500"] { background:#427E6C !important; color:#fff !important; }
+.nav-file-title[data-path^="500"]   { background:none !important; color:#419B80 !important; }
+
+/* 🔗 supercharged links ============ longform-note ============================ */
+.theme-light .data-link-text[data-link-filetype="longform-note"],
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="longform-note"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #5FE0BA !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #357E68; /* underline color */}
+.theme-light .data-link-icon[data-link-filetype="longform-note"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="longform-note"]::before { 
+  content: "𓍼 "; color: #46A589 !important; }  
+
+.theme-dark .data-link-text[data-link-filetype="longform-note"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="longform-note"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #5FE0BA !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #357E68; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="longform-note"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="longform-note"]::before { 
+  content: "𓍼 "; color: #46A589 !important; }  
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 📁 custom folder ~~~~~~~~~ 550 DISSERTATION ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.nav-folder-title[data-path^="550"] { background:#5563AA !important; color:#fff !important; }
+.nav-file-title[data-path^="550"]   { background:none !important; color:#4A60C8 !important; }
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 📁 custom folder ~~~~~~~~~ 600 CAREER ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.nav-folder-title[data-path^="600"] { background:#6648A6 !important; color:#fff !important; }
+.nav-file-title[data-path^="600"]   { background:none !important; color:#9A83CC !important; }
+
+
+/* 🔗 supercharged links ============ 📓journals_note␥ ============================ */
+.theme-light .data-link-text[data-link-filetype="📓journals_note␥"],
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="📓journals_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #9A83CC !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #4E4267; /* underline color */}
+.theme-light .data-link-icon[data-link-filetype="📓journals_note␥"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="📓journals_note␥"]::before { 
+  content: "📓 "; color: #9A83CC !important; }  
+
+.theme-dark .data-link-text[data-link-filetype="📓journals_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="📓journals_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #9A83CC !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #4E4267; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="📓journals_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="📓journals_note␥"]::before { 
+  content: "📓 "; color: #9A83CC !important; }  
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 📁 custom folder ~~~~~~~~~ 700 THERAPY ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.nav-folder-title[data-path^="700"] { background:#4C5A34 !important; color:#E6FFC4 !important; }
+.nav-file-title[data-path^="700"]   { background:none !important; color:#AEC45B !important; }
+
+
+/* 🔗 supercharged links ============ ❀clinical_client_note␥ ============================ */
+
+.theme-dark .data-link-text[data-link-filetype="❀clinical_client_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="❀clinical_client_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #E2589A !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #E2589A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="❀clinical_client_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="❀clinical_client_note␥"]::before { 
+  content: "❀"; color: #E2589A !important; }  
+
+.theme-dark .data-link-text[data-link-filetype="🔖❀clinical_mtg_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🔖❀clinical_mtg_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #85B52A !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #52711A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="🔖❀clinical_mtg_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🔖❀clinical_mtg_note␥"]::before { 
+  content: "🔖 "; color: #85B52A !important; }  
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 📁 custom folder ~~~~~~~~~ 800 PERSONAL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.nav-folder-title[data-path^="800"] { background:#57223C !important; color:#FFAFD1 !important; }
+.nav-file-title[data-path^="800"]   { background:none !important; color:#B44798 !important; }
+
+/* 🔗 supercharged links ============ 🐢PERSONAL_note␥ ============================ */
+.theme-light .data-link-text[data-link-filetype="🐢PERSONAL_note␥"],
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="🐢PERSONAL_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #E2589A !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #E2589A; /* underline color */}
+.theme-light .data-link-icon[data-link-filetype="🐢PERSONAL_note␥"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="🐢PERSONAL_note␥"]::before { 
+  content: "𓇼"; color: #E2589A !important; }  
+
+.theme-dark .data-link-text[data-link-filetype="🐢PERSONAL_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🐢PERSONAL_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #E2589A !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #E2589A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="🐢PERSONAL_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🐢PERSONAL_note␥"]::before { 
+  content: "𓇼"; color: #E2589A !important; }  
+
+
+
+
+.theme-dark .data-link-text[data-link-filetype="🍃plants_species_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🍃plants_species_note␥"] {
+  font-weight: 400;
+  font-family: "courier new", courier, monospace !important;
+  color: #33B654 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #52711A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="🍃plants_species_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🍃plants_species_note␥"]::before { 
+  content: "✤ "; color: #85B52A !important; }  
+
+
+
+.theme-dark .data-link-text[data-link-filetype="🍃plants_note␥"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🍃plants_note␥"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #33B654 !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #52711A; /* underline color */}
+.theme-dark .data-link-icon[data-link-filetype="🍃plants_note␥"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="🍃plants_note␥"]::before { 
+  content: "✤ "; color: #FFE50A !important; }  
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 📁 custom folder ~~~~~~~~~ 900 META ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* 900 — Grey */
+.nav-folder-title[data-path^="900"] { background:#151718 !important; color:#7C7C7C !important; }
+.nav-file-title[data-path^="900"]   { background:none !important; color:#7f8c8d !important; }
+
+
+/* ⭐🔴🔗 supercharged links ============ 900_meta ============================ */
+.theme-light .data-link-text[data-link-path^="900_meta"],
+.theme-light .markdown-preview-view .internal-link[data-link-path^="900_meta"] {
+  font-weight: 400;
+  font-family: "courier new", courier, monospace !important;
+  color: #8F9AFF !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #616368; } /* underline color */
+.theme-light .data-link-icon[data-link-path^="900_meta"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-path^="900_meta"]::before { 
+  content: "⛯"; color: #6065AB !important; }  
+
+.theme-dark .data-link-text[data-link-path^="900_meta"],
+.theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta"] {
+  font-weight: 400;
+  font-family: !important;
+  color: #888DBE !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #3D416A; } /* underline color */
+.theme-dark .data-link-icon[data-link-path^="900_meta"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta"]::before { 
+  content: "⛯"; color: #6065AB !important; }  
+
+
+
+
+
+  
+
+
+/* 🔗 supercharged links ============ 901_config ============================ */
+
+.theme-light .data-link-text[data-link-path^="900_meta/901_config/"], .theme-light .markdown-preview-view .internal-link[data-link-path^="900_meta/901_config/"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #757575 !important; }  
+.theme-light .data-link-icon[data-link-path^="900_meta/901_config/"]::before, .theme-light .markdown-preview-view .internal-link[data-link-path^="900_meta/901_config/"]::before { content: ""; color: #757575 !important; }  
+  
+.theme-dark .data-link-text[data-link-path^="900_meta/901_config/"], .theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta/901_config/"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #757575 !important; }  
+.theme-dark .data-link-icon[data-link-path^="900_meta/901_config/"]::before, .theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta/901_config/"]::before { content: ""; color: #757575 !important; }  
+  
+/* 🔗 supercharged links ============ attachments ============================ */
+  
+.theme-light .data-link-text[data-link-path^="900_meta/970_backlinked/attachments/"], .theme-light .markdown-preview-view .internal-link[data-link-path^="900_meta/970_backlinked/attachments/"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #4f4f4f !important; }  
+.theme-light .data-link-icon[data-link-path^="900_meta/970_backlinked/attachments/"]::before, .theme-light .markdown-preview-view .internal-link[data-link-path^="900_meta/970_backlinked/attachments/"]::before { content: ""; color: #4f4f4f !important; }  
+  
+.theme-dark .data-link-text[data-link-path^="900_meta/970_backlinked/attachments/"], .theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta/970_backlinked/attachments/"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #4f4f4f !important; }  
+.theme-dark .data-link-icon[data-link-path^="900_meta/970_backlinked/attachments/"]::before, .theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta/970_backlinked/attachments/"]::before { content: ""; color: #4f4f4f !important; }  
+  
+
+/* 🔗 supercharged links ============ ᯓdocked-note ============================ */
+
+.theme-light .data-link-text[data-link-filetype="docked-note"], .theme-light .markdown-preview-view .internal-link[data-link-filetype="docked-note"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #8ba86f !important; }  
+.theme-light .data-link-icon[data-link-filetype="docked-note"]::before, .theme-light .markdown-preview-view .internal-link[data-link-filetype="docked-note"]::before { content: "ᯓ"; color: #8ba86f !important; }  
+  
+.theme-dark .data-link-text[data-link-filetype="docked-note"], .theme-dark .markdown-preview-view .internal-link[data-link-filetype="docked-note"] { font-weight: 400; font-style: ; font-family: "", , monospace !important; color: #8ba86f !important; }  
+.theme-dark .data-link-icon[data-link-filetype="docked-note"]::before, .theme-dark .markdown-preview-view .internal-link[data-link-filetype="docked-note"]::before { content: "ᯓ"; color: #8ba86f !important; }  
+  
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 🔗 supercharged links ============ ⌖dashboard ============================ */
+
+.theme-light .data-link-text[data-link-filetype="⌖dashboard"],
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="⌖dashboard"] {
+  font-weight: 400;
+  font-family: "courier new", courier, monospace !important;
+  color: #000000 !important; /* pick your link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #ff0000; 
+}
+.theme-light .data-link-icon[data-link-filetype="⌖dashboard"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-filetype="⌖dashboard"]::before { 
+  content: "🔺"; color: #E54396 !important; 
+}  
+
+.theme-dark .data-link-text[data-link-filetype="⌖dashboard"],
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="⌖dashboard"] {
+  font-weight: 400;
+  font-family: "courier new", courier, monospace !important;
+  color: #FFF47B !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline ;
+  text-decoration-color: #FFF47B; /* underline color */
+}
+.theme-dark .data-link-icon[data-link-filetype="⌖dashboard"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-filetype="⌖dashboard"]::before { 
+  content: "🔺"; color: #E54396 !important; 
+}  
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* 🔗 supercharged links ============ templates ============================ */
+.theme-light .data-link-text[data-link-path^="900_meta/910_᯽tmpl/templates/"],
+.theme-light .markdown-preview-view .internal-link[data-link-path^="900_meta/910_᯽tmpl/templates/"] {
+  font-weight: 400;
+  font-family: "courier new", courier, monospace !important;
+  color: #8F9AFF !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #3D416A; } /* underline color */
+.theme-light .data-link-icon[data-link-path^="900_meta/910_᯽tmpl/templates/"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-path^="900_meta/910_᯽tmpl/templates/"]::before { 
+  content: "𓄲"; color: #B3DF00 !important; }  
+  
+.theme-dark .data-link-text[data-link-path^="900_meta/910_᯽tmpl/templates/"],
+.theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta/910_᯽tmpl/templates/"] {
+  font-weight: 400;
+  font-family: "courier new", courier, monospace !important;
+  color: #AF8FFF !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #695699; } /* underline color */
+.theme-dark .data-link-icon[data-link-path^="900_meta/910_᯽tmpl/templates/"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta/910_᯽tmpl/templates/"]::before { 
+  content: "𓄲"; color: #CCFF00 !important; }  
+
+
+/* 🔗 supercharged links ============ scripts ============================ */
+.theme-dark .data-link-text[data-link-path^="900_meta/910_᯽tmpl/scripts/"],
+.theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta/910_᯽tmpl/scripts/"] {
+  font-weight: 400;
+  font-family: "courier new", courier, monospace !important;
+  color: #B9B5BB !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #4E355F; } /* underline color */
+.theme-dark .data-link-icon[data-link-path^="900_meta/910_᯽tmpl/scripts/"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta/910_᯽tmpl/scripts/"]::before { 
+  content: "᯽"; color: #B9B5BB !important; }  
+
+/* ⭐🔴📁 custom folder ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.nav-folder-title[data-path*="/910_᯽tmpl"] { 
+  background:#3C2849 !important; 
+  color:#FCFCFC !important; 
+}
+.nav-file-title[data-path*="/910_᯽tmpl"] { 
+  background:none !important; 
+  color:#A370C7 !important; 
+}
+
+
+
+
+
+
+
+/* ⭐🔴🔗 supercharged links ============ 920_fileprocessing ============================ */
+
+.theme-light .data-link-text[data-link-path^="900_meta/920_fileprocessing"],
+.theme-light .markdown-preview-view .internal-link[data-link-path^="900_meta/920_fileprocessing"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #81F4DD !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #3E766B; } /* underline color */
+.theme-light .data-link-icon[data-link-path^="900_meta/920_fileprocessing"]::before, 
+.theme-light .markdown-preview-view .internal-link[data-link-path^="900_meta/920_fileprocessing"]::before { 
+  content: "⌲"; color: #81F4DD !important; }  
+
+.theme-dark .data-link-text[data-link-path^="900_meta/920_fileprocessing"],
+.theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta/920_fileprocessing"] {
+  font-weight: 400;
+  font-family:  !important;
+  color: #81F4DD !important; /* Link color */
+  font-size: px !important;
+  text-decoration: underline;
+  text-decoration-color: #3E766B; } /* underline color */
+.theme-dark .data-link-icon[data-link-path^="900_meta/920_fileprocessing"]::before, 
+.theme-dark .markdown-preview-view .internal-link[data-link-path^="900_meta/920_fileprocessing"]::before {
+  content: "⌲"; color: #81F4DD !important; }  
+  
+
+/* ⭐🔴📁 custom folder ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.nav-folder-title[data-path*="/920_fileprocessing"] { 
+  background:#1C3631 !important; 
+  color:#FCFCFC !important; 
+}
+.nav-file-title[data-path*="/920_fileprocessing"] { 
+  background:none !important; 
+  color:#65AF25 !important; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* === Base style for all links (Live Preview + Reading View) === */
+
+a {
+  transition: color 0.2s ease-in-out, text-decoration 0.2s ease-in-out !important;
+}
+
+a:hover {
+  color: #3a3e59 !important; font-weight: 400; 
+  text-decoration: underline solid !important;
+}
+
+
+
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ACTIVE FILE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* Active file highlight (yours) */
+.nav-file-title.is-active {
+  background-color: #1B1C2C !important;
+  color: #fff !important;
+  border-radius: 6px;
+  font-style: oblique;
+  font-weight: 600;
+}
+
+
+/* Active file: red arrow */
+.nav-file-title.is-active .nav-file-title-content::before,
+.nav-file-title.is-active .tree-item-inner::before {
+  content: "➤";
+  color: #ff2a2a;
+  margin-right: 6px;
+  font-weight: 900;
+}
+
+/* Hide default icon on active file (optional) */
+.nav-file-title.is-active .nav-file-title-icon { display: none; }
+
+
+
+/* Optional: keep hover working too */
+.nav-file-title.is-active:hover {
+  filter: brightness(0.5);
+}
+
+
+

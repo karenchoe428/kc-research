@@ -1,0 +1,123 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "200_📥INBOX",
+      "tag": "#inbox",
+      "pattern": ""
+    },
+    {
+      "folder": "800_🐢PERSONAL/820_🍃plants/821_🍃plants_species",
+      "tag": "#hoya",
+      "pattern": ""
+    },
+    {
+      "folder": "800_🐢PERSONAL",
+      "tag": "#therapy",
+      "pattern": ""
+    },
+    {
+      "folder": "100_DOCK",
+      "tag": "#move_dock",
+      "pattern": ""
+    },
+    {
+      "folder": "200_📥INBOX",
+      "tag": "#move_inbox",
+      "pattern": ""
+    },
+    {
+      "folder": "300_ATLAS",
+      "tag": "#move_atlas",
+      "pattern": ""
+    },
+    {
+      "folder": "400_KNOWLEDGE",
+      "tag": "#move_knowledge",
+      "pattern": ""
+    },
+    {
+      "folder": "500_WRITING",
+      "tag": "#move_writing",
+      "pattern": ""
+    },
+    {
+      "folder": "550_dissertationproposal",
+      "tag": "#move_dissertation",
+      "pattern": ""
+    },
+    {
+      "folder": "700_therapy-counseling-HSS",
+      "tag": "#move_therapy-counseling-HSS",
+      "pattern": ""
+    },
+    {
+      "folder": "800_🐢PERSONAL",
+      "tag": "#move_personal",
+      "pattern": ""
+    },
+    {
+      "folder": "900_meta",
+      "tag": "#move_meta",
+      "pattern": ""
+    },
+    {
+      "folder": "400_KNOWLEDGE/410_🧲zotero",
+      "tag": "#move_zotero",
+      "pattern": ""
+    },
+    {
+      "folder": "400_KNOWLEDGE/420_🌱atomic",
+      "tag": "#move_atomic",
+      "pattern": ""
+    },
+    {
+      "folder": "400_KNOWLEDGE/430_🌲evergreen",
+      "tag": "#move_evergreen",
+      "pattern": ""
+    },
+    {
+      "folder": "400_KNOWLEDGE/440_⛰️topics",
+      "tag": "#move_topics",
+      "pattern": ""
+    },
+    {
+      "folder": "400_KNOWLEDGE/460_💻quant",
+      "tag": "#move_quant",
+      "pattern": ""
+    },
+    {
+      "folder": "400_KNOWLEDGE/490_🛠resources",
+      "tag": "#move_resources",
+      "pattern": ""
+    },
+    {
+      "folder": "300_ATLAS/320_👥people",
+      "tag": "#move_people",
+      "pattern": ""
+    },
+    {
+      "folder": "300_ATLAS/330_🚀projects",
+      "tag": "#move_projects",
+      "pattern": ""
+    },
+    {
+      "folder": "300_ATLAS/340_✏️basic",
+      "tag": "#move_basic",
+      "pattern": ""
+    },
+    {
+      "folder": "300_ATLAS/350_🔖meetings",
+      "tag": "#move_meetings",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

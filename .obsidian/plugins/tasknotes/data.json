@@ -1,0 +1,333 @@
+{
+  "tasksFolder": "300_ATLAS/310_✅tasks/TaskNotes_active",
+  "taskTag": "tasknote",
+  "excludedFolders": "900_meta",
+  "defaultTaskPriority": "normal",
+  "defaultTaskStatus": "🟡open",
+  "taskOrgFiltersCollapsed": false,
+  "taskFilenameFormat": "zettel",
+  "storeTitleInFilename": true,
+  "customFilenameTemplate": "{title}",
+  "taskCreationDefaults": {
+    "defaultContexts": "Research",
+    "defaultTags": "",
+    "defaultProjects": "",
+    "useParentNoteAsProject": true,
+    "defaultTimeEstimate": 0,
+    "defaultRecurrence": "none",
+    "defaultDueDate": "tomorrow",
+    "defaultScheduledDate": "today",
+    "bodyTemplate": "900_meta/910_᯽tmpl/templates/315_tasknotes_➕tmplnote",
+    "useBodyTemplate": true,
+    "defaultReminders": []
+  },
+  "calendarViewSettings": {
+    "defaultView": "dayGridMonth",
+    "customDayCount": 3,
+    "slotDuration": "00:30:00",
+    "slotMinTime": "00:00:00",
+    "slotMaxTime": "24:00:00",
+    "scrollTime": "08:00:00",
+    "firstDay": 1,
+    "timeFormat": "12",
+    "showWeekends": true,
+    "defaultShowScheduled": true,
+    "defaultShowDue": true,
+    "defaultShowDueWhenScheduled": true,
+    "defaultShowTimeEntries": true,
+    "defaultShowRecurring": false,
+    "defaultShowICSEvents": true,
+    "enableTimeblocking": false,
+    "defaultShowTimeblocks": true,
+    "nowIndicator": true,
+    "selectMirror": true,
+    "weekNumbers": false,
+    "showTodayHighlight": true
+  },
+  "pomodoroWorkDuration": 25,
+  "pomodoroShortBreakDuration": 5,
+  "pomodoroLongBreakDuration": 15,
+  "pomodoroLongBreakInterval": 4,
+  "pomodoroAutoStartBreaks": true,
+  "pomodoroAutoStartWork": false,
+  "pomodoroNotifications": true,
+  "pomodoroSoundEnabled": true,
+  "pomodoroSoundVolume": 50,
+  "pomodoroStorageLocation": "plugin",
+  "enableTaskLinkOverlay": true,
+  "enableInstantTaskConvert": true,
+  "useDefaultsOnInstantConvert": true,
+  "enableNaturalLanguageInput": true,
+  "nlpDefaultToScheduled": false,
+  "inlineTaskConvertFolder": "300_ATLAS/310_✅tasks/TaskNotes_active",
+  "disableNoteIndexing": false,
+  "fieldMapping": {
+    "title": "tn☑️_title",
+    "status": "tn☑️_status",
+    "priority": "tn☑️_priority",
+    "due": "tn☑️_due",
+    "scheduled": "tn☑️_scheduled",
+    "contexts": "tn☑️_contexts",
+    "projects": "tn☑️_projects",
+    "timeEstimate": "tn☑️_timeEstimate",
+    "completedDate": "tn☑️_completedDate",
+    "dateCreated": "tn☑️_dateCreated",
+    "dateModified": "tn☑️_dateModified",
+    "recurrence": "tn☑️_recurrence",
+    "archiveTag": "tn☑️_archived",
+    "timeEntries": "timeEntries",
+    "completeInstances": "complete_instances",
+    "pomodoros": "pomodoros",
+    "icsEventId": "tn☑️_icsEventId",
+    "icsEventTag": "tn☑️_ics_event",
+    "reminders": "reminders"
+  },
+  "customStatuses": [
+    {
+      "id": "done",
+      "value": "🔴open",
+      "label": "🔴open",
+      "color": "#a8005a",
+      "isCompleted": false,
+      "order": 1
+    },
+    {
+      "id": "status-3",
+      "value": "🟡TO-DO",
+      "label": "🟡TO-DO",
+      "color": "#ffde66",
+      "isCompleted": false,
+      "order": 2
+    },
+    {
+      "id": "in-progress",
+      "value": "🟠in-progress",
+      "label": "🟠in-progress",
+      "color": "#ffad1f",
+      "isCompleted": false,
+      "order": 3
+    },
+    {
+      "id": "status-5",
+      "value": "🔶pending",
+      "label": "🔶pending",
+      "color": "#bf822b",
+      "isCompleted": false,
+      "order": 4
+    },
+    {
+      "id": "status-2",
+      "value": "✅done",
+      "label": "✅done",
+      "color": "#5cceff",
+      "isCompleted": true,
+      "order": 5
+    },
+    {
+      "id": "status-4",
+      "value": "🍍Noturgent",
+      "label": "🍍Noturgent",
+      "color": "#808080",
+      "isCompleted": false,
+      "order": 6
+    },
+    {
+      "id": "status-1",
+      "value": "💥not-doing",
+      "label": "💥not-doing",
+      "color": "#808080",
+      "isCompleted": true,
+      "order": 7
+    },
+    {
+      "id": "status-6",
+      "value": "clinical",
+      "label": "clinical",
+      "color": "#f2ffb3",
+      "isCompleted": false,
+      "order": 8
+    }
+  ],
+  "customPriorities": [
+    {
+      "id": "none",
+      "value": "none",
+      "label": "None",
+      "color": "#212121",
+      "weight": 0
+    },
+    {
+      "id": "low",
+      "value": "low",
+      "label": "Low",
+      "color": "#008ca8",
+      "weight": 1
+    },
+    {
+      "id": "normal",
+      "value": "normal",
+      "label": "Normal",
+      "color": "#c9c9c9",
+      "weight": 2
+    },
+    {
+      "id": "high",
+      "value": "high",
+      "label": "High",
+      "color": "#ff0000",
+      "weight": 3
+    }
+  ],
+  "recurrenceMigrated": true,
+  "showTrackedTasksInStatusBar": true,
+  "autoStopTimeTrackingOnComplete": true,
+  "autoStopTimeTrackingNotification": true,
+  "showProjectSubtasks": true,
+  "hideCompletedFromOverdue": true,
+  "icsIntegration": {
+    "defaultNoteTemplate": "",
+    "defaultNoteFolder": ""
+  },
+  "savedViews": [
+    {
+      "id": "mexft0hnzhuj30r97",
+      "name": "to do",
+      "query": {
+        "type": "group",
+        "id": "filter_1756502077137_4",
+        "conjunction": "or",
+        "children": [
+          {
+            "type": "condition",
+            "id": "filter_1756508250995_11",
+            "property": "status",
+            "operator": "is",
+            "value": "🔴open"
+          },
+          {
+            "type": "condition",
+            "id": "filter_1756508277883_14",
+            "property": "status",
+            "operator": "is",
+            "value": "🟡TO-DO"
+          },
+          {
+            "type": "condition",
+            "id": "filter_1756508282361_15",
+            "property": "status",
+            "operator": "is",
+            "value": "🟠in-progress"
+          }
+        ],
+        "sortKey": "due",
+        "sortDirection": "asc",
+        "groupKey": "due"
+      }
+    },
+    {
+      "id": "mexfu62xw689x3v5t",
+      "name": "Clinical",
+      "query": {
+        "type": "group",
+        "id": "filter_1756508538432_28",
+        "conjunction": "and",
+        "children": [
+          {
+            "type": "condition",
+            "id": "filter_1756508540722_29",
+            "property": "contexts",
+            "operator": "contains",
+            "value": "Clinical"
+          }
+        ],
+        "sortKey": "due",
+        "sortDirection": "asc",
+        "groupKey": "none"
+      }
+    },
+    {
+      "id": "mexfvnqulnrfn3ryo",
+      "name": "research - open",
+      "query": {
+        "type": "group",
+        "id": "filter_1756508538432_28",
+        "conjunction": "and",
+        "children": [
+          {
+            "type": "condition",
+            "id": "filter_1756508540722_29",
+            "property": "contexts",
+            "operator": "contains",
+            "value": "Research"
+          },
+          {
+            "type": "condition",
+            "id": "filter_1756508578645_31",
+            "property": "status",
+            "operator": "is-not",
+            "value": "✅done"
+          },
+          {
+            "type": "condition",
+            "id": "filter_1756508587069_32",
+            "property": "status",
+            "operator": "is-not",
+            "value": "💥not-doing"
+          }
+        ],
+        "sortKey": "due",
+        "sortDirection": "asc",
+        "groupKey": "project"
+      }
+    },
+    {
+      "id": "mexlhlissbysit7k7",
+      "name": "All due grouped by project",
+      "query": {
+        "type": "group",
+        "id": "filter_1756502077137_4",
+        "conjunction": "or",
+        "children": [],
+        "sortKey": "due",
+        "sortDirection": "asc",
+        "groupKey": "project"
+      }
+    }
+  ],
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1500
+  },
+  "lastPomodoroDate": "2025-08-29",
+  "moveArchivedTasks": true,
+  "archiveFolder": "300_ATLAS/310_✅tasks/TaskNotes_Xarchive",
+  "taskIdentificationMethod": "property",
+  "taskPropertyName": "filetype",
+  "taskPropertyValue": "☑️tasknotes_note␥",
+  "showExpandableSubtasks": true,
+  "projectSubtasksPosition": "top",
+  "subtaskChevronPosition": "right",
+  "viewsButtonAlignment": "right",
+  "enableNotifications": true,
+  "notificationType": "system",
+  "enableAPI": false,
+  "apiPort": 8080,
+  "apiAuthToken": "",
+  "webhooks": [],
+  "pomodoroHistory": [
+    {
+      "id": "1756506746594",
+      "startTime": "2025-08-29T18:32:26.594-04:00",
+      "endTime": "2025-08-29T18:32:53.536-04:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2025-08-29T18:32:26.594-04:00",
+          "endTime": "2025-08-29T18:32:53.536-04:00"
+        }
+      ]
+    }
+  ]
+}

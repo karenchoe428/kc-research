@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "300_ATLAS/380_🗓️periodicalreview/381_🌸daily/2025",
+    "template": "900_meta/910_᯽tmpl/templates/381_🌸daily_➕tmplnote.md",
+    "enabled": true,
+    "format": "YYYY-MM-DD"
+  },
+  "weekly": {
+    "format": "gggg-[W]ww",
+    "template": "900_meta/910_᯽tmpl/templates/382_🌿weeks_➕tmplnote.md",
+    "folder": "300_ATLAS/380_🗓️periodicalreview/382_🌿weeks",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-MM",
+    "template": "900_meta/910_᯽tmpl/templates/383_🪴months_➕tmplnote.md",
+    "folder": "300_ATLAS/380_🗓️periodicalreview/383_🪴months",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "YYYY",
+    "template": "900_meta/910_᯽tmpl/templates/384_🌳planning_yearly_➕tmplnote.md",
+    "folder": "300_ATLAS/380_🗓️periodicalreview/384_🌳planning",
+    "enabled": true
+  }
+}
