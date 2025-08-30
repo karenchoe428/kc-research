@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "about karen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "about karen"
             }
           }
         ]
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md",
+                "file": "about karen.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of about"
+              "title": "Outline of about karen"
             }
           },
           {
@@ -334,7 +334,6 @@
       "iconic:Open rulebook": false,
       "obsidian-kanban:Create new board": false,
       "local-backup:Run local backup": false,
-      "periodic_note␥s:Open today": false,
       "quickadd:QuickAdd": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
@@ -352,11 +351,15 @@
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
       "tasknotes:Create new task": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "periodic_note␥s:Open today": false
     }
   },
   "active": "89afd7927dc44989",
   "lastOpenFiles": [
+    "_drafts/post-draft.md",
+    "README.md",
+    "_pages/about.md",
     "_pages/404.md",
     "about karen.md",
     "000-🏡Home.md",
@@ -380,9 +383,6 @@
     "700_therapy-counseling-HSS/720_clients/725_session_notes/❀ChCe 2025-09-05.md",
     "700_therapy-counseling-HSS/720_clients/725_session_notes/❀ChCe 2025-08-29.md",
     "900_meta/900_meta_⌖dashboard.md",
-    "300_ATLAS/340_✏️basic/PATH OUD 7-2 Coding notes.md",
-    "400_KNOWLEDGE/410_🧲zotero/Collier2022TellingStoryIntersectional.md",
-    "400_KNOWLEDGE/410_🧲zotero/Eschliman2023RelationalConceptualizationStructural.md",
     "300_ATLAS/310_✅tasks/Task plugin",
     "900_meta/970_backlinked/attachments/Trainings and certificates 2025-08-28 (Henry Street, Counseling)-1756507643056.png",
     "900_meta/970_backlinked/attachments/Trainings and certificates 2025-08-28 (Henry Street, Counseling)-1756507623788.png",

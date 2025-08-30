@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "about karen",
+      "path": "about karen.md"
+    },
+    {
+      "basename": "post-draft",
+      "path": "_drafts/post-draft.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "about",
       "path": "_pages/about.md"
     },
     {
       "basename": "404",
       "path": "_pages/404.md"
-    },
-    {
-      "basename": "about karen",
-      "path": "about karen.md"
     },
     {
       "basename": "Untitled 1",
@@ -191,14 +199,6 @@
     {
       "basename": "315_tasknotes_➕tmplnote",
       "path": "900_meta/910_᯽tmpl/templates/315_tasknotes_➕tmplnote.md"
-    },
-    {
-      "basename": "respond to alex email",
-      "path": "300_ATLAS/310_✅tasks/TaskNotes_active/respond to alex email.md"
-    },
-    {
-      "basename": "Trainings and certificates 2025-08-28 (Henry Street, Counseling)",
-      "path": "300_ATLAS/340_✏️basic/Trainings and certificates 2025-08-28 (Henry Street, Counseling).md"
     }
   ],
   "omittedPaths": [],
